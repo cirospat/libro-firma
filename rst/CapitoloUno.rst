@@ -109,134 +109,16 @@ della Commissione, in particolare:
  - esaminare l'esistenza di possibili interventi di
    razionalizzazione della spesa nel settore delle ICT.
 
-Alla luce dei compiti istitutivi, **l’obiettivo della Commissione
-Parlamentare d’inchiesta è stato quello di indagare l’effettivo livello
-di digitalizzazione e innovazione del settore pubblico del nostro Paese,
-verificando se le risorse stanziate fossero sufficienti, quali fossero
-le ragioni del divario fra l’Italia e gli altri Paesi europei e
-soprattutto quali risultati avessero ottenuto gli investimenti.** Dalle
-audizioni e dallo studio della mole documentale è emerso un quadro
-complesso, nel quale **è stato difficoltoso persino stimare precisamente i
-costi della spesa per le tecnologie dell’informazione e della
-comunicazione.** In sede di premessa appare tuttavia opportuno evidenziare
-come, **a fronte di un’abbondante produzione legislativa in materia,
-spesso le pubbliche amministrazioni si siano dimostrate pervicacemente
-inadempienti**, come riscontrato, ad esempio, riguardo alle mancate nomine
-dei responsabili della trasformazione digitale e del difensore civico
-digitale previsti dall’articolo 17 del Codice dell’Amministrazione
-Digitale, approvato con il decreto legislativo n. 82 del 7 marzo 2005.
+bla.
   
 1.2 Gli strumenti dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-La presente relazione è stata elaborata a conclusione delle attività
-della Commissione parlamentare d'inchiesta sul livello di
-digitalizzazione e innovazione delle pubbliche amministrazioni e sugli
-investimenti complessivi riguardanti il settore delle tecnologie
-dell'informazione e della comunicazione. La determinazione della
-Commissione ad approfondire questo tema con audizioni ed acquisizioni
-documentali è scaturita, in conformità con le prescrizioni della
-delibera istitutiva, dall’assunto che lo sviluppo e il rilancio di
-un’economia intelligente, sostenibile e solidale dell’Europa,
-finalizzato a conseguire elevati livelli di occupazione, produttività e
-coesione sociale, sia strettamente legato alla sua crescita digitale.
+bla.
 
 1.2.1 Le audizioni e i soprallughi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Le audizioni svoltesi nel corso delle sedute plenarie sono state
-finalizzate ad abbracciare l’intero arco dei temi posti ad oggetto
-dell’inchiesta, e possono distinguersi in quelle di carattere generale e
-in quelle concernenti settori o problematiche specifici, benché
-naturalmente, in questa seconda tipologia siano stati affrontati anche
-profili di carattere trasversale. L’elenco completo di tutte le
-audizioni e dei relativi partecipanti può essere consultato al capitolo
-7, tra gli allegati della relazione. 
+bla. 
 
 .. note::
-
-   Dall’inizio della sua attività, la Commissione ha svolto finora 66 audizioni, alle quali hanno partecipato 125 invitati. Inoltre, la
-   Commissione ha effettuato un solo sopralluogo, presso il centro di elaborazione dati di Sogei a Roma.
-
-1.2.2 Le acquisizioni di documenti
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-La Commissione ha acquisito una grande mole di documentazione durante le
-audizioni e mediante richieste dirette a enti pubblici e privati, e, fin
-dal suo insediamento ha innovato le prassi, passando ad una modalità
-*digital first*. Si è richiesta infatti documentazione esclusivamente in
-formato digitale, costruendo di conseguenza un archivio digitale con
-livelli differenziati di accesso. Le comunicazioni con le pubbliche
-amministrazioni sono avvenute sempre tramite apposito indirizzo di posta
-elettronica certificata.
-
-I maggiori comuni italiani sono stato invitati a compilare ad un
-questionario on line sull’attuazione del `CAD <http://cad.readthedocs.io/it/ver_2017-12-13/index.html>`_, i cui risultati sono stati
-elaborati in forma aggregata per confrontarli con quelli emersi dalle
-audizioni dei ministeri e di alcune regioni.
-
-L’accesso ai documenti dell’archivio da parte dei commissari, nonché la
-documentazione necessaria per le audizioni, distribuita usando le
-applicazioni GeoCamera e Filr, sono stati messi a disposizione con il
-supporto del Servizio Informatica della Camera dei deputati. I documenti
-dichiarati liberi sono stati pubblicati sul sito della Camera.
-
-.. note::
-  L’attività della Commissione rappresenta la prima esperienza
-  completamente *paperless* nella storia dell’amministrazione della Camera.
-
-1.2.3 La relazione
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-La relazione, elaborata ai sensi dell’articolo 2, comma 5 della delibera
-istitutiva, è articolata in più parti:
-
- - nel presente capitolo si spiegano i presupposti e le finalità sui
-   quali si è sviluppato il lavoro della Commissione d’inchiesta;
- - nel `secondo capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloDue.html>`_
-   si forniscono informazioni riguardo al contesto
-   normativo europeo e nazionale, con particolare attenzione agli
-   obiettivi dell’agenda digitale europea e italiana ed i recenti
-   interventi legislativi in materia;
- - il `terzo capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloTre.html>`_
-   tratta dell’**analisi della spesa per l’informatica
-   nella pubblica amministrazione**, mostra e spiega i grafici relativi
-   alle gare d’appalto per l’ICT e prende in esame il caso della
-   convenzione di telefonia Mobile 6;
- - nel `quarto capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloQuattro.html>`_
-   si sono affrontati alcuni temi che presentano
-   particolari criticità: quello relativo al rispetto del **Codice
-   dell’Amministrazione digitale** da parte delle pubbliche
-   amministrazioni, lo stato di avanzamento del progetto sull’**Anagrafe
-   Nazionale della Popolazione Residente (ANPR)**, il **Sistema Informativo
-   Agricolo Nazionale (SIAN)**, **la gestione informatica della mobilità dei
-   docenti (MIUR)** e il **sistema informativo dei profughi**. Le audizioni su
-   queste questioni hanno messo in evidenza alcune delle criticità della
-   digitalizzazione, in relazione alla carenza di competenze nei ruoli
-   apicali delle pubbliche amministrazioni, all’eccessivo peso degli
-   intermediari nella risoluzione dei problemi, al difficile rapporto
-   fra monopoli e libero mercato e alla difficoltà nel controllare e
-   verificare la qualità dei progetti e l’efficacia dei risultati
-   ottenuti; 
- - nel `quinto capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloCinque.html>`_
-   si è presentata una raccolta di alcune **best
-   practice esistenti**, emerse in particolare nei casi della **Provincia
-   di Trento**, del **sistema di vendor rating dell’Inail** e dell’**Agenzia
-   veneta dei pagamenti in agricoltura (AVEPA)**, che hanno messo in luce
-   come la digitalizzazione migliori dove esistono adeguate
-   professionalità, oltre a indicatori e misurazioni che facilitano il
-   controllo dei risultati;
- - il `sesto capitolo <http://relazione-commissione-digitale.readthedocs.io/it/latest/CapitoloSei.html>`_ è dedicato alle **conclusioni del lavoro della
-   Commissione** e ai suggerimenti scaturiti dalle riflessioni dei
-   commissari, sulla base delle informazioni raccolte;
- - Il settimo capitolo è composto da alcuni documenti allegati e
-   richiamati nella relazione, oltre che dall’elenco delle 67 audizioni
-   e dei 127 invitati ascoltati dalla commissione.
-   
-   
-  .. important::
-     Abbiamo raccolto in un elenco `tutte le audizioni svolte <https://relazione-commissione-digitale.readthedocs.io/it/latest/Audizioni.html>`_ (elenco aggiornato al mese di ottobre 2017), inserendo, per ciascuna          
-     audizione, il relativo pdf del resoconto stenografico.
-
-   
-   NOTE
-   
 
