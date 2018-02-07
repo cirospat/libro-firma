@@ -31,8 +31,8 @@ bla <https://ec.europa.eu/digital-single-market/en/desi>`_, l’indice che anali
 Bla:
 
  - bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.
- bla.bla.bla.bla.bla.bla.bla.vbla.bla.bla.bla.
- bla.bla.bla.
+   bla.bla.bla.bla.bla.bla.bla.vbla.bla.bla.bla.
+   bla.bla.bla.
  - effettuare una comparazione tra la spesa pubblica nel settore
    delle ICT nei maggiori Paesi europei e l'Italia, nonché un'analisi
    sulle tendenze in atto;
