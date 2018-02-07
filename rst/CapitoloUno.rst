@@ -10,7 +10,7 @@ Cap. 1 | Prefazione, ovvero lavoro ↴
 Sono consapevole della quantità di carta che si utilizza per la redazione di ogni singolo atto amministrativo, del livello di penetrazione del digitale negli uffici e nelle persone, e del livello di accettazione del digitale, di quante stanze attraversano i fogli di carta sui quali vengono apposte le firme a penna per essere alla fine scansionate e pubblicate online. I fogli di carta firmati e i software, rappresentano oggi — in sintesi — i punti nodali dei processi amministrativi ai quali lavorano migliaia di dipendenti e dirigenti pubblici ogni giorno in Italia.
 
 
-bla <https://ec.europa.eu/digital-single-market/en/desi>`_,  
+https://ec.europa.eu/digital-single-market/en/desi  
 
 `Rapporto sull’\ e-government 2017 <https://www.bemresearch.it/report/e-government/>`_, 
 
