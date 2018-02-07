@@ -54,6 +54,15 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software
    gestionale.
 
+.. WARNING::
+   **Pillole curative**
+   
+   **Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
+   La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato      che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
+   formato di visualizzazione o di download. 
+   La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa
+   amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software
+   gestionale.
 
 3.3 La Firma (digitale / a penna)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -66,9 +75,11 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 
 Nella gestione del processo amministrativo abbiamo visto la costruzione della relazione della deliberazione grazie a: software per l’editing, carta, stampante per stampare la relazione e i suoi modelli, scanner per scansionare carta stampata e quindi firmata a penna, software per pubblicare online sia file digitali nativi (quindi in formato aperto) che carta scansionata (pdf immagine, cioè un formato chiuso).
 
-.. [pillole curative] **Paywox è la società titolare del servizio**.
 |
 |
+
+
+
 
 .. figure:: imgrel/fig1.png
    :alt: Figura 1
