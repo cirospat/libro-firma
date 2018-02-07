@@ -13,12 +13,12 @@ Oggi molte  Pubbliche Amministrazioni lavorano contemporaneamente **con la carta
 il digitale con il file e l’analogico con la carta, insieme nella PA (immagine lic CCO pubblico dominio)
 
 
-## Perchè? 
+**Perchè?**
 
 Perché ancora oggi una PA, come ad es. un comune, non interroga le sue banche dati diffuse nei vari dipartimenti/settori/aree per ottenere dati sull'anagrafe, sullo status fiscale, tributario, ecc., ma chiede frequentemente allo stesso cittadino un documento che la PA stessa detiene nei suoi uffici dislocati nel territorio.
 
 
-## Oppure accade che se richiedo online
+**Oppure accade che se richiedo online**  
 
 all’INPS l’ottenimento del bonus asilo nido, mi si chiede di inoltrare, nell’applicativo, la ricevuta dell’iscrizione all’asilo nido comunale, informazione/dato che una PA (l’INPS) dovrebbe ottenere da un altra PA (il Comune) consultando direttamente un database comunale, senza scomodare il cittadino. In pratica i comuni dovrebbero rendere disponibili le loro banche dati per la consultazione di altre PA, come in questo caso l’INPS, ma anche dell’Azienda Sanitaria, ad esempio, per la verifica e riscontro (da parte dell’Asilo Comunale) delle vaccinazioni obbligatorie effettuate, per l’ammissione del bambino in classe.
 
