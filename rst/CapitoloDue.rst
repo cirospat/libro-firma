@@ -23,10 +23,28 @@ Perché ancora oggi una PA, come ad es. un comune, non interroga le sue banche d
 all’INPS l’ottenimento del bonus asilo nido, mi si chiede di inoltrare, nell’applicativo, la ricevuta dell’iscrizione all’asilo nido comunale, informazione/dato che una PA (l’INPS) dovrebbe ottenere da un altra PA (il Comune) consultando direttamente un database comunale, senza scomodare il cittadino. In pratica i comuni dovrebbero rendere disponibili le loro banche dati per la consultazione di altre PA, come in questo caso l’INPS, ma anche dell’Azienda Sanitaria, ad esempio, per la verifica e riscontro (da parte dell’Asilo Comunale) delle vaccinazioni obbligatorie effettuate, per l’ammissione del bambino in classe.
 
 **Per via della non condivisione dei dati tra diversi uffici** 
+
 il processo è del tipo: digitale → analogico → digitale. Questa doppia modalità di processare il lavoro quotidiano comporta perdita di tempo e spreco di risorse. Non è sano sicuramente lavorare in questo modo soprattutto per il dipendente e il dirigente pubblico, e il cittadino ci perde in termini di numero di giorni di attesa per il servizio richiesto. In pratica lo facciamo da quando il PC è entrato nelle stanze degli uffici pubblici.
 
 **Abbiamo superato l’era della macchina da scrivere** 
+
 ma non viviamo pienamente l’era del personal computer. Spesso usiamo il pc come macchina da scrivere e le stampanti presenti in ogni stanza della PA completano il lavoro che svolgeva da sola la macchina da scrivere. Così sembra che la macchina da scrivere sia più innovativa del PC.
+
+**Il software è usato per gestire una parte del processo: 
+la costruzione del documento informatico con l’attività di editing,
+la stampa del documento informatico (con il software di stampa),
+la scansione del documento informatico preventivamente stampato (da carta a file),
+la pubblicazione online del documento informatico,
+l’invio via email del documento informatico.
+
+L’hardware (pc + scanner + stampante) è usato per gestire anche la “fisicità” del ciclo di vita del processo:
+la stampa del documento informatico (da file a carta),
+la scansione del documento informatico (da carta preventivamente generata da un file e poi stampata, di nuovo a file).
+
+L’armadietto, infine, è usato per gestire anche una parte fisica del processo:
+la conservazione cartacea del documento informatico prima scansionato (perchè ci sono le firme a penna) e poi stampato. 
+
+In tante stanze della PA ancora non si accetta “culturalmente” il formato digitale del file come documento originale (to CAD or not to CAD, this is the question)!
 
 ------------
 
