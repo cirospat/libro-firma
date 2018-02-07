@@ -1,51 +1,28 @@
 =============================================================================
-Cap. 1 | introduzione
+Cap. 1 | Prefazione, ovvero lavoro ↴
 =============================================================================
 
-ABSTRACT | *bla.*
+**in un grande amministrazione territoriale d’Italia da 28 anni. Ho i rudimenti di come funziona una PA dal suo interno, il modo (i processi) con il quale si lavora per erogare un servizio al cittadino, o per arrivare alla pubblicazione di un atto amministrativo con il quale si decide qualcosa per il governo del territorio.**
  
 
-1.1 Le finalità dell'inchiesta
+1.1 Macchine da scrivere nel 2018
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-bla <https://ec.europa.eu/digital-single-market/en/desi>`_, l’indice che analizza la connettività, il capitale umano, l’uso di Internet, l’integrazione degli strumenti digitali in ambito aziendale e la digitalizzazione della pubblica amministrazione. **L’ultima rilevazione posiziona il nostro Paese al 25° posto.** 
+Sono consapevole della quantità di carta che si utilizza per la redazione di ogni singolo atto amministrativo, del livello di penetrazione del digitale negli uffici e nelle persone, e del livello di accettazione del digitale, di quante stanze attraversano i fogli di carta sui quali vengono apposte le firme a penna per essere alla fine scansionate e pubblicate online. I fogli di carta firmati e i software, rappresentano oggi — in sintesi — i punti nodali dei processi amministrativi ai quali lavorano migliaia di dipendenti e dirigenti pubblici ogni giorno in Italia.
+
+
+bla <https://ec.europa.eu/digital-single-market/en/desi>`_,  
 
 `Rapporto sull’\ e-government 2017 <https://www.bemresearch.it/report/e-government/>`_, 
 
-**bla** 
 
 .. note::
 
    bla
 
-Bla:
-
- - bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.bla.
-   bla.bla.bla.bla.bla.bla.bla.vbla.bla.bla.bla.
-   bla.bla.bla.
- - effettuare una comparazione tra la spesa pubblica nel settore
-   delle ICT nei maggiori Paesi europei e l'Italia, nonché un'analisi
-   sulle tendenze in atto;
- - esaminare, anche verificando i titoli di studio e il livello di
-   competenza dei diversi responsabili del settore delle ICT nelle
-   pubbliche amministrazioni, lo stato di informatizzazione attuale e
-   il livello di dotazione tecnologica raggiunto dalle pubbliche
-   amministrazioni statali, regionali e locali, con riferimento, tra
-   l'altro, al livello di reingegnerizzazione e automazione dei
-   processi e dei procedimenti amministrativi, all'utilizzo di software
-   open source, all'apertura dei dati e al loro utilizzo,
-   all'interoperabilità e all'interconnessione delle banche di dati, al
-   livello di sicurezza e allo stato di attuazione del disaster
-   recovery e al livello di accettazione di pagamenti elettronici;
- - monitorare il livello di digitalizzazione e di investimento nelle
-   singole realtà regionali;
- - esaminare l'esistenza di possibili interventi di
-   razionalizzazione della spesa nel settore delle ICT.
-
-bla.
   
-1.2 Gli strumenti dell'inchiesta
+1.2 Ecografia
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-bla.
+Non entro in merito a ciò che prevede dettagliatamente  la norma “madre” di settore: il CAD (Codice dell’Amministrazione Digitale). Mi soffermo su aspetti più pratici legati alla dimensione dell’esperienza vissuta da diversi dipendenti e dirigenti pubblici nella gestione dei processi che portano al perfezionamento degli atti amministrativi e all'erogazione di un servizio pubblico. Focalizzo l’attenzione sugli aspetti legati alle cose che si fanno ogni giorno (come lavoro) in molte stanze della PA e del modo in cui si fanno queste cose. Con un occhio anche a come si dovrebbero fare, secondo un Agenda Digitale nazionale. E ogni tanto rilascio qualche piccola pillola curativa che penso possa servire a migliorare lo stato “digitale” del paziente PA :-)
 
 1.2.1 Le audizioni e i soprallughi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
