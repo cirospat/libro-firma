@@ -7,11 +7,11 @@ Oggi molte  Pubbliche Amministrazioni lavorano contemporaneamente **con la carta
 2.1 La società post moderna, dalla dimensione materiale a quella immateriale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: macchine_fotografiche.png
-   :alt: 
+.. figure:: "_imgrel/macchine_fotografiche.png"
+   :alt: **il digitale con il file e l’analogico con la carta, insieme nella PA** (immagine lic CCO pubblico dominio)
    :align: center
    
-   **il digitale con il file e l’analogico con la carta, insieme nella PA** (immagine lic CCO pubblico dominio)
+   
 
 ------------
 
