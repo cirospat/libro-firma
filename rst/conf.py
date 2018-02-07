@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = u"Relazione Commissione Digitale"
-settings_copyright_year = '2017'
+settings_project_name = u"Relazione prova cirospat"
+settings_copyright_year = '2018'
 settings_copyright_name = ''
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'cad'
+settings_basename = 'PA'
 settings_file_name = 'index'
 
 
@@ -104,7 +104,7 @@ else:
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "_images/governo.png"
+html_logo = "_images/membro_ods.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -190,7 +190,7 @@ latex_documents = [
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-latex_logo = "_images/governo.png"
+latex_logo = "_images/membro_ods.png"
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
