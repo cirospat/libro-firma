@@ -43,7 +43,7 @@ il processo più o meno classico necessario da gestire in molti comuni (le azion
 
 A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo esempio) **è perfezionato**, cioè con la pubblicazione online (di solito in formato PDF) si è concluso il ciclo di vita dell’atto amministrativo. E’ il momento in cui inizia l’efficacia dell’atto amministrativo, cioè si attua ciò che è stato deciso con la Deliberazione .
 
-.. important::
+.. important:: Pillole curative
    **Pillole curative: Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
    La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato      che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
    formato di visualizzazione o di download. 
@@ -59,6 +59,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    :alt: firma digitale analogica
    :align: center
 
+Nella gestione del processo amministrativo abbiamo visto la costruzione della relazione della deliberazione grazie a: software per l’editing, carta, stampante per stampare la relazione e i suoi modelli, scanner per scansionare carta stampata e quindi firmata a penna, software per pubblicare online sia file digitali nativi (quindi in formato aperto) che carta scansionata (pdf immagine, cioè un formato chiuso).
 
 |
 |
