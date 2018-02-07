@@ -10,7 +10,8 @@ Oggi molte  Pubbliche Amministrazioni lavorano contemporaneamente **con la carta
 .. figure:: imgrel/macchine_fotografiche.png
    :alt: il digitale con il file e l’analogico con la carta, insieme nella PA (immagine lic CCO pubblico dominio)
    :align: center
-      
+il digitale con il file e l’analogico con la carta, insieme nella PA (immagine lic CCO pubblico dominio)
+
 ------------
 
 2.1.1 La dimensione materiale, tutto ha un costo
