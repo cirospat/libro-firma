@@ -6,13 +6,17 @@ Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l�
 ------------
 
 
-3.1 I dati di contesto dei costi dell’ICT nella pubblica amministrazione
+3.1 L’analisi dei processi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il Pi
+L’analisi dei processi è la prima attività da svolgere prima di pensare di acquistare software per rendere in formato digitale il processo stesso. Il processo è la descrizione chiara, puntuale e dettagliata, nei vari passaggi, di come si svolge il lavoro nell'intero ciclo di vita dell’atto amministrativo.
+
+**Mi spiego meglio**
+
+l’azione della Pubblica Amministrazione si attua con la costruzione, gestione e perfezionamento (pubblicazione/invio) dell’atto amministrativo. L’atto amministrativo si concretizza con un documento quale: la deliberazione, il decreto, la determinazione dirigenziale/sindacale, l’ordinanza, il nulla osta, la certificazione, la licenza, ecc., cioè quell’atto che ha efficacia sul territorio verso i soggetti cui è diretto.
 
 ------------
    
-
+**Per gestire interamente il ciclo di vita dell’atto amministrativo è necessario costruire il processo, cioè descrivere e rappresentare chiaramente l’elenco delle cose da fare dall'inizio alla fine, e l’elenco degli uffici che devono trattare una parte dell’atto.**
 
 ------------
 
@@ -25,14 +29,7 @@ Nell
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Il domi
 - SERVIZI DI MANUTENZIONE E RIPARAZIONE DI SOFTWARE
-- SERVIZI DI ASSISTENZA INFORMATICA E DI SUPPORTO SERVIZI DI SVILUPPO DI SOFTWARE PERSONALIZZATI SERVIZI DI ASSISTENZA SOFTWARE
-- SERVIZI DI SVILUPPO DI SOFTWARE
-- SERVIZI TELEFONICI E DI TRASMISSIONE DATI
-- SERVIZI DI ASSISTENZA TECNICA INFORMATICA
-- MANUTENZIONE DI SOFTWARE DI TECNOLOGIA DELL'INFORMAZIONE SERVIZI CONNESSI AL SOFTWARE
-- SERVIZI DI GESTIONE CONNESSI ALL'INFORMATICA
-- SERVIZI DI FORNITURA DI SOFTWARE            
-
+- 
 
 |
 |
