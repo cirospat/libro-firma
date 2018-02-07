@@ -21,9 +21,19 @@ l’azione della Pubblica Amministrazione si attua con la costruzione, gestione 
 
 ------------
 
-3.2 L'analisi delle gare d'appalto
+3.2 Esempio, se bisogna produrre, come atto amministrativo, una Deliberazione di Giunta Comunale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Nell
+il processo più o meno classico necessario da gestire in molti comuni (le azioni da compiere) è il seguente:
+
+- il dirigente dispone (nota/email) al funzionario collaboratore di redigere (scrivere, editare) una relazione che motivi la necessità di adottare una deliberazione di Giunta
+- il funzionario costruisce (con un applicativo o editor di testo) la relazione della deliberazione e quando pronta la sottopone alla valutazione del dirigente (per email, oppure a volte stampata e fatta leggere su carta)
+- il dirigente condivide la relazione del funzionario, apportando ove ritenuto necessario correzioni (sullo stesso applicativo gestionale usato dal funzionario o sulla carta stampata che gli ha portato il funzionario)
+- il dirigente firma (in alcune PA digitalmente in altre con la penna), per le parti in cui è responsabile
+- l’ufficio proponente l’atto amministrativo effettua la protocollazione (protocollo informatico in alcune PA agganciato all’editor di testo e in altre PA no) e invia la deliberazione (a volte formato cartaceo) all'ufficio di ragioneria per acquisire (ove previsto) i visti di regolarità contabile
+- l’ufficio di ragioneria appone, se necessario, il visto di regolarità contabile (in alcune PA firmando con penna, in altre PA, con firma digitale) e invia la deliberazione all'Ufficio deliberazioni per sottoporre l’atto amministrativo alla valutazione e approvazione della Giunta 
+- l’ufficio deliberazioni predispone l’atto deliberativo all’ordine del giorno dei lavori della Giunta (in alcune PA con applicativo ad hoc, in altre PA costruendo la pila di carta)
+- la Giunta si riunisce e approva l’atto deliberativo, apportandone, se ritenuto collegialmente necessario, modifiche e integrazioni (con la penna o con applicativi gestionali)
+- l’ufficio deliberazioni cataloga la deliberazione. In alcune PA scansiona i fogli di carta della stessa deliberazione e pubblica il formato pdf derivato (formato immagine e quindi non aperto) sull'albo pretorio online, in altre PA viene pubblicato il formato digitale in formato aperto dell’atto (pdf/a, odt, html, …).
 
 
 3.2.1 Il dominio dei dati
