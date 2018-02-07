@@ -5,6 +5,7 @@ Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l�
 .. figure:: imgrel/cosa_dici_willis.PNG
    :alt: cosa dici willis
    :align: center
+   
 https://youtu.be/YrhvZ0bDvXk
 
 ------------
@@ -57,7 +58,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 .. figure:: imgrel/firma_digitale.png
    :alt: firma digitale analogica
    :align: center
-- 
+
 
 |
 |
