@@ -31,20 +31,22 @@ il processo è del tipo: digitale → analogico → digitale. Questa doppia moda
 ma non viviamo pienamente l’era del personal computer. Spesso usiamo il pc come macchina da scrivere e le stampanti presenti in ogni stanza della PA completano il lavoro che svolgeva da sola la macchina da scrivere. Così sembra che la macchina da scrivere sia più innovativa del PC.
 
 **Il software è usato per gestire una parte del processo: 
-la costruzione del documento informatico con l’attività di editing,
-la stampa del documento informatico (con il software di stampa),
-la scansione del documento informatico preventivamente stampato (da carta a file),
-la pubblicazione online del documento informatico,
-l’invio via email del documento informatico.
+- la costruzione del documento informatico con l’attività di editing,
+- la stampa del documento informatico (con il software di stampa),
+- la scansione del documento informatico preventivamente stampato (da carta a file),
+- la pubblicazione online del documento informatico,
+- l’invio via email del documento informatico.
 
 L’hardware (pc + scanner + stampante) è usato per gestire anche la “fisicità” del ciclo di vita del processo:
-la stampa del documento informatico (da file a carta),
-la scansione del documento informatico (da carta preventivamente generata da un file e poi stampata, di nuovo a file).
+
+- la stampa del documento informatico (da file a carta),
+- la scansione del documento informatico (da carta preventivamente generata da un file e poi stampata, di nuovo a file).
 
 L’armadietto, infine, è usato per gestire anche una parte fisica del processo:
-la conservazione cartacea del documento informatico prima scansionato (perchè ci sono le firme a penna) e poi stampato. 
 
-In tante stanze della PA ancora non si accetta “culturalmente” il formato digitale del file come documento originale (to CAD or not to CAD, this is the question)!
+- la conservazione cartacea del documento informatico prima scansionato (perchè ci sono le firme a penna) e poi stampato. 
+
+**In tante stanze della PA ancora non si accetta “culturalmente” il formato digitale del file come documento originale (to CAD or not to CAD, this is the question)!**
 
 ------------
 
