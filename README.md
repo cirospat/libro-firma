@@ -1,4 +1,4 @@
-# relazionecommissionedigitale-docs
-Relazione Commissione Digitale Documentation
+# Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizidigitali?
+un report per capire meglio la PA nel suo cammino verso il digitale
 
-Relazione della Commissione Parlamentare d'Inchiesta sulla Digitalizzazione e l'Innovazione della Pubblica Amministrazione.
+Riflessioni di Ciro Spataro.
