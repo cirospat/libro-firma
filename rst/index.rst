@@ -2,12 +2,13 @@
 Prova di Ciro Spataro con Read The Docs
 *****
 
-*smanettando smanettando si ci arriva
-*araciu araciu
+smanettando smanettando si ci arriva
+
+araciu araciu
 
 ------------
 
-- `ho forkato il progetto github di <https://relazione-commissione-digitale.readthedocs.io>`_
+- `ho forkato il progetto github di "Relazione Commissione Digitale"<https://relazione-commissione-digitale.readthedocs.io>`_
 
 
 ------------
