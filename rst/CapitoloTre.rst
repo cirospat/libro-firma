@@ -40,9 +40,12 @@ il processo più o meno classico necessario da gestire in molti comuni (le azion
 A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo esempio) **è perfezionato**, cioè con la pubblicazione online (di solito in formato PDF) si è concluso il ciclo di vita dell’atto amministrativo. E’ il momento in cui inizia l’efficacia dell’atto amministrativo, cioè si attua ciò che è stato deciso con la Deliberazione .
 
 .. important::
-**Pillole curative: Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
-La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il formato di visualizzazione o di download. 
-La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software gestionale.
+   **Pillole curative: Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
+   La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato      che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
+   formato di visualizzazione o di download. 
+   La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa
+   amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software
+   gestionale.
 
 
 3.2.1 Il dominio dei dati
