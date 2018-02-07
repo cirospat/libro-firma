@@ -127,11 +127,15 @@ Responsabile transizione al digitale (CAD)? Data strategist/analyst? Questo lavo
    e progettate per semplificare la gestione del lavoro da fare, con un occhio al design dell’interfaccia. E molto spesso sono
    piattaforme gratuite.
    
-**Oltre all'analisi, revisionare l’intero processo nel passaggio al digitale “totale”**
+3.5 Oltre all'analisi, revisionare l’intero processo nel passaggio al digitale “totale”
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/revisione.gif
    :alt: revisione
    :align: center
+   
+   immagine di esempio: rivedere l’efficacia del flusso di tutte le attività condotte in un processo (immagine da 
+   https://imgur.com/gallery/uWVcj)
 
 
 |
@@ -142,6 +146,5 @@ Responsabile transizione al digitale (CAD)? Data strategist/analyst? Questo lavo
 
 1. **Procedura negoziata senza previa pubblicazione**, con 7198 gare, pari al 29 per cento del totale 
 2. **Affidamento in economia - cottimo fiduciario**, con 4397 gare, pari al 18 per cento del totale 
-3. **Procedura negoziata senza previa indizione di gara**, con 3257 gare, pari al 13 per cento del 
-totale 
+3. **Procedura negoziata senza previa indizione di gara**, con 3257 gare, pari al 13 per cento del totale 
 
