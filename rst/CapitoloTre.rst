@@ -9,8 +9,6 @@ Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l�
    https://youtu.be/YrhvZ0bDvXk
 
 
-------------
-
 
 3.1 L’analisi dei processi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -19,12 +17,9 @@ L’analisi dei processi è la prima attività da svolgere prima di pensare di a
 **Mi spiego meglio**
 
 l’azione della Pubblica Amministrazione si attua con la costruzione, gestione e perfezionamento (pubblicazione/invio) dell’atto amministrativo. L’atto amministrativo si concretizza con un documento quale: la deliberazione, il decreto, la determinazione dirigenziale/sindacale, l’ordinanza, il nulla osta, la certificazione, la licenza, ecc., cioè quell’atto che ha efficacia sul territorio verso i soggetti cui è diretto.
-
-------------
-   
+  
 **Per gestire interamente il ciclo di vita dell’atto amministrativo è necessario costruire il processo, cioè descrivere e rappresentare chiaramente l’elenco delle cose da fare dall'inizio alla fine, e l’elenco degli uffici che devono trattare una parte dell’atto.**
 
-------------
 
 3.2 Esempio, se bisogna produrre, come atto amministrativo, una Deliberazione di Giunta Comunale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -54,15 +49,6 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software
    gestionale.
 
-.. WARNING::
-   **Pillole curative**
-   
-   **Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
-   La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato      che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
-   formato di visualizzazione o di download. 
-   La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa
-   amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software
-   gestionale.
 
 3.3 La Firma (digitale / a penna)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -75,18 +61,55 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 
 Nella gestione del processo amministrativo abbiamo visto la costruzione della relazione della deliberazione grazie a: software per l’editing, carta, stampante per stampare la relazione e i suoi modelli, scanner per scansionare carta stampata e quindi firmata a penna, software per pubblicare online sia file digitali nativi (quindi in formato aperto) che carta scansionata (pdf immagine, cioè un formato chiuso).
 
-|
-|
+Partendo dal punto fermo che **il Protocollo Informatico nella PA è il più importante pilastro della catalogazione dei miliardi di documenti amministrativi**, può capitare, in alcune PA, che l’applicativo gestionale del protocollo sia sganciato dall’editor di testo che serve a editare i contenuti di un atto (file). Capita che i contenuti di un atto (cioè il documento informatico) vengono stampati su carta, firmati a penna e scansionati per ridiventare formato digitale (questa volta file, digitale si, ma non riusabile nè ricercabile come testo al suo interno).
+
+.. WARNING::
+**Quando il formato digitale nativo di un documento, nel 2018, diventa carta durante il ciclo di vita dell’atto amministrativo, siamo nella direzione più sbagliata per l’innovazione di processo e di servizio.**
+
+La non riusabilità di un documento in formato pdf immagine va a discapito principalmente della stessa PA che lo ha prodotto in questo formato, perchè alcuni funzionari di quella PA, mesi o anni dopo avranno esigenza di copiare parti del testo di quell’atto amministrativo per costruire un nuovo atto, e quindi non disponendo di un formato aperto (per fare un classico selezione_copia_incolla), saranno costretti a editare nuovamente (cioè copiare) un testo già scritto tempo prima da un altro ufficio, i cui dipendenti che lo avevano scritto inizialmente (e che quindi avevano il file, tipicamente word) sono migrati in altri uffici o in pensione, e quel file non si trova più.
+
+Questa è una delle tante analisi rapide che si possono fare del processo di gestione di un atto amministrativo, dove sono in azione diversi uffici che trattano (alcuni con penna, altri con software) una parte dello stesso processo.
 
 
+3.4 Processi correlati tra loro
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Capita anche che i processi non sono singoli, autonomi e separati gli uni da altri, ma alcuni processi sono in relazione ad altri processi gestiti da diversi uffici (si “incrociano”), e qui le cose si complicano. Entriamo nel territorio della **“interoperabilità”.**
 
-.. figure:: imgrel/fig1.png
-   :alt: Figura 1
+**Un esempio: 
+un ufficio per gestire un processo amministrativo propedeutico a rilasciare autorizzazioni per l’esercizio di attività commerciali, ha necessità, per legge, di accedere alle banche dati dell’ufficio anagrafe, o dei tributi per conoscere lo status del richiedente (residenza, anagrafe, status tributario). In questo caso abbiamo in gioco due o più database (quello dell’ufficio richiedente, quello dei tributi, e quello dell’ufficio anagrafe) che hanno necessità di dialogare tra loro, così da essere interrogati autonomamente da un ufficio o da un altro: quando questo dialogo esiste c’è l’interoperabilità delle banche dati e la vita si semplifica molto ai dipendenti/dirigenti della PA, e ad avvantaggiarsene è anche il cittadino e l’azienda che vedono ridotti i tempi di gestione nel rilascio del servizio richiesto.
+
+**La richiesta dei dati all'interno di una PA**.  
+Quando capita che il dialogo di dati non esiste tra i diversi database dello stesso ente pubblico, un dirigente responsabile di un database fa richiesta formale (con email, nota) al dirigente responsabile degli altri database per acquisire i dati necessari a gestire e completare il processo amministrativo che porta al perfezionamento dell’atto amministrativo di competenza (in questo esempio, il rilascio da parte di un ufficio di un autorizzazione ad un cittadino o azienda). Conseguenza: perdita di tempo nella gestione del processo interno degli uffici e nell'erogazione del servizio al cittadino. Tutti ci perdono.
+
+.. important:: 
+   **Pillole curative**
+   
+   Permettere agli applicativi l'accesso ai vari database in uso, e quindi ai dipendenti e dirigenti.
+   La "richiesta" di dati da un ufficio ad un altro rappresenta, oggi, una cattiva prassi della PA. E si ripeterà ancora per un bel po,    purtroppo, fino a quando il cittadino/azienda non entrerà nei portali online della PA con le proprie credenziali di identità 
+   digitale (SPID) per fruire dei vari servizi pubblici che lo riguardano a 360°. 
+   La situazione ideale è rappresentata dall'identità digitale del cittadino/azienda agganciata a tutti i database di quegli uffici 
+   pubblici che detengono dati che lo riguardano (anagrafe, stato civile, tributi, polizia municipale, istruzione scolastica, status
+   edilizio dell’abitazione, status di affittuario di immobili comunali, attività produttive, ecc). 
+   Per assicurare ciò è inevitabile l'interoperabilità delle banche dati degli uffici pubblici che detengono dati a vario titolo sul
+   cittadino/azienda. Un database tematico di una PA locale deve poter richiamare tutti i dati degli altri database esistenti in quella
+   specifica PA - attraverso l'uso di una corretta metadatazione - e dialogare anche con i più rilevanti database di altre PA nazionali
+   e regionali, per lo svolgimento dei compiti istituzionali relativi alle proprie competenze.
+   
+   
+3.4 Processi correlati tra loro
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: imgrel/rami_intrecciati.png
+   :alt: firma digitale analogica
    :align: center
+
+   nella foresta i rami degli alberi trovano i punti di contatto in cui scorre la stessa linfa, 
+   e nella giungla dei processi amministrativi gestiti da diversi uffici? (immagine lic. CCO pubblico dominio)
    
-   Figura 1
    
+|
+|
 |
 |
 |
