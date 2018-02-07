@@ -137,6 +137,40 @@ Responsabile transizione al digitale (CAD)? Data strategist/analyst? Questo lavo
    immagine di esempio: rivedere l’efficacia del flusso di tutte le attività condotte in un processo (immagine da 
    https://imgur.com/gallery/uWVcj)
 
+Nel momento in cui una PA decide di adottare un applicativo per gestire digitalmente tutte le fasi di lavoro, prima svolte con l’ausilio della “carta”, è necessario anche rivedere l’efficacia del flusso di tutte le attività condotte. Ciò per eliminare frequenti ridondanze tipicamente presenti soltanto per una questione dell’ **”abbiamo fatto sempre così”**.
+
+.. figure:: imgrel/abbiamofattocosi.png
+   :alt: abbiamofattocosi
+   :align: center
+   
+   abbiamo fatto sempre così e ora dobbiamo cambiare? (immagine Phèdre, Musée Fabre lic. CCO pubblico dominio)
+   
+
+**“Abbiamo fatto sempre così”**
+
+è un vero e proprio paradigma di metodologia lavorativa imperante in molti uffici pubblici, e comporta un rallentamento dei tempi di gestione del processo (e di erogazione del servizio pubblico) rispetto al “potremmo fare diversamente”. 
+
+L’interpretazione di una norma vigente da luogo all’individuazione di una metodologia di lavoro nella gestione di un processo all'interno degli uffici pubblici. Una volta adottata quella metodologia si usa per decenni, da una sicurezza psicologica al responsabile di un procedimento amministrativo e alle figure preposte alla gestione del processo, dirigente incluso.
+
+Le norme sicuramente devono essere rispettate, ma oggi è inevitabile per una PA **mettere al centro il servizio pubblico da rendere al cittadino e non, come spesso avviene, la propria complessa autoreferenzialità procedurale ed organizzativa** (ancora oggi molto “kafkiana”).
+
+.. figure:: imgrel/via_breve.png
+   :alt: via breve
+   :align: center
+   
+   `immagine ripresa da un post di Diego Piacentini <https://medium.com/team-per-la-trasformazione-digitale/nuovo-sistema-operativo-paese-competenze-tecnologiche-programmi-be0d71b3f84b>`_
+   
+**Nella digitalizzazione trova la via più breve**
+
+In questa ottica, quando si procede alla digitalizzazione dei processi di un ufficio pubblico, è necessario, nell'analisi, rivedere il ciclo di vita dei processi per ridurre, dove e se possibile, al minimo i passaggi (da ufficio a ufficio) e le ridondanze generate dal sovrapporsi di norme del passato o da consuetudini procedurali locali.
+
+Si parla di **reingegnerizzazione dei processi** e comporta prima di tutto elasticità mentale (per dirigenti innanzitutto) per vincere quell'ansia psicologica dell’ “abbiamo fatto sempre così”. E’ un fatto culturale prima che amministrativo e procedurale.
+
+**Tempi più brevi col digitale** 
+
+Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazione passano X giorni con processi misti digitale-cartaceo, domani con processi adeguatamente reingegnerizzati e totalmente trattati in digitale, dovranno passare X diviso 2 oppure X diviso 3 giorni, assicurando sempre il rispetto delle leggi nella gestione del processo da parte dell’ufficio. Se il nuovo applicativo gestionale è stato adottato dall'ufficio ma i giorni rimangono sempre X, allora o non è stata fatta un attenta analisi dei processi oppure non si è effettuata alcuna reingegnerizzazione del processo stesso, o tutte e due le cose insieme ed altro ancora.
+
+
 
 |
 |
