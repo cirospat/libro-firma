@@ -1,5 +1,5 @@
 ==================================================
-Cap. 3 | L’analisi della spesa per l’informatica nella pubblica amministrazione
+Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l’ “analisi dei processi”
 ==================================================
 
 
