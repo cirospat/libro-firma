@@ -51,7 +51,7 @@ L’armadietto, infine, è usato per gestire anche una parte fisica del processo
 
 
 .. figure:: imgrel/digitale-analogico-digitale.png
-   :alt: 
+   :alt: digitale analogico digitale
    :align: center
 elenco degli strumenti utilizzati mediamente nella gestione del processo per il perfezionamento di un atto amministrativo in diverse PA. Manca l’armadietto metallico per la conservazione del cartaceo (immagine di Ciro Spataro lic. CC BY SA)
 
