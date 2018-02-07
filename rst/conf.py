@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = u"La samba della transizione al digitale dellaa PA"
+settings_project_name = u"La samba della transizione al digitale della PA"
 settings_copyright_year = '2018'
 settings_copyright_name = ''
 settings_doc_version = 'version: latest'
