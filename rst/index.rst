@@ -1,18 +1,18 @@
 *****
-Prova di CiroSPataro con Read The Docs
+Prova di Ciro Spataro con Read The Docs
 *****
 
-*Commissione parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle Pubbliche Amministrazioni e sugli invesimenti complessivi riguardanti il settore delle tecnologie e della comunicazione* - Istituita con deliberazione della Camera dei deputati del 14 giugno 2016.
+*smanettando smanettando si ci arriva
+*araciu araciu
 
-Composta dai deputati: *Coppola,* Presidente, *Artini, Ascani, Barbanti*, Segretario, *Boccadutri, Bonaccorsi, Bruno Bossio, D’Agostino, D’Alia, Dell’Aringa, De Lorenzis, D’Incà,* Vicepresidente, *Fitzgerald Nissoli, Fragomeli,* Segretario, *Incerti, Mucci,* Vicepresidente, *Paglia, Palmieri, Rizzetto, Simonetti*
+------------
 
-*Comunicata alla Presidenza della Camera dei deputati il 26 ottobre 2017 ai sensi dell'articolo 2, comma 5, della deliberazione della Camera dei deputati del 14 giugno 2016*
+- `ho forkato il progetto github di <https://relazione-commissione-digitale.readthedocs.io>`_
 
 
 ------------
 
 - `SCARICA LA RELAZIONE IN PDF <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_ 
-- `VAI ALL'ELENCO DELLE AUDIZIONI <http://relazione-commissione-digitale.readthedocs.io/it/latest/Audizioni.html>`_ 
 
 ------------
 
