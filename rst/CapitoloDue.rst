@@ -30,7 +30,8 @@ il processo è del tipo: digitale → analogico → digitale. Questa doppia moda
 
 ma non viviamo pienamente l’era del personal computer. Spesso usiamo il pc come macchina da scrivere e le stampanti presenti in ogni stanza della PA completano il lavoro che svolgeva da sola la macchina da scrivere. Così sembra che la macchina da scrivere sia più innovativa del PC.
 
-**Il software è usato per gestire una parte del processo: 
+Il software è usato per gestire una parte del processo: 
+
 - la costruzione del documento informatico con l’attività di editing,
 - la stampa del documento informatico (con il software di stampa),
 - la scansione del documento informatico preventivamente stampato (da carta a file),
@@ -58,5 +59,5 @@ Ecco in sintesi come viene gestito oggi il processo amministrativo ancora in mol
 
 2.1.1 La dimensione materiale, tutto ha un costo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Conosciamo
+C
 
