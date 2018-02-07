@@ -1,5 +1,5 @@
 *****
-La digitalizzazione nella pubblica amministrazione italiana: analisi degli errori e valutazione delle priorità, dall’efficacia degli strumenti all’importanza del capitale umano
+Prova di CiroSPataro con Read The Docs
 *****
 
 *Commissione parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle Pubbliche Amministrazioni e sugli invesimenti complessivi riguardanti il settore delle tecnologie e della comunicazione* - Istituita con deliberazione della Camera dei deputati del 14 giugno 2016.
