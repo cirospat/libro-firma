@@ -57,7 +57,7 @@ elenco degli strumenti utilizzati mediamente nella gestione del processo per il 
 Ecco in sintesi come viene gestito oggi il processo amministrativo ancora in molte PA. Commistione  di carta e files dove all’inizio e alla fine del ciclo si trova un documento digitale (generato da editing su pc e pubblicato online o inviato via email al richiedente).
 ------------
 
-2.1.1 La dimensione materiale, tutto ha un costo
+2.1.1 xxxxxxxxxxxxxxxxxxxxx
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-C
+
 
