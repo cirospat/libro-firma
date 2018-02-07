@@ -66,6 +66,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 
 Nella gestione del processo amministrativo abbiamo visto la costruzione della relazione della deliberazione grazie a: software per l’editing, carta, stampante per stampare la relazione e i suoi modelli, scanner per scansionare carta stampata e quindi firmata a penna, software per pubblicare online sia file digitali nativi (quindi in formato aperto) che carta scansionata (pdf immagine, cioè un formato chiuso).
 
+.. [pillole curative] **Paywox è la società titolare del servizio**.
 |
 |
 
