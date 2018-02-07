@@ -18,7 +18,7 @@ della presente relazione.*
 
 1.1 Le finalità dell'inchiesta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Da anni l’Italia si trova in coda alla classifica del `Digital Economy and Society Index (DESI) <https://ec.europa.eu/digital-single-market/en/desi>`_, l’indice che analizza la connettività, il capitale umano, l’uso di Internet, l’integrazione degli strumenti digitali in ambito aziendale e la digitalizzazione della pubblica amministrazione. **L’ultima rilevazione posiziona il nostro Paese al 25° posto.** [1]_
+Da anni l’Italia si trova in coda alla classifica del `Digital Economy and Society Index (DESI) <https://ec.europa.eu/digital-single-market/en/desi>`_, l’indice che analizza la connettività, il capitale umano, l’uso di Internet, l’integrazione degli strumenti digitali in ambito aziendale e la digitalizzazione della pubblica amministrazione. **L’ultima rilevazione posiziona il nostro Paese al 25° posto.** 
 
 Sul DESI dovrebbero basarsi le politiche di tutti gli Stati
 membri in materia di digitalizzazione e connessione, con la creazione di
@@ -239,4 +239,4 @@ istitutiva, è articolata in più parti:
    
    NOTE
    
-   .. [1] ec.europa.eu/newsroom/document.cfm?doc_id=43021
+
