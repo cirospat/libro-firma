@@ -46,7 +46,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 .. important:: 
    **Pillole curative**
    
-   Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
+   **Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
    La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato      che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
    formato di visualizzazione o di download. 
    La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa
@@ -60,6 +60,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 .. figure:: imgrel/firma_digitale.png
    :alt: firma digitale analogica
    :align: center
+   la firma (e la penna), fondamenta della PA ancora oggi (immagine lic CCO pubblico dominio)
 
 Nella gestione del processo amministrativo abbiamo visto la costruzione della relazione della deliberazione grazie a: software per l’editing, carta, stampante per stampare la relazione e i suoi modelli, scanner per scansionare carta stampata e quindi firmata a penna, software per pubblicare online sia file digitali nativi (quindi in formato aperto) che carta scansionata (pdf immagine, cioè un formato chiuso).
 
