@@ -97,7 +97,7 @@ Quando capita che il dialogo di dati non esiste tra i diversi database dello ste
    e regionali, per lo svolgimento dei compiti istituzionali relativi alle proprie competenze.
    
    
-3.4 Processi correlati tra loro
+3.5 Punti di contatto tra i processi amministrativi gestiti da diversi uffici
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/rami_intrecciati.png
@@ -107,8 +107,33 @@ Quando capita che il dialogo di dati non esiste tra i diversi database dello ste
    nella foresta i rami degli alberi trovano i punti di contatto in cui scorre la stessa linfa, 
    e nella giungla dei processi amministrativi gestiti da diversi uffici? (immagine lic. CCO pubblico dominio)
    
+Ogni ufficio (funzionari, dirigenti) può essere in grado (non sempre) di fare l’analisi del processo specifico che gestisce quotidianamente per perfezionare un atto amministrativo o erogare un servizio pubblico, ma poi è **necessario trovare i punti di contatto tra i processi amministrativi gestiti da diversi uffici (in un ente pubblico) nell'espletamento delle singole competenze**. Ciò in nome dell’interoperabilità da assicurare nelle piattaforme digitali di lavoro!   
+
+Una volta condotta l’analisi di tutti i processi amministrativi gestiti in un ente pubblico, è essenziale trovare i punti di contatto tra i diversi processi, per realizzare una adeguata reingegnerizzazione (degli stessi processi) nel momento in cui si tratta di trasportarli totalmente nei software per la gestione in modalità digitale.
+
+**Chi è deputato a trovare i punti di contatto tra i diversi processi di una PA?**
+
+Responsabile transizione al digitale (CAD)? Data strategist/analyst? Questo lavoro dovrebbe essere svolto da queste figure “competenti” che stanno sopra (e hanno un ampia conoscenza de) i vari processi gestiti negli uffici. Se sono più software/piattaforme ad essere realizzati nei diversi uffici di una PA, questi software devono potere interagire tra loro per interrogare reciprocamente più banche dati, con la caratteristica, quindi, di essere interoperabili. Ne consegue che chi realizza un nuovo software per la PA deve partire, oltre che dall'analisi dei processi da gestire in digitale, anche dall'analisi delle caratteristiche dei software già esistenti e in uso negli uffici comunali, onde evitare l’effetto di piattaforme stagne non comunicanti.
+
+.. important:: 
+   **Pillole curative**
    
-|
+   Input per migliorare la produttività legata alla gestione documentale. 
+   Scambiarsi tanti file, tra colleghi, allegandoli alle email inviate, non è l'unico modo di lavorare, … non so più qual è l’ultima
+   versione di file che mi hai inviato da tenere in considerazione. Capita ogni settimana. 
+   Se non sono disponibili applicativi interni ad hoc, l'adozione di soluzioni basate sul cloud per la gestione documentale (es. Google 
+   Drive, Box, Dropbox, Onedive, ecc.) integrate a piattaforme online di interazione per la produttività (es. Slack, Trello, 
+   Wunderlist,...), ottimizza notevolmente il flusso di lavoro di gruppo. Sono piattaforme facili, alla portata di tutti perchè pensate
+   e progettate per semplificare la gestione del lavoro da fare, con un occhio al design dell’interfaccia. E molto spesso sono
+   piattaforme gratuite.
+   
+**Oltre all'analisi, revisionare l’intero processo nel passaggio al digitale “totale”**
+
+.. figure:: imgrel/revisione.gif
+   :alt: revisione
+   :align: center
+
+
 |
 |
 |
