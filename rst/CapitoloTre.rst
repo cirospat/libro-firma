@@ -2,6 +2,9 @@
 Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l’ “analisi dei processi”
 ==================================================
 
+.. figure:: imgrel/cosa_dici_willis.PNG
+   :alt: cosa dici willis
+   :align: center
 https://youtu.be/YrhvZ0bDvXk
 
 ------------
@@ -48,10 +51,12 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    gestionale.
 
 
-3.2.1 Il dominio dei dati
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Il domi
-- SERVIZI DI MANUTENZIONE E RIPARAZIONE DI SOFTWARE
+3.3 La Firma (digitale / a penna)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: imgrel/firma_digitale.png
+   :alt: firma digitale analogica
+   :align: center
 - 
 
 |
