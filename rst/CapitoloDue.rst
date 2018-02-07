@@ -7,12 +7,10 @@ Oggi molte  Pubbliche Amministrazioni lavorano contemporaneamente **con la carta
 2.1 La società post moderna, dalla dimensione materiale a quella immateriale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: _imgrel/macchine_fotografiche.png
+.. figure:: imgrel/macchine_fotografiche.png
    :alt: il digitale con il file e l’analogico con la carta, insieme nella PA (immagine lic CCO pubblico dominio)
    :align: center
-   
-   
-
+      
 ------------
 
 2.1.1 La dimensione materiale, tutto ha un costo
@@ -85,7 +83,7 @@ La Commissione ha sv
    :alt: Figura 2
    :align: center
 |
-Dalle audizion
+
 
 
 
