@@ -43,7 +43,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    **Pillole curative**
    
    **Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
-   La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato      che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
+   La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato    che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
    formato di visualizzazione o di download. 
    La disponibilità di più formati aperti rende il contenuto dell'atto amministrativo riusabile per diverse finalità utili alla stessa
    amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software
@@ -76,7 +76,7 @@ Questa è una delle tante analisi rapide che si possono fare del processo di ges
 
 Capita anche che i processi non sono singoli, autonomi e separati gli uni da altri, ma alcuni processi sono in relazione ad altri processi gestiti da diversi uffici (si “incrociano”), e qui le cose si complicano. Entriamo nel territorio della **“interoperabilità”.**
 
-**Un esempio: 
+**Un esempio**: 
 un ufficio per gestire un processo amministrativo propedeutico a rilasciare autorizzazioni per l’esercizio di attività commerciali, ha necessità, per legge, di accedere alle banche dati dell’ufficio anagrafe, o dei tributi per conoscere lo status del richiedente (residenza, anagrafe, status tributario). In questo caso abbiamo in gioco due o più database (quello dell’ufficio richiedente, quello dei tributi, e quello dell’ufficio anagrafe) che hanno necessità di dialogare tra loro, così da essere interrogati autonomamente da un ufficio o da un altro: quando questo dialogo esiste c’è l’interoperabilità delle banche dati e la vita si semplifica molto ai dipendenti/dirigenti della PA, e ad avvantaggiarsene è anche il cittadino e l’azienda che vedono ridotti i tempi di gestione nel rilascio del servizio richiesto.
 
 **La richiesta dei dati all'interno di una PA**.  
