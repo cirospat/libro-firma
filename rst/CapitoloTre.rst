@@ -46,7 +46,6 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 
 .. important:: 
    **Pillole curative**
-   
    **Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
    La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato      che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
    formato di visualizzazione o di download. 
@@ -56,7 +55,6 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
 
 .. WARNING::
    **Pillole curative**
-   
    **Propensione della pubblicazione online degli atti amministrativi in diversi formati.**
    La "pubblicazione" online degli atti della PA (quindi per lo più testo) dovrebbe avvenire non solo in formato PDF, che è il formato      che si usa nella maggior parte dei casi, ma anche in altri formati aperti quali ad esempio ODT, JSON o HTML. Tali formati dovrebbero    essere resi disponibili nelle pagine web del sito istituzionale delle PA come processo automatico: io utente scelgo dal sito web il 
    formato di visualizzazione o di download. 
