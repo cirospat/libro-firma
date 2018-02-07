@@ -7,7 +7,7 @@ Oggi molte  Pubbliche Amministrazioni lavorano contemporaneamente **con la carta
 2.1 La società post moderna, dalla dimensione materiale a quella immateriale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: imgrel/macchine_fotografiche.png
+.. figure:: https://github.com/cirospat/la-samba-digitale-della-pa/blob/master/imgrel/macchine_fotografiche.png
    :alt: Figura 1
    :align: center
    
