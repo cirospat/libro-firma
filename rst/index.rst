@@ -8,7 +8,7 @@ araciu araciu
 
 ------------
 
-- `ho forkato il progetto github di "Relazione Commissione Digitale"<https://relazione-commissione-digitale.readthedocs.io>`_
+- `ho forkato il progetto github di Relazione Commissione Digitale <https://relazione-commissione-digitale.readthedocs.io>`_
 
 
 ------------
