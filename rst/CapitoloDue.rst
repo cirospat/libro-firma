@@ -90,11 +90,3 @@ La Commissione ha sv
 2.8 Il posizionamento dell’Italia nella classifica del digitale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: imgrel/figcap2e8.png
-   :alt: Figura 2
-   :align: center
-|
-
-
-
-
