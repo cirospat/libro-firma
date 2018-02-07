@@ -48,71 +48,15 @@ L’armadietto, infine, è usato per gestire anche una parte fisica del processo
 
 **In tante stanze della PA ancora non si accetta “culturalmente” il formato digitale del file come documento originale (to CAD or not to CAD, this is the question)!**
 
+.. figure:: imgrel/digitale-analogico-digitale.png
+   :alt: digitale-analogico-digitale (immagine lic CCO pubblico dominio)
+   :align: center
+elenco degli strumenti utilizzati mediamente nella gestione del processo per il perfezionamento di un atto amministrativo in diverse PA. Manca l’armadietto metallico per la conservazione del cartaceo (immagine di Ciro Spataro lic. CC BY SA)
+
+Ecco in sintesi come viene gestito oggi il processo amministrativo ancora in molte PA. Commistione  di carta e files dove all’inizio e alla fine del ciclo si trova un documento digitale (generato da editing su pc e pubblicato online o inviato via email al richiedente).
 ------------
 
 2.1.1 La dimensione materiale, tutto ha un costo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Conosciamo
-
-------------
-   
-NOTE paragafo 2.1.1
-   
-.. [#] Costruire il domani, cit., p. 21.
-.. [#] Ibidem, p. 24
-.. [#] Ibidem, p. 25
-
-------------
-
-2.1.2 La dimensione immateriale, ciò che virtuale è molto reale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Quando si
-
-------------
-   
-NOTE 
-
-------------
-
-2.2 Il contesto normativo europeo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Un contributo . 
-
-------------
-   
-NOTE paragafo 2.2
-   
-.. [#] http://ec.europa.eu/digital-agenda/en/scoreboard
-
-
-------------
-
-2.3 L'Agenda Digitale europea, gli obiettivi di Europa 2020
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Dando seguito al: 
-
- - promuovere un quadro giuridico e normativo nuovo e più stabile, tale da incentivare gli investimenti in un’infrastruttura aperta e competitiva per la banda larga ad alta velocità; 
- - realizzare nuove infrastrutture per i servizi pubblici digitali per collegare l'Europa;
- - 
- 
-
-
-2.4 Il contesto normativo nazionale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il prim
-
-
-2.5 L’Agenda Digitale Italiana
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Sulla scia de
-------------
-
-2.7  Le tappe salienti della digitalizzazione della pubblica amministrazione
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-La Commissione ha sv
---------------
-
-2.8 Il posizionamento dell’Italia nella classifica del digitale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
