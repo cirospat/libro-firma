@@ -22,6 +22,7 @@ l’azione della Pubblica Amministrazione si attua con la costruzione, gestione 
 **Per gestire interamente il ciclo di vita dell’atto amministrativo è necessario costruire il processo, cioè descrivere e rappresentare chiaramente l’elenco delle cose da fare dall'inizio alla fine, e l’elenco degli uffici che devono trattare una parte dell’atto.**
 
 
+
 3.2 Esempio, se bisogna produrre, come atto amministrativo, una Deliberazione di Giunta Comunale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 il processo più o meno classico necessario da gestire in molti comuni (le azioni da compiere) è il seguente:
@@ -51,6 +52,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    gestionale.
 
 
+
 3.3 La Firma (digitale / a penna)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -70,6 +72,7 @@ Partendo dal punto fermo che **il Protocollo Informatico nella PA è il più imp
 La non riusabilità di un documento in formato pdf immagine va a discapito principalmente della stessa PA che lo ha prodotto in questo formato, perchè alcuni funzionari di quella PA, mesi o anni dopo avranno esigenza di copiare parti del testo di quell’atto amministrativo per costruire un nuovo atto, e quindi non disponendo di un formato aperto (per fare un classico selezione_copia_incolla), saranno costretti a editare nuovamente (cioè copiare) un testo già scritto tempo prima da un altro ufficio, i cui dipendenti che lo avevano scritto inizialmente (e che quindi avevano il file, tipicamente word) sono migrati in altri uffici o in pensione, e quel file non si trova più.
 
 Questa è una delle tante analisi rapide che si possono fare del processo di gestione di un atto amministrativo, dove sono in azione diversi uffici che trattano (alcuni con penna, altri con software) una parte dello stesso processo.
+
 
 
 3.4 Processi correlati tra loro
@@ -96,6 +99,7 @@ Quando capita che il dialogo di dati non esiste tra i diversi database dello ste
    cittadino/azienda. Un database tematico di una PA locale deve poter richiamare tutti i dati degli altri database esistenti in quella
    specifica PA - attraverso l'uso di una corretta metadatazione - e dialogare anche con i più rilevanti database di altre PA nazionali
    e regionali, per lo svolgimento dei compiti istituzionali relativi alle proprie competenze.
+   
    
    
 3.5 Punti di contatto tra i processi amministrativi gestiti da diversi uffici
@@ -127,6 +131,8 @@ Responsabile transizione al digitale (CAD)? Data strategist/analyst? Questo lavo
    Wunderlist,...), ottimizza notevolmente il flusso di lavoro di gruppo. Sono piattaforme facili, alla portata di tutti perchè pensate
    e progettate per semplificare la gestione del lavoro da fare, con un occhio al design dell’interfaccia. E molto spesso sono
    piattaforme gratuite.
+   
+   
    
 3.5 Oltre all'analisi, revisionare l’intero processo nel passaggio al digitale “totale”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
