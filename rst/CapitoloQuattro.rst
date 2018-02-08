@@ -8,9 +8,10 @@ Cap 4 | Assicurare l'“interoperabilità” degli applicativi e delle relative 
    
    (Sara Di Giorgio, resp. gruppo tecnico CulturaItalia, Ministero Beni Att. Culturali e Turismo - `slide Standard e procedure per l’interoperabilità dei contenuti <https://www.slideshare.net/culturaitalia/standard-e-procedure-per-linteroperabilit-dei-contenuti>`_)
 
-   ABSTRACT | Questa è la grande sfida, e soprattutto nelle grandi PA è un lavoro più complesso proprio per l’interrelazione che esiste tra più processi amministrativi gestiti da più uffici con più applicativi. Diventa, così, una necessità di tutti gli uffici, condividere i dati contenuti nei vari database tematici.
+|
+ABSTRACT | Questa è la grande sfida, e soprattutto nelle grandi PA è un lavoro più complesso proprio per l’interrelazione che esiste tra più processi amministrativi gestiti da più uffici con più applicativi. Diventa, così, una necessità di tutti gli uffici, condividere i dati contenuti nei vari database tematici.
    
-   Dipendenti e dirigenti svolgono quotidianamente un lavoro che rappresenta la gestione di un processo, ma può capitare che non sono abituati (o abili) a fare l’analisi del processo che gestiscono. In questi casi, l’analisi di processo tenta di farla (inevitabilmente, perchè qualcuno la deve pur fare) la software house che domanda quanto più possibile agli uffici,  cercando di capire che flusso di lavoro viene gestito quotidianamente, e proponendo software gestionali, che potrebbero, anche, non rispondere pedissequamente alle reali esigenze/necessità  lavorative dell’ufficio, oppure risultare ostici nell'espletamento delle azioni specifiche da compiere quotidianamente (interfacce non facili o troppe azioni da svolgere) per gestire il processo digitalmente.
+Dipendenti e dirigenti svolgono quotidianamente un lavoro che rappresenta la gestione di un processo, ma può capitare che non sono abituati (o abili) a fare l’analisi del processo che gestiscono. In questi casi, l’analisi di processo tenta di farla (inevitabilmente, perchè qualcuno la deve pur fare) la software house che domanda quanto più possibile agli uffici,  cercando di capire che flusso di lavoro viene gestito quotidianamente, e proponendo software gestionali, che potrebbero, anche, non rispondere pedissequamente alle reali esigenze/necessità  lavorative dell’ufficio, oppure risultare ostici nell'espletamento delle azioni specifiche da compiere quotidianamente (interfacce non facili o troppe azioni da svolgere) per gestire il processo digitalmente.
    
    
    
@@ -33,7 +34,24 @@ Se una PA fa ruotare il personale in ottemperanza ai Piani anti corruzione e se 
                                           Protocollo ↴ 
                                                          ……………
 
-------------
+Questa gerarchia dovrebbe essere applicata a tutti i database di una PA al fine di creare correlazioni automatiche nei vari ambiti di competenza, e di ridurre ridondanze e duplicazioni di dati. Conseguenza: il lavoro degli uffici viene ottimizzato per l’automatico scambio dati e la quotidiana produttività.
+
+**L’ “interoperabilità” è** 
+*«la capacità di organizzazioni diverse di interagire ……. »*
+
+.. figure:: imgrel/interoperabilita2.png
+   :alt: interoperabilità2
+   :align: center
+   
+   l’interoperabilità ne `Il livello di digitalizzazione e di innovazione nelle PA e gli investimenti nel settore ICT <http://www.camera.it/application/xmanager/projects/leg17/attachments/documenti_acquisiti_commissione/documento_pdfs/000/000/008/AL-PwC.pdf>`_  una presentazione della `COMMISSIONE PARLAMENTARE DI INCHIESTA SUL LIVELLO DI DIGITALIZZAZIONE E INNOVAZIONE DELLE PA E SUGLI INVESTIMENTI COMPLESSIVI RIGUARDANTI IL SETTORE ICT <http://www.gazzettaufficiale.it/eli/id/2016/06/20/16A04670/sg>`_
+   
+**Interoperabilità e adozione di standard ICT per evitare il fenomeno del lock-in tecnologico**
+
+.. figure:: imgrel/lockin.png
+   :alt: lockin
+   :align: center
+   
+   superare il fenomeno del lock-in — una presentazione della COMMISSIONE PARLAMENTARE DI INCHIESTA SUL LIVELLO DI DIGITALIZZAZIONE E INNOVAZIONE DELLE PA E SUGLI INVESTIMENTI COMPLESSIVI RIGUARDANTI IL SETTORE ICT
 
 4.1.1 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
