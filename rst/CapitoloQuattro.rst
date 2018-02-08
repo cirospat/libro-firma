@@ -27,6 +27,7 @@ Se una PA fa ruotare il personale in ottemperanza ai Piani anti corruzione e se 
 
    Pillole curative:
    Esempio di gerarchia dei database: 
+   
    Nome cognome ↴ 
                 Organigramma uffici ↴ 
                                     Protocollo ↴ 
