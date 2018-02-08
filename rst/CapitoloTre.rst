@@ -192,13 +192,13 @@ Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazion
    un cambiamento in termini di transizione alla modalità digitale sia per la gestione dei processi interni che per l'erogazione di
    servizi pubblici. Sarebbe interessante monitorare questa azione delle PA a livello nazionale e spero che la Commissione parlamentare
    di inchiesta sul livello di digitalizzazione della PA insieme ad AGID lo faccia, per il bene dell'intera PA italiana.
-
-un semplice schema per la strutturazione degli obiettivi nel Piano Performance delle PA utile ad attuare i contenuti del CAD
+|
+**Un semplice schema per la strutturazione degli obiettivi nel Piano Performance delle PA utile ad attuare i contenuti del CAD**
 
 .. figure:: imgrel/pianoperformance.png
    :alt: cad nel piano performance
    :align: center
-   
+|   
 **Bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
 
 .. figure:: imgrel/tuttoonline.png
