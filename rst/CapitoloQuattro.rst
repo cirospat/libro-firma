@@ -97,6 +97,9 @@ I dati in formato aperto (open data) pubblicati negli ultimi anni rappresentano 
    
    architettura di un modello per la produzione e pubblicazione dei dati pubblici in formato aperto (slide della presentazione di Gabriele Francescotto di OpenContent per l’Associazione dei Comuni Trentini ad un webinar di ForumPA) https://drive.google.com/file/d/0B9q5qob_W3NiSVlFRTdEMFNwSmJjekR5aUJBYmgwMGFKbW13/view
 
-4.4 
+|
+4.4 Il DAF, Data Analytics Framework, pannello di visualizzazione dei dati delle PA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Per 
+
+Se vogliamo provare a immaginare pannelli semplici di visualizzazione e narrazione dei dati di più PA, viene in grande aiuto il DAF, Data Analytics Framework, (oggi in versione “αlfa”) appena realizzato (ott_2017) dal Team Trasformazione Digitale dell’AgID (“partendo dai dati, interpretiamo il mondo e aiutiamo la società a prendere decisioni basate sui fatti”) e supportato da una  
+`vasta comunità attiva in Italia <https://forum.italia.it/>`_.
