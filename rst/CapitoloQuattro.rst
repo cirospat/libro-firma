@@ -2,8 +2,8 @@
 Cap 4 | Assicurare l'“interoperabilità” degli applicativi e delle relative banche dati
 ======================================================
 
-.. figure:: imgrel/firma_digitale.png
-   :alt: firma digitale analogica
+.. figure:: imgrel/interoperabilita.png
+   :alt: interoperabilità
    :align: center
    
    (Sara Di Giorgio, resp. gruppo tecnico CulturaItalia, Ministero Beni Att. Culturali e Turismo - `slide Standard e procedure per l’interoperabilità dei contenuti <https://www.slideshare.net/culturaitalia/standard-e-procedure-per-linteroperabilit-dei-contenuti>`_)
