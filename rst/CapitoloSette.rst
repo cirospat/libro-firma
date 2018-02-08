@@ -1,5 +1,6 @@
 ================================================
-Cap 7 | Elenco degli allegati
+Cap 7 | xxxxx
 ================================================
 
-Per gli allegati si rimanda alla relativa sezione in `pdf <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_
+
+`pdf <http://www.camera.it/_dati/leg17/lavori/documentiparlamentari/IndiceETesti/022bis/014/INTERO.pdf>`_
