@@ -63,7 +63,9 @@ I dati sono la principale miniera con la quale lavorano gli uffici pubblici e la
 .. note::
 
    Pillole curative:
+   
    **Per i dipendenti e dirigenti pubblici, avere accesso ai dati dei database, non chiederli.**
+   
    Il personale di un ufficio, per lavorare, NON DEVE CHIEDERE DATI ad un altro ufficio della stessa PA, ma secondo livelli di gerarchia
    correlati alle mansioni svolte, questo personale deve ricevere dal proprio Dirigente, adeguate credenziali per poter accedere (ed
    ovviamente essere tracciato) a tutti i database necessari (anche quelli il cui data entry è svolto da altri uffici), per gestire il
