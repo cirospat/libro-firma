@@ -9,8 +9,7 @@ Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l�
    `cosa stai dicendo Willis? <https://youtu.be/YrhvZ0bDvXk>`_
    
 
-
-
+|
 3.1 L’analisi dei processi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 L’analisi dei processi è la prima attività da svolgere prima di pensare di acquistare software per rendere in formato digitale il processo stesso. Il processo è la descrizione chiara, puntuale e dettagliata, nei vari passaggi, di come si svolge il lavoro nell'intero ciclo di vita dell’atto amministrativo.
@@ -51,7 +50,7 @@ A questo punto **l’atto amministrativo** (la deliberazione di Giunta in questo
    amministrazione. Quindi la PA dovrebbe pubblicare l'atto sempre come frutto di lavoro di editing (data entry) in un software
    gestionale.
 
-
+|
 
 3.3 La Firma (digitale / a penna)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -73,7 +72,7 @@ La non riusabilità di un documento in formato pdf immagine va a discapito princ
 
 Questa è una delle tante analisi rapide che si possono fare del processo di gestione di un atto amministrativo, dove sono in azione diversi uffici che trattano (alcuni con penna, altri con software) una parte dello stesso processo.
 
-
+|
 
 3.4 Processi correlati tra loro
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -100,7 +99,7 @@ Quando capita che il dialogo di dati non esiste tra i diversi database dello ste
    specifica PA - attraverso l'uso di una corretta metadatazione - e dialogare anche con i più rilevanti database di altre PA nazionali
    e regionali, per lo svolgimento dei compiti istituzionali relativi alle proprie competenze.
    
-   
+|   
    
 3.5 Punti di contatto tra i processi amministrativi gestiti da diversi uffici
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -132,7 +131,7 @@ Responsabile transizione al digitale (CAD)? Data strategist/analyst? Questo lavo
    e progettate per semplificare la gestione del lavoro da fare, con un occhio al design dell’interfaccia. E molto spesso sono
    piattaforme gratuite.
    
-   
+|   
    
 3.5 Oltre all'analisi, revisionare l’intero processo nel passaggio al digitale “totale”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -177,15 +176,50 @@ Si parla di **reingegnerizzazione dei processi** e comporta prima di tutto elast
 
 Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazione passano X giorni con processi misti digitale-cartaceo, domani con processi adeguatamente reingegnerizzati e totalmente trattati in digitale, dovranno passare X diviso 2 oppure X diviso 3 giorni, assicurando sempre il rispetto delle leggi nella gestione del processo da parte dell’ufficio. Se il nuovo applicativo gestionale è stato adottato dall'ufficio ma i giorni rimangono sempre X, allora o non è stata fatta un attenta analisi dei processi oppure non si è effettuata alcuna reingegnerizzazione del processo stesso, o tutte e due le cose insieme ed altro ancora.
 
+.. important:: 
+   **Pillole curative**
+   
+   **L'analisi dei processi come obiettivi nel Piano della Performance delle PA.**
+   Per attuare i contenuti del Codice dell'Amministrazione Digitale pienamente, e quindi attuare il passaggio alla modalità digitale
+   totale della PA, è inevitabile inserire l'attività di "analisi dei singoli processi amministrativi" nel Piano della Performance.
+   Non è una novità, lo prevede il CAD, e il Report della Commissione parlamentare di inchiesta sul livello di digitalizzazione della PA
+   lo mette in risalto come criticità della mancata applicazione.
+   Nella PA tutto funziona (cioè c'è efficienza) se un attività è strettamente legata alla corresponsione di uno stipendio. Un anno di 
+   questo obiettivo potrebbe produrre abbondanti analisi dei processi per passare alla successiva fase di reingegnerizzazione degli
+   stessi processi, e necessaria all'adozione di applicativi gestionali per il passaggio alla modalità digitale.
+   La PA che inserirà i contenuti del CAD dentro il Piano della Performance già a partire dal 2018, non solo starà rispettando una norma
+   importante di settore, ma, cosa più importante e utile, avrà maggiori possibilità di realizzare concretamente nel breve-medio periodo
+   un cambiamento in termini di transizione alla modalità digitale sia per la gestione dei processi interni che per l'erogazione di
+   servizi pubblici. Sarebbe interessante monitorare questa azione delle PA a livello nazionale e spero che la Commissione parlamentare
+   di inchiesta sul livello di digitalizzazione della PA insieme ad AGID lo faccia, per il bene dell'intera PA italiana.
 
+**Bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
 
-|
-|
-|
-|
-      
+.. figure:: imgrel/pianoperformance.png
+   :alt: cad nel piano performance
+   :align: center
+   
+   un semplice schema per la strutturazione degli obiettivi nel Piano Performance delle PA utile ad attuare i contenuti del CAD
+   
+.. figure:: imgrel/tuttoonline.png
+   :alt: tutto online
+   :align: center
+   
+   il cambiamento da apportare deve comportare inevitabilmente una riduzione dei tempi, e l’eliminazione totale della carta (immagine di Ciro Spataro lic. CC BY SA)
+   
+e cominciare a pensare in termini di piattaforme che: 
 
-1. **Procedura negoziata senza previa pubblicazione**, con 7198 gare, pari al 29 per cento del totale 
-2. **Affidamento in economia - cottimo fiduciario**, con 4397 gare, pari al 18 per cento del totale 
-3. **Procedura negoziata senza previa indizione di gara**, con 3257 gare, pari al 13 per cento del totale 
+1. **assicurano principalmente servizi online** (servizi web, e non siti web) 
+2. **pubblicano dati in formato aperto**, per attuare il paradigma dell’OpenGovernment, sfruttando le tecnologie digitali disponibili
 
+.. figure:: imgrel/webopengoverment.png
+   :alt: web open goverment
+   :align: center
+   
+   slide della `presentazione di Gabriele Francescotto di OpenContent <https://medium.com/r/?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F0B9q5qob_W3NiSVlFRTdEMFNwSmJjekR5aUJBYmgwMGFKbW13%2Fview>`_  per l’Associazione dei Comuni Trentini ad un webinar di ForumPA
+   
+**Indicatori per monitorare il livello di cambiamento**
+
+Nel momento in cui si adottano soluzioni tecnologiche per gestire processi nella PA, è essenziale (!) fissare un risultato atteso in termini di giorni in meno (indicatore di performance) per fare la stessa cosa che prima si faceva con un processo con carta misto a digitale. Fissare questo obiettivo è essenziale per verificare (e misurare) di aver portato una reale innovazione nella PA. Altrimenti si sono solo spesi ulteriori soldi pubblici senza generare alcun vantaggio né per l’ufficio pubblico né per la collettività.   
+   
+|
