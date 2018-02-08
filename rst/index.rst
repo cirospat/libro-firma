@@ -30,7 +30,7 @@ Agenda Digitale, servizi online per i cittadini, dematerializzazione, dati apert
    CapitoloSei.rst
    
    
-Allegati
+Conclusioni
 :::::::::::::::::::::::::::::::::::
 
 .. toctree::
@@ -38,7 +38,7 @@ Allegati
 
    CapitoloSette.rst
 
-Elenco audizioni
+Note finali
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 .. toctree::
