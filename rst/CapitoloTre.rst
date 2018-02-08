@@ -6,7 +6,8 @@ Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l�
    :alt: cosa dici willis
    :align: center
    
-   https://youtu.be/YrhvZ0bDvXk
+   `cosa stai dicendo Willis? <https://youtu.be/YrhvZ0bDvXk>`_
+   
 
 
 
