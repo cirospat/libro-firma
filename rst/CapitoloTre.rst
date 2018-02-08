@@ -133,7 +133,7 @@ Responsabile transizione al digitale (CAD)? Data strategist/analyst? Questo lavo
    
 |   
    
-3.5 Oltre all'analisi, revisionare l’intero processo nel passaggio al digitale “totale”
+3.6 Oltre all'analisi, revisionare l’intero processo nel passaggio al digitale “totale”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/revisione.gif
