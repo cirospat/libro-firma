@@ -66,8 +66,7 @@ Nella gestione del processo amministrativo abbiamo visto la costruzione della re
 Partendo dal punto fermo che **il Protocollo Informatico nella PA è il più importante pilastro della catalogazione dei miliardi di documenti amministrativi**, può capitare, in alcune PA, che l’applicativo gestionale del protocollo sia sganciato dall’editor di testo che serve a editare i contenuti di un atto (file). Capita che i contenuti di un atto (cioè il documento informatico) vengono stampati su carta, firmati a penna e scansionati per ridiventare formato digitale (questa volta file, digitale si, ma non riusabile nè ricercabile come testo al suo interno).
 
 .. WARNING::
-
-Quando il formato digitale nativo di un documento, nel 2018, diventa carta durante il ciclo di vita dell’atto amministrativo, siamo nella direzione più sbagliata per l’innovazione di processo e di servizio.
+   **Quando il formato digitale nativo di un documento, nel 2018, diventa carta durante il ciclo di vita dell’atto amministrativo, siamo nella direzione più sbagliata per l’innovazione di processo e di servizio.**
 
 La non riusabilità di un documento in formato pdf immagine va a discapito principalmente della stessa PA che lo ha prodotto in questo formato, perchè alcuni funzionari di quella PA, mesi o anni dopo avranno esigenza di copiare parti del testo di quell’atto amministrativo per costruire un nuovo atto, e quindi non disponendo di un formato aperto (per fare un classico selezione_copia_incolla), saranno costretti a editare nuovamente (cioè copiare) un testo già scritto tempo prima da un altro ufficio, i cui dipendenti che lo avevano scritto inizialmente (e che quindi avevano il file, tipicamente word) sono migrati in altri uffici o in pensione, e quel file non si trova più.
 
