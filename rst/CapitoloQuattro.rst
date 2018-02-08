@@ -2,6 +2,11 @@
 Cap 4 | Assicurare l'“interoperabilità” degli applicativi e delle relative banche dati
 ======================================================
 
+.. figure:: imgrel/firma_digitale.png
+   :alt: firma digitale analogica
+   :align: center
+   
+   (Sara Di Giorgio, resp. gruppo tecnico CulturaItalia, Ministero Beni Att. Culturali e Turismo - `slide Standard e procedure per l’interoperabilità dei contenuti <https://www.slideshare.net/culturaitalia/standard-e-procedure-per-linteroperabilit-dei-contenuti>`_)
 
    ABSTRACT | Questa è la grande sfida, e soprattutto nelle grandi PA è un lavoro più complesso proprio per l’interrelazione che esiste tra più processi amministrativi gestiti da più uffici con più applicativi. Diventa, così, una necessità di tutti gli uffici, condividere i dati contenuti nei vari database tematici.
    
@@ -20,7 +25,12 @@ Se una PA fa ruotare il personale in ottemperanza ai Piani anti corruzione e se 
 
 .. note::
 
-   Entrando 
+   Pillole curative:
+   Esempio di gerarchia dei database: 
+   Nome cognome ↴ 
+                Organigramma uffici ↴ 
+                                    Protocollo ↴ 
+                                                ……………
 
 ------------
 
