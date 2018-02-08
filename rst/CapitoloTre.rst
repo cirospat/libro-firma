@@ -21,7 +21,7 @@ l’azione della Pubblica Amministrazione si attua con la costruzione, gestione 
   
 **Per gestire interamente il ciclo di vita dell’atto amministrativo è necessario costruire il processo, cioè descrivere e rappresentare chiaramente l’elenco delle cose da fare dall'inizio alla fine, e l’elenco degli uffici che devono trattare una parte dell’atto.**
 
-
+|
 
 3.2 Esempio, se bisogna produrre, come atto amministrativo, una Deliberazione di Giunta Comunale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
