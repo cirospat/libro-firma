@@ -44,7 +44,8 @@ Questa gerarchia dovrebbe essere applicata a tutti i database di una PA al fine 
    :align: center
    
    l’interoperabilità ne `Il livello di digitalizzazione e di innovazione nelle PA e gli investimenti nel settore ICT <http://www.camera.it/application/xmanager/projects/leg17/attachments/documenti_acquisiti_commissione/documento_pdfs/000/000/008/AL-PwC.pdf>`_  una presentazione della `COMMISSIONE PARLAMENTARE DI INCHIESTA SUL LIVELLO DI DIGITALIZZAZIONE E INNOVAZIONE DELLE PA E SUGLI INVESTIMENTI COMPLESSIVI RIGUARDANTI IL SETTORE ICT <http://www.gazzettaufficiale.it/eli/id/2016/06/20/16A04670/sg>`_
-   
+
+|
 **Interoperabilità e adozione di standard ICT per evitare il fenomeno del lock-in tecnologico**
 
 .. figure:: imgrel/lockin.png
