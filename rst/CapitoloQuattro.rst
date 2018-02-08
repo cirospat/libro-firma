@@ -87,7 +87,8 @@ Ogni PA, oggi, deve poter disporre di pannelli di controllo nelle piattaforme di
    
    un database collegato a tutti gli altri database (immagine lic. CCO pubblico dominio)
    
-L’utilità degli open data per le stesse PA, i “dati pubblici” in formato aperto
+**L’utilità degli open data per le stesse PA, i “dati pubblici” in formato aperto**
+
 I dati in formato aperto (open data) pubblicati negli ultimi anni rappresentano un inizio di politica virtuosa dell’amministrazione pubblica, ma ad oggi rari sono i casi in cui i dati pubblici di un ufficio sono in automatica correlazione/interazione con quelli di un altro ufficio, soprattutto per la mancata omogeneità (univocità) delle voci delle classi di informazioni contenuti nei database, per la mancanza di una esaustiva metadatazione dei dati, e per la mancanza di una **diretta relazione/comunicazione** tra le piattaforme in cui vengono gestiti i vari database degli uffici (interoperabilità).
 
 
