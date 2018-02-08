@@ -113,7 +113,7 @@ Quando capita che il dialogo di dati non esiste tra i diversi database dello ste
    
 Ogni ufficio (funzionari, dirigenti) può essere in grado (non sempre) di fare l’analisi del processo specifico che gestisce quotidianamente per perfezionare un atto amministrativo o erogare un servizio pubblico, ma poi è **necessario trovare i punti di contatto tra i processi amministrativi gestiti da diversi uffici (in un ente pubblico) nell'espletamento delle singole competenze**. Ciò in nome dell’interoperabilità da assicurare nelle piattaforme digitali di lavoro!   
 
-Una volta condotta l’analisi di tutti i processi amministrativi gestiti in un ente pubblico, è essenziale trovare i punti di contatto tra i diversi processi, per realizzare una adeguata reingegnerizzazione (degli stessi processi) nel momento in cui si tratta di trasportarli totalmente nei software per la gestione in modalità digitale.
+Una volta condotta l’analisi di tutti i processi amministrativi gestiti in un ente pubblico, è **essenziale trovare i punti di contatto tra i diversi processi**, per realizzare una adeguata reingegnerizzazione (degli stessi processi) nel momento in cui si tratta di trasportarli totalmente nei software per la gestione in modalità digitale.
 
 **Chi è deputato a trovare i punti di contatto tra i diversi processi di una PA?**
 
@@ -193,14 +193,14 @@ Sicuramente se oggi per ottenere un nulla osta o una licenza o una certificazion
    servizi pubblici. Sarebbe interessante monitorare questa azione delle PA a livello nazionale e spero che la Commissione parlamentare
    di inchiesta sul livello di digitalizzazione della PA insieme ad AGID lo faccia, per il bene dell'intera PA italiana.
 
-**Bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
+un semplice schema per la strutturazione degli obiettivi nel Piano Performance delle PA utile ad attuare i contenuti del CAD
 
 .. figure:: imgrel/pianoperformance.png
    :alt: cad nel piano performance
    :align: center
    
-   un semplice schema per la strutturazione degli obiettivi nel Piano Performance delle PA utile ad attuare i contenuti del CAD
-   
+**Bisogna attuare questa trasformazione nella gestione del processo dentro la PA**
+
 .. figure:: imgrel/tuttoonline.png
    :alt: tutto online
    :align: center
@@ -212,7 +212,7 @@ e cominciare a pensare in termini di piattaforme che: 
 1. **assicurano principalmente servizi online** (servizi web, e non siti web) 
 2. **pubblicano dati in formato aperto**, per attuare il paradigma dell’OpenGovernment, sfruttando le tecnologie digitali disponibili
 
-.. figure:: imgrel/webopengoverment.png
+.. figure:: imgrel/webopengovernment.png
    :alt: web open goverment
    :align: center
    
