@@ -1,33 +1,15 @@
 ======================================================
-Cap 5 | Le best practice: dove esistono indicatori e misurazioni, la digitalizzazione funziona
+Cap 5 | xxxxxxxxxxxxx
 ======================================================
 
 
-ABSTRACT | *La digitalizzazione nella PA ottiene i migliori risultati in termini di risparmio, efficientamento e servizi ai cittadini, quando è soggetta a indicatori e misurazioni e dove la transizione verso la modalità digitale ha un profondo impatto sui processi, non 
-limitandosi unicamente alla semplice dematerializzazione dei documenti cartacei. A questo riguardo la Commissione ha individuato, senza 
-la pretesa che si tratti di un elenco esclusivo, alcune best practice. L’Agenzia delle dogane e dei monopoli è risultata essere un 
-esempio molto virtuoso. Grazie all’introduzione dello sportello unico nel 2011, che ha consentito il pre-clearing, lo sdoganamento in 
-mare o in volo, e del fascicolo elettronico (in seguito all’approvazione del CDU nel 2016) il 92,6 per cento delle merci viene 
-sdoganato dai principali porti tra i 12 secondi e i 5 minuti (prima dell’introduzione del fascicolo elettronico, la percentuale era 
-invece dell’84,3 per cento).*
-*Un ulteriore esempio virtuoso è dato dalla Provincia autonoma di Trento: in particolare, la legge provinciale n. 16 del 27 luglio 2012 
-ha introdotto il Sistema Informativo Elettronico Trentino (SINET), che gestisce il complesso dei dati e delle informazioni a supporto 
-di tutta la PA del territorio e funge da intermediario tecnologico per quanto riguarda le piattaforme abilitanti nazionali.*
-*L’INAIL ha invece elaborato uno strumento per l’attività di monitoraggio sulle forniture che, a partire dal 2013, utilizza un 
-indicatore di vendor rating in grado di elaborare una loro classificazione. Tra gli organismi pagatori del sistema SIAN, il ruolo di 
-AVEPA, l’Agenzia veneta per i pagamenti in agricoltura, che gestisce il 95 per cento delle risorse legate all’agricoltura su delega 
-della Regione Veneto, i fondi FEAGA, FESR e il PSR (Programma di Sviluppo Rurale, va segnalato per competenze e funzionamento). In 
-particolare, il management di AVEPA considera di fondamentale importanza la gestione del rapporto con il fornitore in ogni passo, anche 
-dopo l’aggiudicazione della gara e dedica a questa funzione un dirigente ICT con relativo staff. Nell’ambito del sostegno al Piano 
-triennale per l’Informatica nella Pubblica Amministrazione sviluppato da AgID, il Team per la trasformazione digitale ha messo a degli 
-operatori delle diverse PPAA, di AgID e dello stesso Team, un set di strumenti che consente di condividere le esperienze migliori ma 
-anche di avere chiarimenti immediati nel merito dei diversi aspetti del Piano triennale.*
+ABSTRACT | 
 
 
 **Nel corso dell’inchiesta condotta dalla Commissione è risultato evidente come la digitalizzazione nella pubblica amministrazione ottenga i maggiori risultati, in termini di risparmio, efficientamento e servizi ai cittadini, quando è soggetta a indicatori e misurazioni e, più in generale, dove la transizione verso la modalità digitale ha impattato fortemente il processo, non limitandosi unicamente alla semplice dematerializzazione dei documenti cartacei.** Durante le audizioni condotte dalla Commissione sono emersi diversi esempi virtuosi, *best practice* che meritano un approfondimento, affinché possano svolgere una funzione di esempio e di stimolo nei confronti di quei settori della pubblica amministrazione che ancora stentano verso la digitalizzazione.
 
 
-5.1 L’Agenzia delle dogane e dei monopoli
+5.1 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 L’Agenzia delle dogane e dei monopoli è sicuramente un *case study* importante. Negli ultimi anni, lo sviluppo di reti di comunicazione e di trasporto sempre più efficaci e rapide a livello internazionale ha fatto aumentare in modo considerevole il numero di scambi di beni e servizi. Come conseguenza, il processo di import-export ha richiesto lo sviluppo sempre maggiore di infrastrutture immateriali, nell’interesse del cittadino-consumatore, delle aziende e per il rispetto della legge.
 
@@ -75,7 +57,7 @@ In termini assoluti, nel 2016 sono state lavorate più di 19 milioni di dichiara
 A completare il processo di forte innovazione, troviamo il sistema di tracciabilità fisica delle merci “il Trovatore”, che dialoga con tutte le piattaforme di monitoraggio specifiche e attraverso cui sono stati attivati i *fast corridors*.
 
 
-5.2 La Provincia autonoma di Trento
+5.2 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Nel corso delle audizioni degli enti locali al fine di monitorare il rispetto di quanto disposto dal CAD, con particolare riferimento all’articolo 17, nell’audizione della responsabile del servizio di supporto alla direzione generale e ICT della Provincia autonoma di Trento, Cristiana Pretto, svoltasi il 29 giugno del 2017, la Commissione ha avuto modo di apprezzare come la Provincia autonoma di Trento si sia particolarmente distinta per efficacia e capacità organizzative in ambito ICT.
@@ -93,7 +75,7 @@ Ai fini dell’indagine della Commissione sono stati ritenuti molto significativ
 
 La Commissione ha ritenute significative anche i risultati del SINET sul terreno sanitario: le tessere sanitarie sono abbinate a un sistema di *security card*, che rende superfluo l’utilizzo della tessera fisica e del relativo lettore. Questo sistema consente ai pazienti la consultazione *on line* dei referti medici e rende visibile a tutto il circuito dei medici e delle farmacie il farmaco prescritto, rendendo superfluo l’utilizzo della ricetta cartacea. La Commissione ha valutato queste innovazioni molto importanti sul piano dell’innovazione di processo e un esempio concreto di come il digitale possa rendere più semplice la vita dei cittadini e facendo risparmiare risorse ingenti alla PA. La Commissione valuta inoltre significativo che la Provincia autonoma di Trento, come diverse altre realtà, abbia attivato una convenzione per la conservazione digitale dei documenti con il Polo Archivistico della Regione Emilia-Romagna.
 
-5.3 L'Inail
+5.3 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 L’Istituto Nazionale Assicurazione Infortuni sul Lavoro (INAIL) è un Ente pubblico non economico, che gestisce l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali. Fra le proprie missioni istituzionali, oltre a quella assicurativa che è certamente la più conosciuta, si affiancano la funzione di prevenzione, riabilitazione e ricerca e l’attività sul patrimonio e sul settore sanitario. Dall’audizione del 4 aprile 2017 [#]_ è emerso come l’Ente gestisca un portafoglio clienti composto da circa tre milioni e duecentomila aziende. Le prestazioni economiche erogate dall’Inail, tra rendita e indennità temporanea, ammontano a circa sei miliardi e seicento milioni di euro, mentre per l’attività di prevenzione, i finanziamenti per la sicurezza e i bandi ISI si attestano attorno ai duecentocinquanta milioni di euro per l’ultimo quadriennio. [#]_ L’azienda possiede un patrimonio immobiliare costituito da circa seicento fabbricati e cinquemila cinquecento unità immobiliari e annovera, attualmente, nove mila dipendenti, dopo aver registrato un calo di un migliaio di unità negli ultimi cinque anni. [#]_ Il personale è piuttosto eterogeneo perché comprende i metalmeccanici del Polo di Vigorso di Budrio, il personale amministrativo ed informatico, i tecnici dell’area edilizia e i dipendenti dell’area sanitaria (medici e infermieri) e quelli della ricerca, in parte proveniente dall’Ispels, [#]_ che insieme con l’Ipsema [#]_ si sono fusi con INAIL alla fine del 2010. Dal punto di vista dell’investimento in ICT, l’INAIL ha attivato tra le fine del 2012 e l’inizio del 2013 una convenzione con Consip, ai fini della gestione del *procurement*, che copre il 95 per cento della spesa, ad esclusione di piccole acquisizioni frutto di gare antecedenti la stipula della convenzione o sulle quali la convenzione non risulta conveniente. [#]_ Secondo Stefano Tomasini, responsabile della direzione centrale organizzazione digitale dell'INAIL, questa gestione ha garantito una esternalizzazione, una terziarizzazione di tutta la fase del *procurement*, attribuendo al personale dell'Istituto una maggiore focalizzazione sulla fase di esecuzione contrattuale. 
@@ -104,34 +86,14 @@ In sostanza, a partire dal 2013 l’INAIL ha elaborato uno strumento per l’att
 
 In audizione Stefano Tomasini ha messo in evidenza come il *vendor rating* sia preso a riferimento anche nelle gare Consip, inoltre è previsto un meccanismo di gestione della fornitura, c.d. *dual sourcing*. Da quanto emerso dall’audizione, le gare INAIL sono separate in quattro lotti contigui (assicurativo, *digital front-end*, parte sanitaria, prevenzione e ricerca) nei quali è prevista, in base all’analisi strutturata fornita dal *vendor rating*, la possibilità di passare al fornitore del lotto contiguo nel momento in cui la fornitura non dovesse dare i risultati previsti e desiderati. In questo modo si sollecita e sensibilizza il fornitore nel prestare particolare attenzione al raggiungimento dei risultati attesi. Dall’audizione è emerso che il vendor rating, pur essendo un utile strumento di gestione dei fornitori, non è utilizzato da nessun altra pubblica amministrazione ad esclusione dell’INAIL che comunque si è attivata per diffondere l’utilizzo di tale strumento, in particolare organizzando due eventi ai quali sono state invitate le altre pubbliche amministrazioni e i vendor, per rappresentare l’applicazione e i risultati di tale modello.
 
-------------
-   
-NOTE paragafo 5.3
 
-.. [#] Stefano Tomasini, Resoconto stenografico dell'audizione 4 aprile 2017.
-.. [#] Ibidem, p. 3
-.. [#] Ibidem, p. 4
-.. [#] Istituto superiore per la prevenzione e la sicurezza del lavoro
-.. [#] Istituto di previdenza per il settore marittimo
-.. [#] Resoconto stenografico dell'audizione 4 aprile 2017, p. 6 
-.. [#] Ibidem, p. 11-12
-.. [#] Ibidem, p. 11
-
-------------
-
-5.3.1 La struttura del *vendor rating*
+5.3.1 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 I questionari sui quali si basa lo strumento del vendor rating sono strutturati su una batteria di indici, con pesature differenziate rispetto a ciascuna fornitura, che garantiscono la convergenza sui tre ambiti di monitoraggio e vengono somministrati materialmente da un nucleo di due o tre persone della direzione. Gli indici sono 180 e il questionario è rilevato internamente: l’indicatore sintetico che si costruisce in seguito ha una percentuale di valorizzazione e determina l’adeguatezza o meno della fornitura rispetto all’indicatore che è stato identificato. In aggiunta ai parametri rilevati attraverso i questionari somministrati, Francesco Saverio Colasuonno ha spiegato come ci siano anche dei parametri che vengono utilizzati in maniera automatica, che ad esempio riguardano i Service Level Agreement (SLA) previsti nei contratti di servizio e i Key Performance Indicator (KPI) presenti; la combinazione dei vari fattori ,si traduce in un unico parametro complessivo. Alla conclusione del processo di somministrazione guidata e di interpretazione dei parametri, i dati ottenuti rappresentano un’indicazione anche numerica, di come l'organizzazione interna dell'istituto sia in grado di valorizzare e stabilire dove deve migliorare la fase di acquisizione. Lo strumento mette in evidenza sia gli elementi di miglioramento, sia quelli di difficoltà, sui quali il comitato di autogoverno è chiamato a verificare l’esistenza di un eventuale gap da colmare. I risultati dell’utilizzo del *vendor rating* hanno fatto registrare un miglioramento sotto il profilo delle performance e, in alcune circostanze, nella gestione amministrativa, poiché contestualmente è stato migliorato anche il processo di fatturazione, che prevede l’erogazione dei documenti da parte dei fornitori sulla base delle regolari esecuzioni rilasciate dai Responsabili Unici del Procedimento e dai Direttori dell'Esecuzione del Contratto, con un'identificazione ormai puntuale tra gli elementi che costituiscono la fattura e gli elementi che sono stati oggetto della regolare esecuzione. L’ottimizzazione del processo di fatturazione, secondo i dirigenti di Inail, consentirà nel breve periodo anche di accelerare il processo di pagamento delle fatture emesse dai fornitori, automatizzando di conseguenza il processo di ciclo passivo. In ottemperanza a quanto previsto dalla circolare AgID, [#]_  l’attenzione nei confronti dei fornitori si è focalizzata anche sul ruolo del monitore, che viene coinvolto nell’attività di monitoraggio nella seconda fase di esecuzione contrattuale. Il monitore deve essere un soggetto terzo rispetto alle forniture presenti all’interno dell’amministrazione. Fino ad aprile del 2017, il monitore era una figura esterna all’Ente, ma selezionata da un elenco di monitori certificati, individuati all’interno di una lista fornita da AgID. Tuttavia Tomasini ha tenuto a precisare come dalle prossime gare, in attuazione della circolare AgID di dicembre 2016, il monitore sarà un soggetto non più individuato all’interno della lista AgID, che sarà selezionato con una gara pubblica *ad hoc* e si occuperà anche del monitoraggio dei contratti di minore entità. 
 
-------------
-   
-NOTE paragafo 5.3.1
 
-.. [#] http://www.agid.gov.it/sites/default/files/uploads/193/circolare_agid_03-2017_servizi_a_sportello_accessibili.pdf
 
-------------
-
-5.3.2 Il piano treinnale IT dell'INAIL
+5.3.2 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 INAIL inoltre, ha predisposto il piano triennale per l’IT, che ha consentito di portare a compimento alcuni progetti, quale l’avvio del nuovo portale web nel 2016 e quella del nuovo portale Intranet, andato on line nei primi mesi del 2017. Al momento dell’audizione, Stefano Tomasini ha anche annunciato come l’INAIL stesse per avviare un progetto per la definizione di corsi e di iniziative formative sulle competenze digitali dedicato al personale amministrativo. La creazione dell’infrastruttura organizzativa ha consentito la ridefinizione di tutti i processi organizzativi interni per l’area del back-end, favorendo la razionalizzazione e la standardizzazione di tutti i processi interni, e semplificando di conseguenza l’utilizzo delle piattaforme a supporto e gli ARP. [#]_
 
@@ -144,14 +106,9 @@ Il piano triennale 2017-2019 dell’INAIL si è anche particolarmente incentrato
 Sul fronte della *customer experience* nei confronti dei servizi erogati dall’Istituto, è stato avviato un programma specifico sul *digital front-end*, a partire dall’evoluzione del contact center multicanale, che oggi vede una fornitura congiunta tra INPS, Equitalia e INAIL, ma che nel prossimo futuro prevedrà una soluzione di tipo diverso rispetto alla fornitura congiunta con INPS e con Equitalia. Infine è stato avviato un progetto di *open innovation* con l’obiettivo di testare le soluzioni che si basano essenzialmente sull'utilizzo dell’Internet delle cose, soprattutto in ambito sanitario e riabilitativo. L’attività è stata resa possibile dall’integrazione della Direzione Centrale Organizzazione Digitale (DCOD) con il centro di riabilitazione di Volterra e l’Università di Parma.
 
 ------------
-   
-NOTE paragafo 5.3.2
 
-.. [#] Address Resolution Protocol, è un protocollo di rete appartenente alla suite del protocollo internet (IP) versione 4 e operante a livello di accesso alla rete, il cui compito è fornire la "mappatura" tra l'indirizzo IP (32 bit - 4 byte) e l'indirizzo MAC (48 bit - 6 byte) corrispondente di un terminale in una rete locale ethernet.
 
-------------
-
-5.4 L'Agenzia veneta per i pagamenti in agricoltura (AVEPA)
+5.4 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nell’ambito del sistema SIAN, la Commissione ha avuto modo di appurare che diverse Regioni sono dotate di propri organismi pagatori: il Piemonte, la Lombardia, le Province autonome di Trento e Bolzano, il Veneto, l’Emilia-Romagna, la Toscana e la Calabria. Per le Regioni che non sono dotate di proprio organismo pagatore risulta competente Agea, attraverso Agea pagatore. Ai fini di una corretta comprensione è importante distinguere Agea pagatore (che svolge le funzioni di classico organismo pagatore) e Agea organismo di coordinamento che, come indicato dal nome, ha il potere di coordinare le attività di tutti gli organismi pagatori, compreso l’organismo pagatore di Agea.
 
@@ -169,22 +126,6 @@ Tutti gli applicativi di AVEPA sono predisposti per SPID. Sono stati demateriali
 
 Oltre allo sportello virtuale, l’AVEPA ha sviluppato un meccanismo importante di controllo *in loco* e un sistema di aggiornamento del catasto agricolo che la Commissione valuta come virtuosi. Per quanto riguarda il controllo *in loco*, attraverso il *tablet*, grazie alla georeferenziazione e alla certificazione dei metadati, l’operatore è in grado di intervenire direttamente sul fascicolo e sul catasto agricolo scattando una semplice foto a un determinato appezzamento. Il sistema di aggiornamento del catasto agricolo attraverso droni è invece attivo da 3 anni: significa che l’aggiornamento avviene in tempi molto più ravvicinati dei 3 anni previsti dal sistema di *refresh* di Agea. Recentemente AVEPA, proprio attraverso l’utilizzo di appositi droni, si è occupata del monitoraggio dei lavori sulla pedemontana veneta.
 
-5.5 La piattaforma di partecipazione sul Piano Triennale per l’informatica nella pubblica amministrazione
+5.5 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nell’ambito del sostegno al Piano triennale per l’informatica nella pubblica amministrazione sviluppato da AgID, il Team per la trasformazione digitale ha messo a disposizione degli utenti, in questo caso gli operatori delle diverse PA, di AgID e dello stesso Team, **un set di strumenti che consente di condividere le esperienze migliori, ma anche di avere chiarimenti immediati nel merito dei diversi aspetti del Piano triennale, in particolare attraverso un Forum e la piattaforma rivolta agli sviluppatori Github.** La Commissione rileva come si tratti di un esempio significativo di utilizzo di piattaforme per la trasparenza e la partecipazione. È importante che questo avvenga su un progetto davvero strategico per la digitalizzazione del Paese come il piano triennale, che segnerà una trasformazione organica del sistema Paese verso il digitale. Troppo spesso, infatti, la Commissione ha constatato come un approccio unicamente *top-down* sia foriero di mancata o parziale applicazione delle norme. **È necessario – a parere della Commissione – rendere chi lavora ogni giorno nella PA ai diversi livelli protagonista del cambiamento.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
