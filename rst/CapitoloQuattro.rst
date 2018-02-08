@@ -1,5 +1,5 @@
 ======================================================
-Cap 4 | Assicurare “interoperabilità” degli applicativi e delle relative banche dati
+Cap 4 | Assicurare l'“interoperabilità” degli applicativi e delle relative banche dati
 ======================================================
 
 
