@@ -54,35 +54,39 @@ Questa gerarchia dovrebbe essere applicata a tutti i database di una PA al fine 
    
    superare il fenomeno del lock-in — una presentazione della COMMISSIONE PARLAMENTARE DI INCHIESTA SUL LIVELLO DI DIGITALIZZAZIONE E INNOVAZIONE DELLE PA E SUGLI INVESTIMENTI COMPLESSIVI RIGUARDANTI IL SETTORE ICT
 
-4.1.1 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Successivamente a
 
-4.1.2  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Al fine d
-
-4.2 
+4.2 Le banche dati, la miniera della PA grazie all’interoperabilità
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-La Commissione 
+I dati sono la principale miniera con la quale lavorano gli uffici pubblici e la condivisione dei dati permette di velocizzare e ottimizzare i processi per erogare servizi e amministrare il territorio.
+
+.. note::
+
+   Pillole curative:
+   **Per i dipendenti e dirigenti pubblici, avere accesso ai dati dei database, non chiederli.**
+   Il personale di un ufficio, per lavorare, NON DEVE CHIEDERE DATI ad un altro ufficio della stessa PA, ma secondo livelli di gerarchia
+   correlati alle mansioni svolte, questo personale deve ricevere dal proprio Dirigente, adeguate credenziali per poter accedere (ed
+   ovviamente essere tracciato) a tutti i database necessari (anche quelli il cui data entry è svolto da altri uffici), per gestire il
+   processo di competenza, senza più chiedere permesso a nessuno. Ovviamente qualcuno in un ufficio specifico deve essere deputato a
+   verificare periodicamente la correttezza degli accessi effettuati ai database per la coerenza alle mansioni svolte da chi fa
+   l'accesso.
 
 
-4.2.1 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-In 
-
-
-4.3  
+4.3 Pannelli di controllo dei dati
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Una 
+Pannelli di controllo dei dati, i dati servono a: controllare, monitorare, verificare, correggere, progettare, pianificare,….
 
+Ogni PA, oggi, deve poter disporre di pannelli di controllo nelle piattaforme digitali in uso, così da consultare/ controllare/ analizzare (dati) e verificare, capire l’efficacia delle scelte che vengono operate nel territorio amministrato. La condivisione dei dati (o come spesso viene definito, “incrocio dei dati”) tra più uffici permette di individuare, ad esempio, l’evasione tributaria, l’abusivismo commerciale ed edilizio, i fabbisogni di servizi pubblici nel territorio (mobilità, energia), permette di individuare le soluzioni per ridurre la spesa pubblica in diversi settori dei servizi pubblici (igiene ambientale, energia negli edifici pubblici, mobilità urbana, ecc.).
 
-4.3.1 Il 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Il 
+.. figure:: imgrel/condivideredati.png
+   :alt: condividere dati
+   :align: center
+   
+   un database collegato a tutti gli altri database (immagine lic. CCO pubblico dominio)
+   
+L’utilità degli open data per le stesse PA, i “dati pubblici” in formato aperto
+I dati in formato aperto (open data) pubblicati negli ultimi anni rappresentano un inizio di politica virtuosa dell’amministrazione pubblica, ma ad oggi rari sono i casi in cui i dati pubblici di un ufficio sono in automatica correlazione/interazione con quelli di un altro ufficio, soprattutto per la mancata omogeneità (univocità) delle voci delle classi di informazioni contenuti nei database, per la mancanza di una esaustiva metadatazione dei dati, e per la mancanza di una **diretta relazione/comunicazione** tra le piattaforme in cui vengono gestiti i vari database degli uffici (interoperabilità).
 
 
 4.4 
