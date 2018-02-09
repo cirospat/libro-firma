@@ -13,8 +13,7 @@ ABSTRACT | Questa è la grande sfida, e soprattutto nelle grandi PA è un lavoro
    
 Dipendenti e dirigenti svolgono quotidianamente un lavoro che rappresenta la gestione di un processo, ma può capitare che non sono abituati (o abili) a fare l’analisi del processo che gestiscono. In questi casi, l’analisi di processo tenta di farla (inevitabilmente, perchè qualcuno la deve pur fare) la software house che domanda quanto più possibile agli uffici,  cercando di capire che flusso di lavoro viene gestito quotidianamente, e proponendo software gestionali, che potrebbero, anche, non rispondere pedissequamente alle reali esigenze/necessità  lavorative dell’ufficio, oppure risultare ostici nell'espletamento delle azioni specifiche da compiere quotidianamente (interfacce non facili o troppe azioni da svolgere) per gestire il processo digitalmente.
    
-   
-   
+|   
 
 4.1 Essenziale stabilire le gerarchie delle banche dati della PA per l’interoperabilità
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -54,6 +53,7 @@ Questa gerarchia dovrebbe essere applicata a tutti i database di una PA al fine 
    
    superare il fenomeno del lock-in — una presentazione della COMMISSIONE PARLAMENTARE DI INCHIESTA SUL LIVELLO DI DIGITALIZZAZIONE E INNOVAZIONE DELLE PA E SUGLI INVESTIMENTI COMPLESSIVI RIGUARDANTI IL SETTORE ICT
 
+|
 
 4.2 Le banche dati, la miniera della PA grazie all’interoperabilità
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -72,7 +72,8 @@ I dati sono la principale miniera con la quale lavorano gli uffici pubblici e la
    processo di competenza, senza più chiedere permesso a nessuno. Ovviamente qualcuno in un ufficio specifico deve essere deputato a
    verificare periodicamente la correttezza degli accessi effettuati ai database per la coerenza alle mansioni svolte da chi fa
    l'accesso.
-
+   
+|
 
 4.3 Pannelli di controllo dei dati
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -98,6 +99,7 @@ I dati in formato aperto (open data) pubblicati negli ultimi anni rappresentano 
    architettura di un modello per la produzione e pubblicazione dei dati pubblici in formato aperto (slide della presentazione di Gabriele Francescotto di OpenContent per l’Associazione dei Comuni Trentini ad un webinar di ForumPA) https://drive.google.com/file/d/0B9q5qob_W3NiSVlFRTdEMFNwSmJjekR5aUJBYmgwMGFKbW13/view
 
 |
+
 4.4 Il DAF, Data Analytics Framework, pannello di visualizzazione dei dati delle PA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. figure:: imgrel/daf.png
@@ -106,3 +108,8 @@ I dati in formato aperto (open data) pubblicati negli ultimi anni rappresentano 
    
 Se vogliamo provare a immaginare pannelli semplici di visualizzazione e narrazione dei dati di più PA, viene in grande aiuto il DAF, Data Analytics Framework, (oggi in versione “αlfa”) appena realizzato (ott_2017) dal Team Trasformazione Digitale dell’AgID (“partendo dai dati, interpretiamo il mondo e aiutiamo la società a prendere decisioni basate sui fatti”) e supportato da una  
 `vasta comunità attiva in Italia <https://forum.italia.it/>`_.
+
+`vasta comunità attiva in Italia <https://forum.italia.it/>`
+
+
+
