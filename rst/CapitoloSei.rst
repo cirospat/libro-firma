@@ -55,9 +55,13 @@ Al fine della creazione del software, questa metodologia riporta il “function 
    :alt: testo commissione
    :align: center
    
+|
+
 Paolo Coppola, onorevole della Commissione parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle PA, dopo un anno di lavoro di indagine sulla digitalizzazione delle PA rileva, in `un articolo <https://www.agendadigitale.eu/cultura-digitale/coppola-la-pa-dello-spreco-digitale-la-nostra-galleria-degli-orrori-rivela-la-vera-causa/>`_, che “la radice delle inefficienze sta nell'assoluto disinteresse della PA riguardo alle competenze digitali”.
 
 Qualcuno nelle PA deve cominciare, quindi, a interessarsi di competenze digitali, avviando cicli di sensibilizzazione e formazione ai dirigenti e ai dipendenti, così come si fa con i corsi obbligatori per la conoscenza dei Piani Anti Corruzione ai sensi del Decreto Legislativo 33/2013.
+
+|
 
 .. figure:: imgrel/cameradeputati.png
    :alt: camera deputati
