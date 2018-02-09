@@ -176,7 +176,6 @@ Le PA che redigono contenuti per i siti web istituzionali devono verificare la r
 
 .. figure:: imgrel/govuk.png
    :alt: gov uk
-   
 Il design dei servizi digitali online della PA deve seguire alcuni principi affinché i cittadini trovano i servizi accettabili. Ecco un esempio di Principi di Design adottati nel Regno Unito per la costruzione dei servizi digitali:
 
 
