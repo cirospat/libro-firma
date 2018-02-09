@@ -145,7 +145,7 @@ Nel caso di software che gestiscono processi amministrativi nella PA, in cui è 
    :alt: uuu
    :align: center
    
-   questa interfaccia è molto facile da usare! … così pure mia nonna capisce (immagine lic. CC BY `Paul Clarke for the Digital Catapult <https://www.jisc.ac.uk/blog/codesign>`_ )
+   questa interfaccia è molto facile da usare! … così pure mia nonna capisce (immagine lic. CC BY `Paul Clarke for the Digital Catapult <https://www.jisc.ac.uk/blog/codesign>`_)
    
 Il service co-design deve costituire una vera e propria voce di capitolato speciale d’appalto nel procurement della piattaforma gestionale, deve prevedere un adeguato tempo di confronto tra dipendenti pubblici, software house e cittadini, e deve prevedere dei “risultati attesi” precisi.
 
@@ -164,8 +164,26 @@ Le software house devono abituarsi a trattare questa materia (service co-design 
 .. important::
    **Un interfaccia utente di una piattaforma online è come una barzelletta, se la devi spiegare, non funziona, non è buona**
    
+|
+
+5.9 I contenuti sul web devono essere pensati principalmente per la fruizione su smartphone
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Le PA che redigono contenuti per i siti web istituzionali devono verificare la rispondenza alla check-list creata dalla comunità italiana dei designer di servizi pubblici http://designers.italia.it, per una navigazione a prova di smartphone. PA, `ecco alcuni punti che faresti bene a non dimenticare <https://medium.com/designers-italia/siti-web-a-prova-di-smartphone-ecco-alcune-cose-che-faresti-bene-a-non-dimenticare-2d1418ed784d>`_.
+
+
+**Principi di design nei servizi web della PA inglese, stesso approccio adottato recentemente in Italia**
+
+.. figure:: imgrel/govuk.png
+   :alt: gov uk
+   
+Il design dei servizi digitali online della PA deve seguire alcuni principi affinché i cittadini trovano i servizi accettabili. Ecco un esempio di Principi di Design adottati nel Regno Unito per la costruzione dei servizi digitali:
+
+
    
    
+
+
    
 
 
