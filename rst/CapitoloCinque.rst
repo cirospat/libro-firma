@@ -6,8 +6,7 @@ Cap 5 | Attuare il Co-Design dei servizi pubblici per essere più vicini alle es
    :alt: codesign
    :align: center
    
-   il co-design con i cittadini nelle politiche del Governo Aperto (immagine lic. CC BY 
-http://democratieouverte.org)
+   il co-design con i cittadini nelle politiche del Governo Aperto (immagine lic. CC BY http://democratieouverte.org)
 
 Nella fase che precede la creazione del software, per gestire digitalmente il processo dentro un ufficio, entra in gioco il `service co-design <https://design-italia.readthedocs.io/it/stable/doc/service-design.html>`_  (dalle `Linee guida di design per i servizi web della PA <https://design-italia.readthedocs.io/it/stable/index.html>`_  a cura dell’AgID).
 
