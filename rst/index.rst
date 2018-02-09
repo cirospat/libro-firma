@@ -6,7 +6,7 @@ Agenda Digitale, servizi online per i cittadini, dematerializzazione, dati apert
 
 ------------
 
-`per questo prodotto editoriale ho forkato il progetto github della Relazione Commissione Parlamentare di inchiesta sul Digitale nelle pubbliche amministrazioni <https://relazione-commissione-digitale.readthedocs.io>`_
+`a cura di Ciro Spataro <https://sites.google.com/view/cirospat>`_
 
 ------------
 
