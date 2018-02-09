@@ -154,6 +154,7 @@ Il service co-design deve costituire una vera e propria voce di capitolato speci
 Le software house devono abituarsi a trattare questa materia (service co-design per le interfacce dei software) sempre con maggiore professionalità e competenza, investendo nella formazione di figure ad hoc.
 
 **La user experience positiva ormai è alla base del successo e dell’uso quotidiano dei prodotti e servizi digitali.**
+
 .. figure:: imgrel/joke.png
    :alt: joke
    :align: center
