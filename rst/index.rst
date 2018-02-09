@@ -5,7 +5,6 @@ Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizi
 Agenda Digitale, servizi online per i cittadini, dematerializzazione, dati aperti, open government, interoperabilità, design, usabilità. Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.
 
 `un report a cura di Ciro Spataro <https://sites.google.com/view/cirospat>`_
-
 dipendente del Comune di Palermo e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_
 
 .. note::
