@@ -32,17 +32,17 @@ Il Ministero per la Semplificazione e PA ha redatto Linee Guida su `“Appalti w
 ↓ Queste di seguito sono le terminologie, del Ministero della Funzione Pubblica (www.funzionepubblica.gov.it/mission), che devono guidare la PA nella progettazione di applicativi che gestiscono processi interni e servizi erogati alla colettività (user experience, usabilità, human centred design)  ↓
 
 .. nota::
-   Human-Centred Design (HCD)   
+   **Human-Centred Design (HCD)**  
    
    Lo Human-Centred Design (HCD) è un approccio progettuale che mira a coinvolgere e a prendere in considerazione i punti di vista, i bisogni e i desiderata dei destinatari di prodotti e servizi nelle diverse fasi di progetto, in modo da incorporarli precocemente e più efficacemtne nel prodotto finito.
    
 .. nota::
-   Usabilità 
+   **Usabilità** 
    
    L'usabilità è un concetto definito dalla norma 9241 'Ergonomic requirements for office work with visual display terminals (VDTs)' dell' ISO (International Organization for Standardization), come "il grado con cui un prodotto può essere usato da specifici utenti per eseguire specifici compiti con efficacia, efficienza e soddisfazione in uno specifico contesto d'uso". In pratica definisce il grado di facilità e soddisfazione con cui avviene un'interazione uomo-artefatto.  
    
 .. nota:: 
-   User Experience (UX) 
+   **User Experience (UX)** 
    
    L'espressione User Experience (in italiano esperienza d'uso) indica la condizione dell’utente durante l’interazione con un prodotto, un sistema o un servizio considerata nei suoi aspetti esperienziali, emozionali e valoriali. Riguarda anche ciò che l’utente percepisce in termini di utilità, semplicità ed efficienza nell’uso.
 
@@ -70,7 +70,6 @@ Dal Team Trasformazione Digitale dell’AGID vengono rese disponibili le `Linee 
    :alt: architettura
    :align: center
    
-   architettura dell’informazione
 
 Un importante pilastro dei servizi web della PA è rappresentato dall’`Architettura dell’informazione <https://design-italia.readthedocs.io/it/stable/doc/content-design/architettura-dell-informazione.html>`_ — *organizzazione semantica e logica di ambienti informativi, …, serve a rendere i servizi pubblici più facili da trovare, da capire e da usare.  Progettare l’architettura dell’informazione significa soddisfare i bisogni degli utenti, creando contenuti utili e rilevanti che possano adattarsi al contesto di fruizione. …. a titolo di esempio, alcune delle macro funzioni tipiche di un sito pubblico*:
 
