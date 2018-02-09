@@ -58,6 +58,12 @@ Questa gerarchia dovrebbe essere applicata a tutti i database di una PA al fine 
 4.2 Le banche dati, la miniera della PA grazie all’interoperabilità
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: imgrel/dita.png
+   :alt: dita
+   :align: center
+   
+   gli uffici devono avvicinarsi, condividendo i database (immagine lic CCO pubblico dominio)
+   
 I dati sono la principale miniera con la quale lavorano gli uffici pubblici e la condivisione dei dati permette di velocizzare e ottimizzare i processi per erogare servizi e amministrare il territorio.
 
 .. note::
@@ -109,9 +115,47 @@ I dati in formato aperto (open data) pubblicati negli ultimi anni rappresentano 
 Se vogliamo provare a immaginare pannelli semplici di visualizzazione e narrazione dei dati di più PA, viene in grande aiuto il DAF, Data Analytics Framework, (oggi in versione “αlfa”) appena realizzato (ott_2017) dal Team Trasformazione Digitale dell’AgID (“partendo dai dati, interpretiamo il mondo e aiutiamo la società a prendere decisioni basate sui fatti”) e supportato da una  
 `vasta comunità attiva in Italia <https://forum.italia.it/>`_.
 
-`vasta comunità attiva in Italia <https://forum.italia.it/>`_
+|
 
-[comunità](https://forum.italia.it/)
+4.5 I Vocabolari controllati come standard per l’interoperabilità
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Per agevolare l’interoperabilità, il “Piano Triennale ICT 2017–19 della Pubblica Amministrazione” ha previsto l’adozione di `Vocabolari controllati e modelli dati <https://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html#vocabolari-controllati-e-modelli-dati>`_  (al fine di favorire il processo di scambio dati tra Pubbliche amministrazioni è necessario: 1) armonizzare e standardizzare codici e nomenclature ricorrenti in vocabolari controllati, da utilizzarsi nell'implementazione delle basi di dati pubbliche,…. 2) identificare e definire modelli di dati -ontologie-  condivisi in particolare per dati trasversali ai diversi domini applicativi, ad es. persone, organizzazioni, servizi, luoghi).
+
+|
+
+4.6 Il Registro Europeo dei Metadati (MDR) per i “vocabolari controllati”
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. figure:: imgrel/mdr.png
+   :alt: mdr
+   :align: center
+   
+   http://publications.europa.eu/mdr/authority
+
+Il Registro Europeo dei Metadati ha previsto una classe di `NAL, (Named Authority Lists), conosciuti più notoriamente come vocabolari controllati <http://publications.europa.eu/mdr/authority/>`_ , che sono adottabili dalle PA per armonizzare e standardizzare i codici necessari allo scambio di dati tra diverse PA. Basta usarli...!
+
+.. figure:: imgrel/mdr2.png
+   :alt: mdr2
+   :align: center
+   
+   un esempio di `tabella <http://publications.europa.eu/mdr/resource/authority/data-theme/html/data-theme-ita.html#description>`_  che fornisce vari argomenti per classificare i dataset delle PA
+   
+|
+
+4.7 I Metadati, necessari per spiegare i dati e aumentare l’interoperabilità
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Al fine di rendere interoperabili i dati tra diversi uffici di diverse PA, fondamentale è il ruolo delle metadatazioni dei database. 
+Un esempio banale per capire (e accade spesso): nella stessa PA in un database di un ufficio troviamo la voce “Via”, in un altro database di un altro ufficio, la voce “V.”, e in un altro database di un ulteriore ufficio troviamo la voce “via”, e tutti indicano la stessa cosa (cioè la via). Scrivere “via” in diverse modalità nei diversi database non permette un ideale interoperabilità dei dati e quindi ne deriva un uso o riuso poco utile sia per la PA nello svolgimento delle proprie attività istituzionali, che per la società nel caso di open data pubblicati.
+
+- Nel caso di pubblicazioni di open data, la metadatazione dei dati che popolano un database tematico va, innanzitutto, adeguata allo standard DCAT_AP_IT definito nelle “Linee Guida nazionali (AgID) per la valorizzazione del Patrimonio Informativo Pubblico”, e fatta rispettare agli uffici/servizi/dipartimenti di ogni singola PA da un ufficio dati preposto (con un responsabile) che coordina e monitorizza tutti quegli uffici che hanno esigenza di rappresentare dati nei propri database.
+
+- Nel caso di strutturazione o re-ingegnerizzazione di un applicativo gestionale della PA, le software house, interne o selezionate per specifici appalti, dovrebbero porre la massima attenzione su questi aspetti tecnici nel momento in cui progettano/implementano applicativi gestionali per gli uffici pubblici, assicurando, in questo caso, che tutti gli uffici che hanno esigenza, ad esempio, di rappresentare la voce “via” nei propri database lo facciano in maniera univoca evitando “Via”, “V.” o altre strane abbreviazioni inventate. I cosiddetti “vocabolari controllati” devono essere fatti rispettare in tutti i database degli applicativi gestionali.
+
+
+
+
+
 
 
 
