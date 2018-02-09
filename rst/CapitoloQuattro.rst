@@ -152,10 +152,31 @@ Un esempio banale per capire (e accade spesso): nella stessa PA in un database d
 
 - Nel caso di strutturazione o re-ingegnerizzazione di un applicativo gestionale della PA, le software house, interne o selezionate per specifici appalti, dovrebbero porre la massima attenzione su questi aspetti tecnici nel momento in cui progettano/implementano applicativi gestionali per gli uffici pubblici, assicurando, in questo caso, che tutti gli uffici che hanno esigenza, ad esempio, di rappresentare la voce “via” nei propri database lo facciano in maniera univoca evitando “Via”, “V.” o altre strane abbreviazioni inventate. I cosiddetti “vocabolari controllati” devono essere fatti rispettare in tutti i database degli applicativi gestionali.
 
+|
 
+4.8 L’Ufficio Dati nelle PA
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+In ogni PA, almeno di medie e grandi dimensioni, sarebbe ideale avere operativo, (oltre all'eventuale software house per i servizi informatici), un “ufficio Dati” con almeno un `data scientist <https://www.fbk.eu/it/event/la-data-science-come-professione/>`_ /strategist, un data analyst e un micro team di sviluppatori, (una sorta di staff di supporto al `Responsabile della Transizione al Digitale <https://www.spreaker.com/user/lapadigitale/1-chi-e-il-responsabile-per-la-transizio_1>`_), che svolgono le seguenti importanti attività:
 
+- supervisionano costantemente le performance degli applicativi gestionali, le architetture delle banche dati, apportando continui miglioramenti per assicurare l’interoperabilità con le banche dati di altre grandi PA (es. INPS, Motorizzazione, Istat, Ministeri, ecc.);
 
+- verificano il rispetto degli standard di sicurezza dei software in uso;
 
+- assicurano l’efficacia delle procedure di conservazione documentale;
+
+- verificano, attraverso l’adozione di vocabolari controllati, l’univocità delle classi di contenuti dei database, al fine di assicurare quanto più possibile l’interoperabilità di tutte le piattaforme vecchie e nuove in uso nello stesso ente;
+
+- effettuano e condividono con gli uffici, attraverso appositi pannelli di controllo, visualizzazione di dati per comprendere fenomeni multi tema sul territorio (tipo il DAF), per verificare la reale efficacia delle azioni di governo;
+
+- stabiliscono i criteri minimi che devono possedere le nuove piattaforme in termini di service design (esperienza d’uso per dipendenti pubblici e per cittadini — accessibilità);
+
+- assicurano che gli applicativi pubblichino automaticamente online i dati degli uffici, fatti salvi i dati contenenti privacy degli individui, in formato aperto, (ciò che l’AgID definisce `“il patrimonio informativo della Pubblica Amministrazione” <https://www.dati.gov.it/content/linee-guida-nazionali-valorizzazione-patrimonio-informativo-pubblico-2016-0>`_  ) per la trasparenza amministrativa e per il riuso creativo che la collettività può fare. L’automatismo di pubblicazione dei dati dagli applicativi della PA dovrebbe essere assicurato dall'adozione delle `API <https://it.wikipedia.org/wiki/Application_programming_interface>`_, Application Programming Interface, come `raccomandato dal Team Trasformazione Digitale dell’AgID <http://pianotriennale-ict.readthedocs.io/it/latest/search.html?q=api&check_keywords=yes&area=default>`_ nel Piano Triennale per l’Informatica nella PA 2017–19.
+
+.. figure:: imgrel/pianotriennale.png
+   :alt: piano triennale ict pa
+   :align: center
+   
+   `Piano Triennale per l’Informatica nella PA 2017–19 <http://pianotriennale-ict.readthedocs.io/it/latest/index.html>`_
 
 
