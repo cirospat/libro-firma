@@ -32,9 +32,17 @@ Al fine della creazione del software, questa metodologia riporta il “function 
    :alt: video Piacentini
    :align: center
    
-   Ascoltiamo, in un intervista, cosa pensa il Commissario tecnico del `Team Trasformazione Digitale <https://teamdigitale.governo.it/>`_ dell’Agenzia per l’Italia Digitale, `Diego Piacentini <https://teamdigitale.governo.it/it/people/1-profile.htm>`_, del *“function point”*  nella fase di costruzione dei software gestionali
+   Ascoltiamo, in un `intervista <https://youtu.be/8j9U54m5Shk?t=1727>`_, cosa pensa il Commissario tecnico del `Team Trasformazione Digitale <https://teamdigitale.governo.it/>`_ dell’Agenzia per l’Italia Digitale, `Diego Piacentini <https://teamdigitale.governo.it/it/people/1-profile.htm>`_, del *“function point”*  nella fase di costruzione dei software gestionali
    
-   https://youtu.be/8j9U54m5Shk?t=1727
+
+**Da Piacentini arriva un messaggio chiaro → costruire “digital service” da fruire online, non “siti web”**
+
+**Sempre sul “function point” altri punti di vista autorevoli**:
+
+**↓**
+
+
+
    
    
 
