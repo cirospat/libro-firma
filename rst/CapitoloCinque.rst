@@ -226,18 +226,50 @@ Gli uffici lavorano con applicativi facili da usare, e che hanno le banche dati 
 
 Una prassi intelligente per attuare l’Agenda Digitale, ma sentiamo l’innovazione apportata nella PA del Trentino dalla voce e immagini di Gabriele Francescotto:
 
-.. figure:: imgrel/videofrancescotto.png
+.. figure:: imgrel/videofrancescotto.PNG
    :alt: video Francescotto
    :align: center
    
-   Trasformazioni digitali per la PA, `webinar con un interessante intervento di Gabriele Francescotto di OpenContent <https://pianotriennale-ict.readthedocs.io/it/latest/>`_, Società che cura i servizi digitali per l’Associazione dei Comuni Trentini 
+   Trasformazioni digitali per la PA, `webinar con un interessante intervento di Gabriele Francescotto di OpenContent <https://youtu.be/SC7cZ4F5n_8?t=609>`_, Società che cura i servizi digitali per l’Associazione dei Comuni Trentini 
    
-   https://youtu.be/SC7cZ4F5n_8?t=609
+.. figure:: imgrel/architetturacomunweb.png
+   :alt: architettura comunweb
+   :align: center
+   
+   architettura della piattaforma ComunWeb dove i siti web coincidono con i servizi web
+   
+*La piattaforma ComunWeb per la gestione dei processi e dei servizi pubblici dell’Associazione dei Comuni Trentini è stata realizzata utilizzando componenti sviluppate in accordo con le normative vigenti e le raccomandazioni nazionali ed internazionali per lo sviluppo di componenti software destinate al riuso, e vengono rilasciate con licenze aperte* [`Fonte ComunWeb <http://www.comunweb.it/Metodi-e-strumenti/La-piattaforma-ComunWeb>`_].
+
+.. figure:: imgrel/opensource.png
+   :alt: open source
+   :align: center
+   
+Significa che il codice sviluppato per questa piattaforma può essere riutilizzato da qualsiasi PA gratuitamente. Il riuso gratuito dei software delle PA lo impone il Codice dell’Amministrazione Digitale (articolo 69).
+   
+|
+
+5.11 I social sono anche un servizio di informazione. PA, se hai creato il profilo, interagisci con i cittadini! Linee guida e comunità
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: imgrel/socialmedia.png
+   :alt: social media
+   :align: center
+   
+Oltre alla cura del design dei portali web della PA, è essenziale che gli enti che decidono di comunicare sui social le proprie attività istituzionali e accettano di interagire con i cittadini, lo facciano nella maniera più corretta, cioè **comunicando costentemente**!
+
+Per questo nasce `“social media e PA, dalla formazione ai consigli per l’uso” <http://focus.formez.it/sites/all/files/volume_social_media_e_pa.pdf>`_, una guida redatta dal Ministro per la Semplificazione e la Pubblica Amministrazione in collaborazione con il FormezPA e con PAsocial. Spesso capita che comuni postino informazioni su Facebook, ad esempio, e ad una domanda posta da un cittadino, non rispondono, semplicemente perchè molti dipendenti/dirigenti non sono abituati a comunicare istituzionalmente su questo strumento, possibilmente pensando che il canale non sia adatto a comunicazioni formali. Sbagliatissimo.
+
+**Interagisci!**
+
+Se stai sui social devi interagire così come quando sei un cittadino fuori dalle stanze degli uffici pubblici. Altrimenti è meglio starne fuori, perchè i social sono nati, appunto, per “socializzare” informazioni in una modalità “bidirezionale”.
+
+.. figure:: imgrel/innovatoripa.png
+   :alt: innovatori pa
+   :align: center
+   
+   http://www.innovatoripa.it/groups/comunicazione-pubblica
+  
+Se non conosci un informazione, puoi rispondere che ti stai informando con il dirigente o con i colleghi e che risponderai al più presto. Un attiva comunità con consigli a supporto delle strategie di comunicazione della PA è `InnovatoriPA/ comunicazione pubblica <http://www.innovatoripa.it/groups/comunicazione-pubblica>`_.
    
    
-
-
    
-
-
-
