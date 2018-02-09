@@ -99,7 +99,7 @@ Probabilmente le software house chiamate a costruire piattaforme digitali nella 
 Oggi, rispetto agli anni 80, considerati i progressi nel campo della Tecnologia della Comunicazione e dell’Informazione, c’è un ampia disponibilità di strumenti e metodi (mercato) per analizzare i criteri di costruzione di un applicativo necessario a gestire in digitale i processi della PA, ed è più facile effettuare una scelta tenendo in considerazione “come” i software gestiscono le singole azioni, quelle azioni con cui dipendenti e cittadini dovranno interfacciarsi quotidianamente su un monitor.
 
 .. important::
-   **Gli strumenti per la generazione e la diffusione di servizi digitali sono quelli previsti dal cap. 7 del Piano Triennale per l’Informatica nella PA 2017–19.**
+   **Gli strumenti per la generazione e la diffusione di servizi digitali sono quelli previsti dal cap. 7 del `Piano Triennale per l’Informatica nella PA 2017–19 <http://pianotriennale-ict.readthedocs.io/it/latest/doc/07_strumenti-per-la-generazione-e-la-diffusione-di-servizi-digitali.html>`_.**
 
 .. figure:: imgrel/pianoict.png
    :alt: piano ict
