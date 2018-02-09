@@ -29,7 +29,7 @@ Quest’ultimo aspetto comporta inevitabilmente un insofferenza del dipendente n
 
 Il Ministero per la Semplificazione e PA ha redatto Linee Guida su `“Appalti web Human Centred Design, per realizzare capitolati tecnici di gara con  una progettazione orientata all'utente” <http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/linee_guida_appalti_hcd_beta01_0.pdf>`_ .
 
-↓ Queste di seguito sono le terminologie, del Ministero della Funzione Pubblica (www.funzionepubblica.gov.it/mission), che devono guidare la PA nella progettazione di applicativi che gestiscono processi interni e servizi erogati alla colettività (user experience, usabilità, human centred design)  ↓
+↓ Queste di seguito sono le terminologie, del Ministero della Funzione Pubblica (http://www.funzionepubblica.gov.it/mission), che devono guidare la PA nella progettazione di applicativi che gestiscono processi interni e servizi erogati alla colettività (user experience, usabilità, human centred design)  ↓
 
 .. nota::
    **Human-Centred Design (HCD)**  
