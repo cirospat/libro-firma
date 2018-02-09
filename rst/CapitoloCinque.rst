@@ -162,7 +162,7 @@ Le software house devono abituarsi a trattare questa materia (service co-design 
    (immagine fonte www.starecat.com)
    
 .. important::
-   Un interfaccia utente di una piattaforma online è come una barzelletta, se la devi spiegare, non funziona, non è buona.
+   **Un interfaccia utente di una piattaforma online è come una barzelletta, se la devi spiegare, non funziona, non è buona**
    
    
    
