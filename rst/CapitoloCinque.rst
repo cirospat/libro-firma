@@ -124,7 +124,48 @@ Sempre sulla sicurezza dei servizi ICT esistenti, l’AGID prevede un `adeguamen
 Nel caso di software che gestiscono processi amministrativi nella PA, in cui è prevista una forte componente di comunicazione bidirezionale tra dipendenti pubblici e cittadini (**inoltro richieste ⇄ per ottenimento servizi**), la Software House insieme ai dipendenti e dirigenti responsabili della gestione di processi amministrativi, dovrebbero avviare, prima dello sviluppo del software, alcune sessioni di **incontri pubblici con i cittadini per capire il modello di design della piattaforma che più soddisfa l’esigenza sia dei dipendenti pubblici che dei cittadini**. Questo è un punto fondamentale se si vuole che quella piattaforma gestionale sia utilizzata al meglio.
 
 
+.. figure:: imgrel/trasformazionedigitale.png
+   :alt: trasformazione digitale
+   :align: center
+   
+   slide della presentazione di `Gabriele Francescotto di OpenContent <https://drive.google.com/file/d/0B9q5qob_W3NiSVlFRTdEMFNwSmJjekR5aUJBYmgwMGFKbW13/view>`_  per l’Associazione dei Comuni Trentini ad un webinar di ForumPA
+   
+   
+.. figure:: imgrel/cosadevefarelapa.png
+   :alt: cosa deve fare la pa
+   :align: center
+   
+   slide della presentazione di `Gabriele Francescotto di OpenContent <https://drive.google.com/file/d/0B9q5qob_W3NiSVlFRTdEMFNwSmJjekR5aUJBYmgwMGFKbW13/view>`_ per l’Associazione dei Comuni Trentini ad un webinar di ForumPA
+   
+|
 
+5.8 Servizi online facili da capire e usare
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. figure:: imgrel/uuu.PNG
+   :alt: uuu
+   :align: center
+   
+   questa interfaccia è molto facile da usare! … così pure mia nonna capisce (immagine lic. CC BY `Paul Clarke for the Digital Catapult <https://www.jisc.ac.uk/blog/codesign>`_ )
+   
+Il service co-design deve costituire una vera e propria voce di capitolato speciale d’appalto nel procurement della piattaforma gestionale, deve prevedere un adeguato tempo di confronto tra dipendenti pubblici, software house e cittadini, e deve prevedere dei “risultati attesi” precisi.
+
+**Software house: non solo codice di programmazione!**
+
+Le software house devono abituarsi a trattare questa materia (service co-design per le interfacce dei software) sempre con maggiore professionalità e competenza, investendo nella formazione di figure ad hoc.
+
+**La user experience positiva ormai è alla base del successo e dell’uso quotidiano dei prodotti e servizi digitali.**
+.. figure:: imgrel/joke.png
+   :alt: joke
+   :align: center
+   
+   (immagine fonte www.starecat.com)
+   
+.. important::
+   Un interfaccia utente di una piattaforma online è come una barzelletta, se la devi spiegare, non funziona, non è buona.
+   
+   
+   
+   
 
 
 
