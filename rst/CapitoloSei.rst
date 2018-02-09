@@ -88,12 +88,9 @@ Probabilmente le software house chiamate a costruire piattaforme digitali nella 
 
 .. important::
    Pillole curative: 
-   
    **Software, non solo “cosa fa” →  ma “come lo fa”**
-   Inserire — nella costruzione del software — un focus, oltre al “cosa fa”, anche al “come lo fa”, tenendo sempre in mente come riferimento
-   
+   Inserire — nella costruzione del software — un focus, oltre al “cosa fa”, anche al “come lo fa”, tenendo sempre in mente come riferimento   
    1) la semplificazione dei processi e 
-   
    2) l’esperienza d’uso del software.
    
 
