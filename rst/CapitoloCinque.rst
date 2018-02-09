@@ -188,7 +188,17 @@ Il design dei servizi digitali online della PA deve seguire alcuni principi affi
 9. Essere coerenti, non uniformi / Be consistent, not uniform — 
 10. Rendere le cose aperte: rende le cose migliori /Make things open: it makes things better.
 
-
+E la community **Designers Italia** riprende questo approccio. `“Tra tecnologia e design, le cose da non dimenticare mai quando progetti un servizio digitale” <https://medium.com/designers-italia/tra-tecnologia-e-design-le-cose-da-non-dimenticare-mai-quando-progetti-un-servizio-digitale-5260df1782d1>`_:
+- Metti la tecnologia al servizio delle persone
+- Coinvolgi i cittadini e comprendi i loro effettivi bisogni
+- Parti dai dati
+- Comprendi il contesto 
+- Eroga servizi sicuri, disponibili sempre e ovunque
+- Comunica efficacemente
+- Crea solo processi necessari
+- Rendi i dati aperti, condividi processi e strumenti
+- Cerca di migliorare continuamente
+- Valuta e monitora
 
 
    
