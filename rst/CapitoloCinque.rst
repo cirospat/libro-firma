@@ -177,6 +177,18 @@ Le PA che redigono contenuti per i siti web istituzionali devono verificare la r
 .. figure:: imgrel/govuk.png
    :alt: gov uk
 Il design dei servizi digitali online della PA deve seguire alcuni principi affinché i cittadini trovano i servizi accettabili. Ecco un esempio di Principi di Design adottati nel Regno Unito per la costruzione dei servizi digitali:
+1. Iniziare con i bisogni degli utenti / Start with user needs — 
+2. Fare meno / Do less — 
+3. Fare Design con i dati / Design with data — 
+4. Fare in modo da rendere facile ciò che è difficile / Do the hard work to make it simple — 
+5. Replicare. Quindi replicare ancora / Iterate. Then iterate again — 
+6. Questo è per tutti / This is for everyone — 
+7. Comprendere il contesto / Understand context — 
+8. Costruire servizi digitali, non siti web /Build digital services, not websites — 
+9. Essere coerenti, non uniformi / Be consistent, not uniform — 
+10. Rendere le cose aperte: rende le cose migliori /Make things open: it makes things better.
+
+
 
 
    
