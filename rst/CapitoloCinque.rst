@@ -212,10 +212,27 @@ E la community **Designers Italia** riprende questo approccio. `“Tra tecnologi
 
 |
 
+5.10 Una buona prassi nell'innovazione di processo e di servizio di una PA, con l’occhio al design
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: imgrel/consorziotrentino.png
+   :alt: gov uk
 
+Il video che segue espone in maniera estremamente chiara un validissimo percorso intrapreso da una PA (il Consorzio dei comuni Trentini) nel processo di Trasformazione Digitale. Validissimo perchè coerente con i contenuti del `Piano Triennale dell’informatica nella PA 2017–19 <https://pianotriennale-ict.readthedocs.io/it/latest/>`_, redatto dall’AgID.
 
+Il **cittadino è al centro** di questo percorso intrapreso in Trentino, con un livello di interazione elevato.
 
+Gli uffici lavorano con applicativi facili da usare, e che hanno le banche dati interoperabili.
+
+Una prassi intelligente per attuare l’Agenda Digitale, ma sentiamo l’innovazione apportata nella PA del Trentino dalla voce e immagini di Gabriele Francescotto:
+
+.. figure:: imgrel/videofrancescotto.png
+   :alt: video Francescotto
+   :align: center
+   
+   Trasformazioni digitali per la PA, `webinar con un interessante intervento di Gabriele Francescotto di OpenContent <https://pianotriennale-ict.readthedocs.io/it/latest/>`_, Società che cura i servizi digitali per l’Associazione dei Comuni Trentini 
+   
+   https://youtu.be/SC7cZ4F5n_8?t=609
    
    
 
