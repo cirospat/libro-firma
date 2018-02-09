@@ -9,8 +9,9 @@ Oggi molte  Pubbliche Amministrazioni lavorano contemporaneamente **con la carta
 
 .. figure:: imgrel/macchine_fotografiche.png
    :alt: il digitale con il file e l’analogico con la carta, insieme nella PA (immagine lic CCO pubblico dominio)
-   :align: center
-(immagine lic CCO pubblico dominio)
+   :align: center   
+   
+   (immagine lic CCO pubblico dominio)
 
 
 **Perchè?**
@@ -51,8 +52,9 @@ L’armadietto, infine, è usato per gestire anche una parte fisica del processo
 
 .. figure:: imgrel/digitale-analogico-digitale.png
    :alt: digitale analogico digitale
-   :align: center
-elenco degli strumenti utilizzati mediamente nella gestione del processo per il perfezionamento di un atto amministrativo in diverse PA. Manca l’armadietto metallico per la conservazione del cartaceo (immagine di Ciro Spataro lic. CC BY SA)
+   :align: center  
+   
+   elenco degli strumenti utilizzati mediamente nella gestione del processo per il perfezionamento di un atto amministrativo in diverse PA. Manca l’armadietto metallico per la conservazione del cartaceo (immagine di Ciro Spataro lic. CC BY SA)
 
 **Ecco in sintesi come viene gestito oggi il processo amministrativo ancora in molte PA. Commistione  di carta e files dove all’inizio e alla fine del ciclo si trova un documento digitale (generato da editing su pc e pubblicato online o inviato via email al richiedente).**
 
