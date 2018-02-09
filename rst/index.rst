@@ -6,8 +6,6 @@ Agenda Digitale, servizi online per i cittadini, dematerializzazione, dati apert
 
 `a cura di Ciro Spataro <https://sites.google.com/view/cirospat>`_
 
-------------
-
 .. note::
 
    [dopo aver fatto fare il ruttino alla piccola di 3 mesi alle 3 del mattino passeggiando per il buio corridoio, per più notti, hai la mente più limpida,... perchè il ruttino è liberazione] 
