@@ -111,5 +111,7 @@ Se vogliamo provare a immaginare pannelli semplici di visualizzazione e narrazio
 
 `vasta comunità attiva in Italia <https://forum.italia.it/>`_
 
+[comunità](https://forum.italia.it/)
+
 
 
