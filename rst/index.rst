@@ -7,6 +7,8 @@ Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizi
 .. figure:: imgrel/odscomunepa.PNG
    :alt: OpendataSicilia e Comune di Palermo
    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMChGbafoZo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_
 dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_.
 
