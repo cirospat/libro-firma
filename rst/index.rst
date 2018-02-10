@@ -6,7 +6,7 @@ Agenda Digitale, servizi online per i cittadini, dematerializzazione, dati apert
 
 .. figure:: imgrel/odscomunepa.PNG
    :alt: OpendataSicilia e Comune di Palermo
-   :align: 
+   :align: center
 
 Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_
 dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_
