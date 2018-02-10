@@ -3,7 +3,7 @@ Un report per capire meglio la PA nel suo cammino verso la **transizione al digi
 
 Riflessioni e appunti di Ciro Spataro.
 
-
+------
 
 
 **Riuso**
