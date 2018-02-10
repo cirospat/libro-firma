@@ -8,6 +8,10 @@ ABSTRACT | Le iniziative  di partecipazione e coinvolgimento dei cittadini nella
    :alt: incontro
    :align: center
    
+   partecipazione della PA, software house e cittadini per il design dei servizi digitali (immagine lic. CC BY SA `Marco Antonio Torres via Flickr <https://www.flickr.com/photos/torres21/3052366534>`_)
+   
+   
+   
   
 
 
