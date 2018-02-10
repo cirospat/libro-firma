@@ -30,11 +30,7 @@ Sono cresciuto insieme ad altre persone. Questo è importante. Negli anni hanno 
 
 #. comunità `PA digitale <https://www.facebook.com/groups/384577025038311>`_, `Codice Amministrazione Digitale <https://www.facebook.com/groups/cad.ancitel/>`_, `Trasparenza siti web della PA <https://www.facebook.com/groups/trasparenzasitiwebpa/>`_;
 
-
-------
-da inserire link
-`xxxxxx <http://blablabla.it>`_
--------
+|
 
 .. note::
    **Riuso**
