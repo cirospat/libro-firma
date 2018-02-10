@@ -4,7 +4,7 @@ Cap 8 | Note Finali (o disclaimer forse)
 
 Non sono un professionista delle tecnologie/strumenti digitali, questo si è capito! Solo un dipendente pubblico che vuole migliorare quotidianamente, insieme a colleghi e dirigenti e cittadini, il modo di lavorare dentro la propria PA per migliorare i servizi pubblici con l’ausilio delle tecnologie digitali. Le riflessioni e analisi illustrate derivano da:
 
-- studio del CAD (http://www.visualcad.it/ visualizzazione by Giovanni Pirrotta);
+- studio del CAD (http://www.visualcad.it/ visualizzazione a cura di Giovanni Pirrotta);
 
 - Piano Triennale ICT della PA 2017–2019 e documenti del Team trasformazione Digitale;
 
@@ -20,22 +20,22 @@ Non sono un professionista delle tecnologie/strumenti digitali, questo si è cap
 
 |
 
-Sono cresciuto insieme ad altri. Negli anni hanno contribuito ad alimentare le mie conoscenze ed esperienze nella materia “servizi digitali della PA”: alcuni **colleghi e dirigenti della mia e di altre PA (special thanks ai colleghi trentini)**, e le **valide persone di questi canali e comunità attive**:
+Sono cresciuto insieme ad altri. Questo è importante. Negli anni hanno contribuito ad alimentare le mie conoscenze ed esperienze nella materia “servizi digitali della PA”: alcuni **colleghi e dirigenti della mia e di altre PA (special thanks ai colleghi trentini)**, e le **valide persone di questi canali e comunità attive**:
 
 #. formazione e sensibilizzazione dei dipendenti e dirigenti della PA sulle tematiche del digitale a 360° a cura del FormezPA; 
 
-#. forum di discussione sui servizi pubblici digitali del Team Trasformazione Digitale dell’AgID.
+#. forum di discussione sui servizi pubblici digitali del Team Trasformazione Digitale dell’AgID;
 
 #. comunità “PA digitale”, “Codice Amministrazione Digitale”, “Trasparenza siti web della PA”;
 
-#. comunità sugli open data “Opendatasicilia”, Trentino open data”, Open data Puglia”, “Spaghetti open data”, “Dataninja”;
+#. comunità sugli open data “Opendatasicilia”, Trentino open data”, Open data Puglia”, “Spaghetti open data”, “Dataninja”.
 
-
+da inserire link
 `xxxxxx <http://blablabla.it>`_
 
 .. note::
 
-   Scrivere questo report per la visualizzazione del testo su "Read The Docs" mi è servito per aumentare le mie competenze digitali. Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la predisposizione della **"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane"**
+   Ho scritto questo report creando un progetto ad hoc su GitHub, usando il linguaggio Markdown per la visualizzazione del testo su "Read The Docs". Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della **"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane"**
 
    
 .. important::
