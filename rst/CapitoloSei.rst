@@ -49,6 +49,7 @@ Non è solo un fattore di eliminazione della carta su cui viene stampato un cert
 `Developers Forum <https://forum.italia.it/>`_ è la sezione di **Developers Italia** nata per condividere, attraverso il dialogo e il confronto, conoscenza e strumenti sui servizi pubblici digitali. Uno spazio — anche di formazione — da usare da parte di dipendenti e dirigenti della PA che in qualche modo, e a vario titolo, entrano nel processo di transizione dei servizi pubblici alla modalità digitale.
 
 **Diego Piacentini: il sistema operativo del Paese**
+
 .. figure:: imgrel/sistemaoperativo.png
    :alt: sistema operativo del paese
    :align: center
@@ -69,9 +70,15 @@ Dal Piano d’azione dell’UE per l’eGovernment 2016–2020 `“Accelerare la
 
 La Commissione Europea introduce 7 principi guida in questo Piano, `Daniela Battisti <https://medium.com/@danielabattisti?source=post_header_lockup>`_ (Team Trasformazione Digitale) `in questo post  <https://medium.com/team-per-la-trasformazione-digitale/piano-triennale-trasformazione-digitale-pubblica-amministrazione-italiana-agenda-digitale-europea-7589f673f4b1/>`_ li ha abilmente spiegati, e qui vengono sintetizzati:
 
-
 .. important::
-   Per 
+   - Principio digitale per definizione (digital by default) — Le pubbliche amministrazioni devono fornire servizi digitali come opzione predefinita.
+   - Principio una tantum — La PA dovrebbe evitare di chiedere ai cittadini e alle imprese informazioni che sono già in suo possesso.
+   - Principio di apertura e trasparenza dei dati e dei processi amministrativi — Le pubbliche amministrazioni dovrebbero scambiarsi le informazioni e i dati e permettere a cittadini e imprese di accedere ai propri dati, di controllarli e di correggerli.
+   - Principio interoperabile per definizione — I servizi pubblici devono essere progettati in modo da funzionare in modalità integrata e senza interruzioni in tutto il mercato unico.
+   - Principio di fiducia e sicurezza — Sin dalla fase di progettazione devono essere integrati i profili relativi alla protezione dei dati personali, tutela della vita privata e sicurezza informatica.
+   - Principio di inclusività e accessibilità — Le pubbliche amministrazioni dovrebbero progettare servizi pubblici digitali che siano per definizione inclusivi e che vengano incontro alle diverse esigenze delle persone, ad esempio degli anziani e delle persone con disabilità.
+   - Principio Transfrontaliero per definizione — Le pubbliche amministrazioni dovrebbero rendere disponibili a livello transfrontaliero i servizi pubblici digitali rilevanti e impedire un’ulteriore frammentazione, facilitando in tal modo la mobilità all'interno del mercato unico.
+   
    
 
 .. important::
