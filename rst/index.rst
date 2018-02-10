@@ -2,7 +2,7 @@
 Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizidigitali?
 *****
 
-Agenda Digitale, servizi online per i cittadini, dematerializzazione, dati aperti, open government, interoperabilità, design, usabilità. Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.
+**Agenda Digitale, servizi online per i cittadini, dematerializzazione, dati aperti, open government, interoperabilità, design, usabilità. Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.**
 
 .. figure:: imgrel/odscomunepa.PNG
    :alt: OpendataSicilia e Comune di Palermo
