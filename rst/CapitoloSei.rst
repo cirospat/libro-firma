@@ -107,15 +107,25 @@ Tra il 2017 e il 2018 molte PA aderiranno alle tre piattaforme nazionali abilita
 → ai pagamenti online di quell’identità digitale
 
 = **i vari status del cittadino**, attraverso l’interoperabilità di tutte le banche dati pubbliche, cioè ad esempio:
-- istruzione (iscrizioni scuole comunali/statali)
-- tributi (per verifica pagamenti tari, imu, tasi, tosap, con codifiche specifiche….)
-- fisco
-- sport (per richieste spazi pubblici sportivi, per pagamenti fruizione piscine/strutture pubbliche,…)
-- edilizia (per verifica adempimenti ad es. di sanatorie, concessioni, autorizzazioni, nulla osta, ecc e relativi pagamenti)
-- catastale (per verifiche rendite e quadrature da usare per il calcolo dei tributi di competenza dell’ente)
-- polizia municipale (per la verifica adempimenti regime sanzionatorio applicato ai cittadini/aziende per violazione di norme)
-- attività produttive — suap (per verificare esecuzione adempimenti concernenti l’uso del suolo pubblico e l’esercizio delle attività commerciali/prodittive di ogni genere, relativi pagamenti,..)
-- e altri.
+
+→ istruzione (iscrizioni scuole comunali/statali)
+
+→ tributi (per verifica pagamenti tari, imu, tasi, tosap, con codifiche specifiche….)
+
+→ fisco
+
+→ sport (per richieste spazi pubblici sportivi, per pagamenti fruizione piscine/strutture pubbliche,…)
+
+→ edilizia (per verifica adempimenti ad es. di sanatorie, concessioni, autorizzazioni, nulla osta, ecc e relativi pagamenti)
+
+→ catastale (per verifiche rendite e quadrature da usare per il calcolo dei tributi di competenza dell’ente)
+
+→ polizia municipale (per la verifica adempimenti regime sanzionatorio applicato ai cittadini/aziende per violazione di norme)
+
+→ attività produttive — suap (per verificare esecuzione adempimenti concernenti l’uso del suolo pubblico e l’esercizio delle attività   commerciali/prodittive di ogni genere, relativi pagamenti,..)
+
+→ e altri.
+
 
 E’ fondamentale, inoltre, assicurare la **completa integrazione di tutti i database geografici** necessari a gestire le informazioni relative alle competenze dei diversi uffici (per intenderci un Sistema Informativo Territoriale comprendente tutti i tematismi e condiviso tra tutti gli uffici pubblici).
 
@@ -130,6 +140,12 @@ E’ fondamentale, inoltre, assicurare la **completa integrazione di tutti i dat
 **#design** (fattore di successo nel rapporto tra PA e cittadini)
 
 **#digital #service** (servizi pubblici: cuore della mission istituzionale della PA, trait d’union tra PA e cittadini)
+
+|
+
+6.6 La transizione al digitale è prima di tutto un percorso culturale
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Un percorso culturale da intraprendere da parte degli individui che, a vario titolo, lavorano nelle stanze della PA, e se manca nelle singole persone la consapevolezza dell’importanza e dell’utilità di portare nel digitale tutto il lavoro che oggi si fa sulla carta, non si attuerà mai un cambiamento concreto che possa dare una nuova immagine della PA nei confronti dei cittadini. Bisognerà lavorare sul fare accettare a tutti i dipendenti e dirigenti il digitale “ridendo”, nel senso che tutti dovranno essere messi nella condizione di comprendere facilmente che lavorare con nuove metodologie in modalità digitale è utile prima a se stessi nello svolgimento delle proprie funzioni, e allo stesso tempo ai cittadini fruitori dei servizi pubblici. E questo lavoro di tipo culturale non sarà facile da svolgere per la stessa PA, sarà necessario trovare le giuste figure in ogni PA capaci di animare il percorso culturale di cambiamento. Le sole norme nuove calate dall'alto alla PA locale non saranno sufficienti ad attuare pienamente un Agenda Digitale pubblica entro il 2020. Servirà tanta formazione, sensibilizzazione, animazione, lavoro che il Team Trasformazione Digitale dell’AGID ha avviato egregiamente e che va continuato in ogni PA.
 
 
 
