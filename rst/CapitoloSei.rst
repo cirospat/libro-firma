@@ -133,6 +133,13 @@ E’ fondamentale, inoltre, assicurare la **completa integrazione di tutti i dat
 
 6.5 Le parole chiave, per una samba di cui al titolo di questo report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: imgrel/processipa.png
+   :alt: processi pa
+   :align: center
+   
+   relazioni tra cittadini e PA nell’ecosistema dei servizi pubblici digitali  (Ciro Spataro lic. CC BY SA 4.0 int)
+
 **#processi amministrativi** della PA con **#interoperabilità** dei **#database** e **#competenza** + **#formazione ICT** delle risorse umane (ingredienti dell’ecosistema digitale della PA)
 
 **#cittadini** (fruitori dei servizi pubblici)
@@ -141,11 +148,21 @@ E’ fondamentale, inoltre, assicurare la **completa integrazione di tutti i dat
 
 **#digital #service** (servizi pubblici: cuore della mission istituzionale della PA, trait d’union tra PA e cittadini)
 
+E’ indispensabile trovare una **relazione e armonia tra queste parole chiave**, per agevolare e semplificare il lavoro che va fatto da migliaia di persone nelle migliaia di stanze della PA italiana nei prossimi anni. Le norme di oggi devono essere più chiare, snelle e vicine alla componente “umana” del lavoro da fare (dentro e fuori gli uffici), meno “gessate” e meno “da interpretare” rispetto al passato.
+
+La tecnologia digitale e le relative piattaforme sono solo strumenti da usare quando è chiaro come fare tutte le cose dentro gli uffici, e quando è chiaro come i cittadini gradiscono fruire i servizi pubblici online.
+
 |
 
 6.6 La transizione al digitale è prima di tutto un percorso culturale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Un percorso culturale da intraprendere da parte degli individui che, a vario titolo, lavorano nelle stanze della PA, e se manca nelle singole persone la consapevolezza dell’importanza e dell’utilità di portare nel digitale tutto il lavoro che oggi si fa sulla carta, non si attuerà mai un cambiamento concreto che possa dare una nuova immagine della PA nei confronti dei cittadini. Bisognerà lavorare sul fare accettare a tutti i dipendenti e dirigenti il digitale “ridendo”, nel senso che tutti dovranno essere messi nella condizione di comprendere facilmente che lavorare con nuove metodologie in modalità digitale è utile prima a se stessi nello svolgimento delle proprie funzioni, e allo stesso tempo ai cittadini fruitori dei servizi pubblici. E questo lavoro di tipo culturale non sarà facile da svolgere per la stessa PA, sarà necessario trovare le giuste figure in ogni PA capaci di animare il percorso culturale di cambiamento. Le sole norme nuove calate dall'alto alla PA locale non saranno sufficienti ad attuare pienamente un Agenda Digitale pubblica entro il 2020. Servirà tanta formazione, sensibilizzazione, animazione, lavoro che il Team Trasformazione Digitale dell’AGID ha avviato egregiamente e che va continuato in ogni PA.
+Un percorso culturale da intraprendere da parte degli individui che, a vario titolo, lavorano nelle stanze della PA, e se manca nelle singole persone la consapevolezza dell’importanza e dell’utilità di portare nel digitale tutto il lavoro che oggi si fa sulla carta, non si attuerà mai un cambiamento concreto che possa dare una nuova immagine della PA nei confronti dei cittadini. **Bisognerà lavorare sul fare accettare a tutti i dipendenti e dirigenti il digitale “ridendo”**, nel senso che tutti dovranno essere messi nella condizione di comprendere facilmente che lavorare con nuove metodologie in modalità digitale è utile prima a se stessi nello svolgimento delle proprie funzioni, e allo stesso tempo ai cittadini fruitori dei servizi pubblici. 
+
+E questo lavoro di tipo culturale non sarà facile da svolgere per la stessa PA, sarà necessario trovare le giuste figure in ogni PA capaci di **animare il percorso culturale di cambiamento**. Le sole norme nuove calate dall'alto alla PA locale non saranno sufficienti ad attuare pienamente un Agenda Digitale pubblica entro il 2020. Servirà tanta formazione, sensibilizzazione, animazione, **lavoro che il Team Trasformazione Digitale dell’AGID ha avviato egregiamente e che va continuato in ogni PA**.
+
+.. figure:: imgrel/cirospataro.PNG
+   :alt: ciro spataro
+   :align: center
 
 
 
