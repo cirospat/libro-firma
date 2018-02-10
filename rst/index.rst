@@ -7,7 +7,7 @@ Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizi
 .. figure:: imgrel/odscomunepa.PNG
    :alt: OpendataSicilia e Comune di Palermo
    
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+[![](http://img.youtube.com/vi/gMChGbafoZo/0.jpg)](http://www.youtube.com/watch?v=gMChGbafoZo "")
 
 Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_
 dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_.
