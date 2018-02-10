@@ -177,15 +177,24 @@ Le PA che redigono contenuti per i siti web istituzionali devono verificare la r
 .. figure:: imgrel/govuk.png
    :alt: gov uk
 Il design dei servizi digitali online della PA deve seguire alcuni principi affinché i cittadini trovano i servizi accettabili. Ecco un esempio di Principi di Design adottati nel Regno Unito per la costruzione dei servizi digitali:
-1. Iniziare con i bisogni degli utenti / Start with user needs — 
-2. Fare meno / Do less — 
-3. Fare Design con i dati / Design with data — 
-4. Fare in modo da rendere facile ciò che è difficile / Do the hard work to make it simple — 
-5. Replicare. Quindi replicare ancora / Iterate. Then iterate again — 
-6. Questo è per tutti / This is for everyone — 
-7. Comprendere il contesto / Understand context — 
-8. Costruire servizi digitali, non siti web /Build digital services, not websites — 
-9. Essere coerenti, non uniformi / Be consistent, not uniform — 
+1. Iniziare con i bisogni degli utenti / Start with user needs 
+
+2. Fare meno / Do less
+
+3. Fare Design con i dati / Design with data
+
+4. Fare in modo da rendere facile ciò che è difficile / Do the hard work to make it simple
+
+5. Replicare. Quindi replicare ancora / Iterate. Then iterate again
+
+6. Questo è per tutti / This is for everyone
+
+7. Comprendere il contesto / Understand context
+
+8. Costruire servizi digitali, non siti web /Build digital services, not websites
+
+9. Essere coerenti, non uniformi / Be consistent, not uniform
+
 10. Rendere le cose aperte: rende le cose migliori /Make things open: it makes things better.
 
 E la community **Designers Italia** riprende questo approccio. `“Tra tecnologia e design, le cose da non dimenticare mai quando progetti un servizio digitale” <https://medium.com/designers-italia/tra-tecnologia-e-design-le-cose-da-non-dimenticare-mai-quando-progetti-un-servizio-digitale-5260df1782d1>`_:
@@ -259,7 +268,7 @@ Significa che il codice sviluppato per questa piattaforma può essere riutilizza
    
 Oltre alla cura del design dei portali web della PA, è essenziale che gli enti che decidono di comunicare sui social le proprie attività istituzionali e accettano di interagire con i cittadini, lo facciano nella maniera più corretta, cioè **comunicando costentemente**!
 
-Per questo nasce `“social media e PA, dalla formazione ai consigli per l’uso” <http://focus.formez.it/sites/all/files/volume_social_media_e_pa.pdf>`_, una guida redatta dal Ministro per la Semplificazione e la Pubblica Amministrazione in collaborazione con il FormezPA e con PAsocial. Spesso capita che comuni postino informazioni su Facebook, ad esempio, e ad una domanda posta da un cittadino, non rispondono, semplicemente perchè molti dipendenti/dirigenti non sono abituati a comunicare istituzionalmente su questo strumento, possibilmente pensando che il canale non sia adatto a comunicazioni formali. Sbagliatissimo.
+Per questo nasce `“social media e PA, dalla formazione ai consigli per l’uso” <http://focus.formez.it/sites/all/files/volume_social_media_e_pa.pdf>`_ (`aggiornato alla seconda versione <http://focus.formez.it/sites/all/files/ii_edizione_ebook_social_media_e_pa.pdf>`_), una guida redatta dal Ministro per la Semplificazione e la Pubblica Amministrazione in collaborazione con il FormezPA e con PAsocial. Spesso capita che comuni postino informazioni su Facebook, ad esempio, e ad una domanda posta da un cittadino, non rispondono, semplicemente perchè molti dipendenti/dirigenti non sono abituati a comunicare istituzionalmente su questo strumento, possibilmente pensando che il canale non sia adatto a comunicazioni formali. Sbagliatissimo.
 
 **Interagisci!**
 
