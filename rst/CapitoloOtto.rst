@@ -22,16 +22,19 @@ Non sono un professionista delle tecnologie/strumenti digitali, questo si è cap
 
 Sono cresciuto insieme ad altri. Questo è importante. Negli anni hanno contribuito ad alimentare le mie conoscenze ed esperienze nella materia “servizi digitali della PA”: alcuni **colleghi e dirigenti della mia e di altre PA (special thanks ai colleghi trentini)**, e le **valide persone di questi canali e comunità attive**:
 
-#. formazione e sensibilizzazione dei dipendenti e dirigenti della PA sulle tematiche del digitale a 360° a cura del FormezPA; 
+#. `formazione e sensibilizzazione dei dipendenti e dirigenti della PA sulle tematiche del digitale a 360° <http://eventipa.formez.it/search/site/?f[0]=im_field_tipoattivita%3A8798>`_ a cura del FormezPA; 
 
-#. forum di discussione sui servizi pubblici digitali del Team Trasformazione Digitale dell’AgID;
+#. comunità sugli open data `Opendatasicilia <https://groups.google.com/forum/#!forum/opendatasicilia>`_ ,  `Trentino open data <https://www.facebook.com/groups/todgroup/?fref=ts>`_,  `Open data Puglia <https://www.facebook.com/groups/169174136770880/?fref=ts>`_,  `Spaghetti open data <https://groups.google.com/forum/#!forum/spaghettiopendata>`_,  `Dataninja <https://www.facebook.com/groups/dataninja/>`_.
 
-#. comunità “PA digitale”, “Codice Amministrazione Digitale”, “Trasparenza siti web della PA”;
+#. forum di discussione sui `servizi pubblici digitali del Team Trasformazione Digitale dell’AgID <https://forum.italia.it/>`_;
 
-#. comunità sugli open data “Opendatasicilia”, Trentino open data”, Open data Puglia”, “Spaghetti open data”, “Dataninja”.
+#. comunità `PA digitale <https://www.facebook.com/groups/384577025038311>`_, `Codice Amministrazione Digitale <https://www.facebook.com/groups/cad.ancitel/>`_, `Trasparenza siti web della PA <https://www.facebook.com/groups/trasparenzasitiwebpa/>`_;
 
+
+------
 da inserire link
 `xxxxxx <http://blablabla.it>`_
+-------
 
 .. note::
 
