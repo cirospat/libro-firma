@@ -6,9 +6,9 @@ Non sono un professionista delle tecnologie/strumenti digitali, questo si è cap
 
 - studio del CAD (http://www.visualcad.it/ visualizzazione a cura di Giovanni Pirrotta);
 
-- studio delPiano Triennale ICT della PA 2017–2019 e documenti del Team trasformazione Digitale;
+- studio del Piano Triennale ICT della PA 2017–2019 e documenti del Team Trasformazione Digitale;
 
-- esperienze dirette e indirette (di anni) di ascolto e confronto con dipendenti e dirigenti della mia e di altre PA italiane (enti territoriali); 
+- esperienze dirette e indirette (di anni) di ascolto e confronto con dipendenti e dirigenti della mia e di altre PA italiane (enti territoriali in primis); 
 
 - esperienze dirette con strumenti digitali per la gestione di lavoro;
 
