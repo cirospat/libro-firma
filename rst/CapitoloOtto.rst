@@ -43,6 +43,6 @@ da inserire link
    
 .. important::
 
-   **Grazie di cuore se siete arrivati fin qui**, siete molto coraggiosi/e e spero che i popcorn vi siano bastati :-)
+   **Grazie di cuore se siete arrivati fin qui**, siete molto coraggiosi/e e spero che i popcorn vi siano bastati  :-)
    
    [...la piccola ora ha 7 mesi, sono passati 4 mesi da quando ho iniziato a scrivere nel tempo libero (le notti) questo report]
