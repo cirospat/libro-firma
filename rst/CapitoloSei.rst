@@ -19,7 +19,6 @@ Perchè sui servizi digitali, e relativa usabilità, si giocheranno le principal
 Non è solo un fattore di eliminazione della carta su cui viene stampato un certificato/documento di un ufficio pubblico. Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario e intelligente e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti. Per fare questi passi **è necessario disporre di competenze adeguate (ICT skills) all’interno delle PA**, per attuare concretamente la fatidica “transizione al digitale”.
 
 
-
 .. note::
    Pillole curative:
    
@@ -28,6 +27,7 @@ Non è solo un fattore di eliminazione della carta su cui viene stampato un cert
    Se le competenze ICT sono assenti negli uffici pubblici, nessuna versione di CAD e di PIANO TRIENNALE ICT sarà in grado di far erogare pienamente ad una PA servizi (e gestire processi) digitali!
    Quindi servono dipendenti e dirigenti competenti in ICT nella PA: o si scovano nei camerini in cui si trovano spesso non valorizzati da anni (dipendenti spesso anche sviluppatori), o si fa in modo che entrino nella PA (dipendenti/dirigenti a contratto/progetto).
 
+|
 
 .. figure:: imgrel/cad.png
    :alt: cad
@@ -56,7 +56,7 @@ Non è solo un fattore di eliminazione della carta su cui viene stampato un cert
    
    servizi semplici, dal post `”sistema operativo” dell’Italia (di Diego Piacentini) <https://medium.com/team-per-la-trasformazione-digitale/nuovo-sistema-operativo-paese-competenze-tecnologiche-programmi-be0d71b3f84b>`_
 
-
+|
 
 6.3 Entro il 2020 l’UE chiede agli stati un e-government in linea con le esigenze e richieste di cittadini e imprese
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -71,20 +71,65 @@ Dal Piano d’azione dell’UE per l’eGovernment 2016–2020 `“Accelerare la
 La Commissione Europea introduce 7 principi guida in questo Piano, `Daniela Battisti <https://medium.com/@danielabattisti?source=post_header_lockup>`_ (Team Trasformazione Digitale) `in questo post  <https://medium.com/team-per-la-trasformazione-digitale/piano-triennale-trasformazione-digitale-pubblica-amministrazione-italiana-agenda-digitale-europea-7589f673f4b1/>`_ li ha abilmente spiegati, e qui vengono sintetizzati:
 
 .. important::
-   - Principio digitale per definizione (digital by default) — Le pubbliche amministrazioni devono fornire servizi digitali come opzione predefinita.
-   - Principio una tantum — La PA dovrebbe evitare di chiedere ai cittadini e alle imprese informazioni che sono già in suo possesso.
-   - Principio di apertura e trasparenza dei dati e dei processi amministrativi — Le pubbliche amministrazioni dovrebbero scambiarsi le informazioni e i dati e permettere a cittadini e imprese di accedere ai propri dati, di controllarli e di correggerli.
-   - Principio interoperabile per definizione — I servizi pubblici devono essere progettati in modo da funzionare in modalità integrata e senza interruzioni in tutto il mercato unico.
-   - Principio di fiducia e sicurezza — Sin dalla fase di progettazione devono essere integrati i profili relativi alla protezione dei dati personali, tutela della vita privata e sicurezza informatica.
-   - Principio di inclusività e accessibilità — Le pubbliche amministrazioni dovrebbero progettare servizi pubblici digitali che siano per definizione inclusivi e che vengano incontro alle diverse esigenze delle persone, ad esempio degli anziani e delle persone con disabilità.
-   - Principio Transfrontaliero per definizione — Le pubbliche amministrazioni dovrebbero rendere disponibili a livello transfrontaliero i servizi pubblici digitali rilevanti e impedire un’ulteriore frammentazione, facilitando in tal modo la mobilità all'interno del mercato unico.
+   - **Principio digitale per definizione (digital by default)** — Le pubbliche amministrazioni devono fornire servizi digitali come opzione predefinita.
+   - **Principio una tantum** — La PA dovrebbe evitare di chiedere ai cittadini e alle imprese informazioni che sono già in suo possesso.
+   - **Principio di apertura e trasparenza dei dati e dei processi amministrativi** — Le pubbliche amministrazioni dovrebbero scambiarsi le informazioni e i dati e permettere a cittadini e imprese di accedere ai propri dati, di controllarli e di correggerli.
+   - **Principio interoperabile per definizione** — I servizi pubblici devono essere progettati in modo da funzionare in modalità integrata e senza interruzioni in tutto il mercato unico.
+   - **Principio di fiducia e sicurezza** — Sin dalla fase di progettazione devono essere integrati i profili relativi alla protezione dei dati personali, tutela della vita privata e sicurezza informatica.
+   - **Principio di inclusività e accessibilità** — Le pubbliche amministrazioni dovrebbero progettare servizi pubblici digitali che siano per definizione inclusivi e che vengano incontro alle diverse esigenze delle persone, ad esempio degli anziani e delle persone con disabilità.
+   - **Principio Transfrontaliero per definizione** — Le pubbliche amministrazioni dovrebbero rendere disponibili a livello transfrontaliero i servizi pubblici digitali rilevanti e impedire un’ulteriore frammentazione, facilitando in tal modo la mobilità all'interno del mercato unico.
    
+|
+
+6.4 Aderire a SPID, ANPR, PAGOPA è solo l’inizio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: imgrel/spid.png
+   :alt: spid anpr pagopa
+   :align: center
    
+Sistema Pubblico di Identità Digitale, Anagrafe della Popolazione Residente, Sistema di pagamento elettronico PagoPA, **sono solo le piattaforme** (curate dall’AGID) che **“abilitano”** le PA **all'erogazione dei numerosi servizi digitali pubblici locali**.
 
-.. important::
-   Una 
+.. figure:: imgrel/2018.png
+   :alt: 2018 spid anpr pagopa
+   :align: center
+   
+   Indicazioni sulle Piattaforme abilitanti e sui progetti strategici per il 2018, dal `Piano Triennale per l’informatica nella PA 2017–19 <http://pianotriennale-ict.readthedocs.io/it/latest/doc/12_indicazioni-per-la-pa.html#indicazioni-sulle-piattaforme-abilitanti-e-sui-progetti-strategici>`_ dell’AgID
+   
+Tra il 2017 e il 2018 molte PA aderiranno alle tre piattaforme nazionali abilitanti.
 
+**Ma il lavoro più complesso da fare sarà agganciare**
 
+→ all’identità digitale e 
+
+→ all’anagrafe di quell’identità digitale e 
+
+→ ai pagamenti online di quell’identità digitale
+
+= **i vari status del cittadino**, attraverso l’interoperabilità di tutte le banche dati pubbliche, cioè ad esempio:
+- istruzione (iscrizioni scuole comunali/statali)
+- tributi (per verifica pagamenti tari, imu, tasi, tosap, con codifiche specifiche….)
+- fisco
+- sport (per richieste spazi pubblici sportivi, per pagamenti fruizione piscine/strutture pubbliche,…)
+- edilizia (per verifica adempimenti ad es. di sanatorie, concessioni, autorizzazioni, nulla osta, ecc e relativi pagamenti)
+- catastale (per verifiche rendite e quadrature da usare per il calcolo dei tributi di competenza dell’ente)
+- polizia municipale (per la verifica adempimenti regime sanzionatorio applicato ai cittadini/aziende per violazione di norme)
+- attività produttive — suap (per verificare esecuzione adempimenti concernenti l’uso del suolo pubblico e l’esercizio delle attività commerciali/prodittive di ogni genere, relativi pagamenti,..)
+- e altri.
+
+E’ fondamentale, inoltre, assicurare la **completa integrazione di tutti i database geografici** necessari a gestire le informazioni relative alle competenze dei diversi uffici (per intenderci un Sistema Informativo Territoriale comprendente tutti i tematismi e condiviso tra tutti gli uffici pubblici).
+
+|
+
+6.5 Le parole chiave, per una samba di cui al titolo di questo report
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**#processi amministrativi** della PA con **#interoperabilità** dei **#database** e **#competenza** + **#formazione ICT** delle risorse umane (ingredienti dell’ecosistema digitale della PA)
+
+**#cittadini** (fruitori dei servizi pubblici)
+
+**#design** (fattore di successo nel rapporto tra PA e cittadini)
+
+**#digital #service** (servizi pubblici: cuore della mission istituzionale della PA, trait d’union tra PA e cittadini)
 
 
 
