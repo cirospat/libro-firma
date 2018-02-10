@@ -160,9 +160,9 @@ Un percorso culturale da intraprendere da parte degli individui che, a vario tit
 
 E questo lavoro di tipo culturale non sarà facile da svolgere per la stessa PA, sarà necessario trovare le giuste figure in ogni PA capaci di **animare il percorso culturale di cambiamento**. Le sole norme nuove calate dall'alto alla PA locale non saranno sufficienti ad attuare pienamente un Agenda Digitale pubblica entro il 2020. Servirà tanta formazione, sensibilizzazione, animazione, **lavoro che il Team Trasformazione Digitale dell’AGID ha avviato egregiamente e che va continuato in ogni PA**.
 
+Negli anni di lavoro dentro una PA **ho imparato** che:
+
 .. figure:: imgrel/cirospataro.PNG
    :alt: ciro spataro
    :align: center
-
-
 
