@@ -18,6 +18,8 @@ Non sono un professionista delle tecnologie/strumenti digitali, questo si è cap
 
 - confronto con studenti e docenti delle scuole medie e superiori.
 
+|
+
 Sono cresciuto insieme ad altri. Negli anni hanno contribuito ad alimentare le mie conoscenze ed esperienze nella materia “servizi digitali della PA”: alcuni **colleghi e dirigenti della mia e di altre PA (special thanks ai colleghi trentini)**, e le **valide persone di questi canali e comunità attive**:
 
 #. formazione e sensibilizzazione dei dipendenti e dirigenti della PA sulle tematiche del digitale a 360° a cura del FormezPA; 
@@ -31,7 +33,9 @@ Sono cresciuto insieme ad altri. Negli anni hanno contribuito ad alimentare le m
 
 `xxxxxx <http://blablabla.it>`_
 
-    
+.. note::
+
+   Scrivere questo report per la visualizzazione del testo su "Read The Docs" mi è servito per aumentare le mie competenze digitali. Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la predisposizione della **"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane"**
 
    
 .. important::
