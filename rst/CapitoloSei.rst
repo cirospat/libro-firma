@@ -21,9 +21,14 @@ Non è solo un fattore di eliminazione della carta su cui viene stampato un cert
 
 
 .. note::
+   Pillole curative:
+   
+   Servono dirigenti, e anche funzionari, competenti in ICT nella PA. 
+   E' la conclusione alla quale è arrivata la Commissione parlamentare di inchiesta su livello di digitalizzazione della PA, che condivido pienamente.
+   Se le competenze ICT sono assenti negli uffici pubblici, nessuna versione di CAD e di PIANO TRIENNALE ICT sarà in grado di far erogare pienamente ad una PA servizi (e gestire processi) digitali!
+   Quindi servono dipendenti e dirigenti competenti in ICT nella PA: o si scovano nei camerini in cui si trovano spesso non valorizzati da anni (dipendenti spesso anche sviluppatori), o si fa in modo che entrino nella PA (dipendenti/dirigenti a contratto/progetto).
 
-   Immediatamente  
-
+   
 .. warning::
    La 
 
