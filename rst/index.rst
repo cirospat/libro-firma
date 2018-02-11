@@ -2,11 +2,11 @@
 Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizidigitali?
 *****
 
-+------------------+----------------+---------------------+-----------------+
-| Agenda Digitale  | servizi online | dematerializzazione | dati aperti     |
-+------------------+----------------+---------------------+-----------------+
-| interoperabilità | design         | usabilità           | open government |
-+------------------+----------------+---------------------+-----------------+
++------------------+----------------+---------------------+-----------------+----------+-------------------+
+| agenda digitale  | servizi online | dematerializzazione | dati aperti     |  CAD     | informatizzazione |
++------------------+----------------+---------------------+-----------------+----------+-------------------+
+| interoperabilità | design         | usabilità           | open government | processi | riuso             |
++------------------+----------------+---------------------+-----------------+----------+-------------------+
 
 **Agenda Digitale, servizi online, dematerializzazione, dati aperti, open government, interoperabilità, design, usabilità. Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.**
 
