@@ -42,18 +42,13 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 
 - Piersoft Paolicelli (freelance nelle PA italiane per costruire portali open data e diffondere la cultura della pubblicazione e del riuso dei dati, bot addicted)
 
-- Francesca Gleria della Provincia di Trento (vocabolari controllati, semanrica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come OpenAgenda), tutti del Trentino
+- Francesca Gleria della Provincia di Trento (vocabolari controllati, semantica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come OpenAgenda), tutti del Trentino
 
-- Morena Ragone della Regione Puglia (condividere strategie di miglioramento dei processi nella "transizione al digitale" è importante)
+- Morena Ragone della Regione Puglia (confrontarsi sulle strategie di miglioramento dei processi nella "transizione al digitale" è molto  importante)
 
 - Salvatore Marras, Laura Manconi, Gianfranco Andriola, Gianluca Affinito, Sergio Agostinelli, tutti del FormezPA (con i loro costanti validi webinar sul mondo dei dati, delle competenze digitali a 360°, stanno formando migliaia di dipendenti con una metodologia nuova e piacevole)
 
-- le valide persone del Team Trasformazione Digitale (dell'Agenzia per l'Italia Digitale) che in questi due anni hanno fatto qualcosa di rivoluzionario per la Pubblica Amministrazione italiana: trasmettere la cultura dell'open source, dei repository di codice riusabile, della partecipazione a progetti di sviluppo codice utile ai processi e ai serzivi pubblici
-
-
-
-
-
+- le valide persone del Team Trasformazione Digitale (dell'Agenzia per l'Italia Digitale) che in questi due anni hanno fatto qualcosa di rivoluzionario per la Pubblica Amministrazione italiana: trasmettere la cultura dell'open source, dei repository di codice riusabile, della partecipazione a progetti di sviluppo codice utile ai processi e ai serzivi pubblici, del design
 
 |
 
