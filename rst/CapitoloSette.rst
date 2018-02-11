@@ -34,7 +34,19 @@ Sono cresciuto insieme ad altre persone. Questo è importante. Negli anni hanno 
 
 Ringraziamenti
 **************
+Sento il bisogno e desiderio di ringraziare alcune persone che hanno contribuito ad accrescere la mia consapevolezza e le mie competenze sul digitale negli ultimi anni. 
 
+- Dott. Gabriele Marchese (il mio attuale capo), la dott.ssa Vincenza Simonte (mi aiuta ad analizzare), dott. Sergio Schimicci (i processi di lavoro sulle persone),  Giovan Battista Vitrano (tutto ciò che è informazione e dato geografico), tutti del Comune di Palermo
+
+- Andrea Borruso (impossibile elencare tutti gli argomenti e campi in cui aiuta con passione le persone sull'universo delle competenze digitali), Davide Taibi del CNR di Palermo (ontologie, semantica, vocabolari controllati)
+
+- Piersoft Paolicelli (freelance nelle PA italiane per costruire portali open data e diffondere la cultura della pubblicazione e del riuso dei dati, bot addicted)
+
+- Francesca Gleria della Provincia di Trento (vocabolari controllati, semanrica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come OpenAgenda)
+
+- 
+
+- 
 
 
 |
