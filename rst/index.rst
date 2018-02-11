@@ -15,7 +15,7 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 
 |
 
-![alt text](https://raw.githubusercontent.com/cirospat/la-samba-digitale-della-pa/master/imgrel/cirospataro.PNG "ciro")
+![](https://raw.githubusercontent.com/cirospat/la-samba-digitale-della-pa/master/imgrel/cirospataro.PNG "ciro")
 
 
 .. figure:: imgrel/odscomunepa.PNG
