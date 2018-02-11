@@ -15,6 +15,8 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 
 |
 
+.. _a link: http://example.com/
+
 .. figure:: imgrel/cuore.png
    :alt: OpendataSicilia e Comune di Palermo
    
