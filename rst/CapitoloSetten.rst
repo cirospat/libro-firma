@@ -3,7 +3,7 @@ Cap 7 | Costruire software gestionali e piattaforme digitali nella PA
 ******************************************
 
 
-7.1 la metodologia del “function point”
+7.1 La metodologia del “function point”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/functionpoint.png
