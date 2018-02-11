@@ -15,7 +15,7 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 
 |
 
-![Image](imgrel/odscomunepa.PNG)
+![Image](_imgrel/odscomunepa.PNG)
 
 
 .. figure:: imgrel/odscomunepa.PNG
