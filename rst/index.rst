@@ -21,9 +21,6 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 .. nota:: 
    Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_, dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_
    
-    
-    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2O6duDDkhis" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Il **Comune di Palermo** mi da la possibilità di essere una piccola rotellina nel lungo percorso di miglioramentro dei servizi pubblici attraverso l'uso delle tecnologie digitali.
 
