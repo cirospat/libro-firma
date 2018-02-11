@@ -3,12 +3,12 @@ Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizi
 *****
 
 +------------------+----------------+---------------------+-----------------+----------+-------------------+
-| agenda digitale  | servizi online | dematerializzazione | dati aperti     |  CAD     | informatizzazione |
+| agenda digitale  | servizi online | dematerializzazione | dati aperti     |  C.A.D.  | informatizzazione |
 +------------------+----------------+---------------------+-----------------+----------+-------------------+
 | interoperabilità | design         | usabilità           | open government | processi | riuso             |
 +------------------+----------------+---------------------+-----------------+----------+-------------------+
 
-**Agenda Digitale, servizi online, dematerializzazione, dati aperti, open government, interoperabilità, design, usabilità. Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.**
+**Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.**
 
 .. figure:: imgrel/odscomunepa.PNG
    :alt: OpendataSicilia e Comune di Palermo
