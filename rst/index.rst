@@ -7,11 +7,11 @@ Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizi
 .. figure:: imgrel/odscomunepa.PNG
    :alt: OpendataSicilia e Comune di Palermo
    
-+------------------+----------------+---------------------+---------------+
-| Agenda Digitale  | servizi online | dematerializzazione | dati aperti   |
-+==================+================+===================+=================+
-| interoperabilità | design         | usabilità         | open government |
-+------------------+----------------+-------------------+-----------------+
++------------------+----------------+---------------------+-----------------+
+| Agenda Digitale  | servizi online | dematerializzazione | dati aperti     |
++------------------+----------------+---------------------+-----------------+
+| interoperabilità | design         | usabilità           | open government |
++------------------+----------------+---------------------+-----------------+
 
 Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_
 dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_.
