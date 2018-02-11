@@ -20,8 +20,7 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
    :alt: OpendataSicilia e Comune di Palermo
    
 .. nota::
-   Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_
-dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_.
+   Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_, dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_.
 
 Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_
 dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_.
