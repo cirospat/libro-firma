@@ -29,6 +29,9 @@ Al fine della creazione del software, questa metodologia riporta il “function 
 
 |
 
+6.2 Diego Piacentini (Team Trasformazione Digitale) sul "function point"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. figure:: imgrel/piacentini.PNG
    :alt: piacentini
    
@@ -41,6 +44,9 @@ Al fine della creazione del software, questa metodologia riporta il “function 
    Da Piacentini arriva un messaggio chiaro → **costruire “digital service” da fruire online, non “siti web”**
    
 |
+
+6.3 Fabio Pistella (ex presidente del CNIPA) sul “function point”
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Sempre sul “function point” altri punti di vista autorevoli**:
 
@@ -57,6 +63,11 @@ Al fine della creazione del software, questa metodologia riporta il “function 
 .. figure:: imgrel/coppola.png
    :alt: Coppola
    
+|
+
+6.4 Commissione parlamentare di inchiesta sulla digitalizzazione PA sul “function point”
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Paolo Coppola, onorevole della Commissione parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle PA, dopo un anno di lavoro di indagine sulla digitalizzazione delle PA rileva, in `un articolo <https://www.agendadigitale.eu/cultura-digitale/coppola-la-pa-dello-spreco-digitale-la-nostra-galleria-degli-orrori-rivela-la-vera-causa/>`_, che “la radice delle inefficienze sta nell'assoluto disinteresse della PA riguardo alle competenze digitali”. 
 
 **Qualcuno nelle PA deve cominciare, quindi, a interessarsi di competenze digitali**, avviando cicli di sensibilizzazione e formazione ai dirigenti e ai dipendenti, così come si fa con i corsi obbligatori per la conoscenza dei Piani Anti Corruzione ai sensi del Decreto Legislativo 33/2013.
@@ -64,11 +75,13 @@ Paolo Coppola, onorevole della Commissione parlamentare di inchiesta sul livello
 .. figure:: imgrel/cameradeputati.png
    :alt: camera deputati
    
-Sul “**function point**” così relaziona, a fine ottobre 2017, la **Commissione parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle PA** nella `relazione finale (al paragrafo Indicazioni Conclusive) <https://relazione-commissione-digitale.readthedocs.io>`_: per quanto riguarda il procurement dei sistemi informativi, sarebbe di utilità aggiornare le linee guida, imponendo una disciplina dei bandi che preveda studi di fattibilità e progettazione dei sistemi informativi prima della messa a bando della realizzazione, in modo da specificare meglio gli obiettivi di digitalizzazione e gli indicatori di risultato del progetto. Si deve uscire dalla logica del massimo ribasso sul costo dei function point e passare ad una logica di prodotto, con opportune metriche di qualità. `Qui una sintesi <https://medium.com/@cirospat/sintesi-zen-del-report-della-commissione-parlamentare-dinchiesta-sul-livello-di-digitalizzazione-4bc10e081fa4>`_ della relazione della Commissione parlamentare.
+Sul “**function point**” così relaziona, a fine ottobre 2017, la **Commissione parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle PA** nella `relazione finale (al paragrafo Indicazioni Conclusive) <https://relazione-commissione-digitale.readthedocs.io>`_: *per quanto riguarda il procurement dei sistemi informativi, sarebbe di utilità aggiornare le linee guida, imponendo una disciplina dei bandi che preveda studi di fattibilità e progettazione dei sistemi informativi prima della messa a bando della realizzazione, in modo da specificare meglio gli obiettivi di digitalizzazione e gli indicatori di risultato del progetto. Si deve uscire dalla logica del massimo ribasso sul costo dei function point e passare ad una logica di prodotto, con opportune metriche di qualità*. 
+
+`Qui una sintesi <https://medium.com/@cirospat/sintesi-zen-del-report-della-commissione-parlamentare-dinchiesta-sul-livello-di-digitalizzazione-4bc10e081fa4>`_ della relazione della Commissione parlamentare.
 
 |
 
-6.2 I “micro servizi” nella progettazione del software per la PA
+6.5 I “micro servizi” nella progettazione del software per la PA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Probabilmente le software house chiamate a costruire piattaforme digitali nella PA dovrebbero/potrebbero spostare una dose di attenzione e risorse dal metodo del “function point” ad altri aspetti della progettazione:
