@@ -28,8 +28,10 @@ Il **Function point** è un “metodo di progettazione del software, definito ne
 Al fine della creazione del software, questa metodologia riporta il “function point” (il punto di funzione) analizzato, al parametro “giorni” o “ore” di lavoro per la quantificazione in termini di budget di spesa. Non focalizza l’attenzione sulla quantità di righe di codice create, se sono tante o poche per lo stesso “punto di funzione”, importa solo i giorni o ora di lavoro per persona impiegati per la realizzazione.
 
 
-.. figure:: imgrel/piacentini.png
+.. figure:: imgrel/piacentini.PNG
    :alt: piacentini
+   
+   Ascoltiamo, in un intervista, cosa pensa il Commissario tecnico del `Team Trasformazione Digitale <https://teamdigitale.governo.it/>`_ dell’Agenzia per l’Italia Digitale, `Diego Piacentini <https://teamdigitale.governo.it/it/people/1-profile.htm>`_, del “function point”  nella fase di costruzione dei software gestionali
 
 
 .. important:: 
@@ -38,4 +40,4 @@ Al fine della creazione del software, questa metodologia riporta il “function 
 
 
 
-`bla <https://www.youtube.com/watch?v=N2-9GC7__P8>`_
+`Team Trasformazione Digitalea <https://teamdigitale.governo.it/>`_
