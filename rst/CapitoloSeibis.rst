@@ -1,5 +1,5 @@
 ================================================
-Cap 6 | In conclusione (si fa per dire)
+Cap 7 | In conclusione (si fa per dire)
 ================================================
 
 ABSTRACT | Le iniziative  di partecipazione e coinvolgimento dei cittadini nella vita pubblica, avviate negli ultimi anni da diverse amministrazioni territoriali, dovrebbero focalizzare molta attenzione (fissando obiettivi e risultati attesi) proprio sulle attività di co-design dei servizi pubblici, servizi digitali in primis.
@@ -14,7 +14,7 @@ Perchè sui servizi digitali, e relativa usabilità, si giocheranno le principal
 
 |
    
-6.1 Competenze e abilità ICT necessarie nella PA!
+7.1 Competenze e abilità ICT necessarie nella PA!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Non è solo un fattore di eliminazione della carta su cui viene stampato un certificato/documento di un ufficio pubblico. Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario e intelligente e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti. Per fare questi passi **è necessario disporre di competenze adeguate (ICT skills) all’interno delle PA**, per attuare concretamente la fatidica “transizione al digitale”.
 
@@ -37,7 +37,7 @@ Non è solo un fattore di eliminazione della carta su cui viene stampato un cert
    
 |
 
-6.2 Un forum nazionale per una conversazione costruttiva e formazione sui servizi pubblici digitali
+7.2 Un forum nazionale per una conversazione costruttiva e formazione sui servizi pubblici digitali
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/itforum.png
@@ -58,7 +58,7 @@ Non è solo un fattore di eliminazione della carta su cui viene stampato un cert
 
 |
 
-6.3 Entro il 2020 l’UE chiede agli stati un e-government in linea con le esigenze e richieste di cittadini e imprese
+7.3 Entro il 2020 l’UE chiede agli stati un e-government in linea con le esigenze e richieste di cittadini e imprese
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 *Entro il 2020 le amministrazioni e le istituzioni pubbliche nell’UE dovrebbero essere aperte, efficienti e inclusive e fornire servizi pubblici digitali end-to-end senza frontiere, personalizzati e intuitivi a tutti i cittadini e a tutte le imprese nell’UE. Il ricorso ad approcci innovativi permette di progettare e fornire servizi migliori, in linea con le esigenze e le richieste di cittadini e imprese. Le pubbliche amministrazioni sfruttano le opportunità offerte dal nuovo ambiente digitale per interagire più facilmente tra di loro e con le parti interessate.* 
 
@@ -81,7 +81,7 @@ La Commissione Europea introduce 7 principi guida in questo Piano, `Daniela Batt
    
 |
 
-6.4 Aderire a SPID, ANPR, PAGOPA è solo l’inizio
+7.4 Aderire a SPID, ANPR, PAGOPA è solo l’inizio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/spid.png
@@ -131,7 +131,7 @@ E’ fondamentale, inoltre, assicurare la **completa integrazione di tutti i dat
 
 |
 
-6.5 Le parole chiave, per una samba di cui al titolo di questo report
+7.5 Le parole chiave, per una samba di cui al titolo di questo report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/processipa.png
@@ -154,7 +154,7 @@ La tecnologia digitale e le relative piattaforme sono solo strumenti da usare qu
 
 |
 
-6.6 La transizione al digitale è prima di tutto un percorso culturale
+7.6 La transizione al digitale è prima di tutto un percorso culturale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Un percorso culturale da intraprendere da parte degli individui che, a vario titolo, lavorano nelle stanze della PA, e se manca nelle singole persone la consapevolezza dell’importanza e dell’utilità di portare nel digitale tutto il lavoro che oggi si fa sulla carta, non si attuerà mai un cambiamento concreto che possa dare una nuova immagine della PA nei confronti dei cittadini. **Bisognerà lavorare sul fare accettare a tutti i dipendenti e dirigenti il digitale “ridendo”**, nel senso che tutti dovranno essere messi nella condizione di comprendere facilmente che lavorare con nuove metodologie in modalità digitale è utile prima a se stessi nello svolgimento delle proprie funzioni, e allo stesso tempo ai cittadini fruitori dei servizi pubblici. 
 
