@@ -11,7 +11,6 @@ Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizi
 +--------------------+-----------------+-------------+
 |informatizzazione   | processi        |  C.A.D.     |
 +--------------------+-----------------+-------------+
-
 Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.
 
 |
