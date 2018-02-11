@@ -15,7 +15,7 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 
 |
 
-.. figure:: imgrel/odscomunepa.PNG
+.. figure:: imgrel/cuore.png
    :alt: OpendataSicilia e Comune di Palermo
    
 .. nota::
@@ -24,6 +24,8 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 Il **Comune di Palermo** mi da la possibilità di essere una piccola rotellina nel lungo percorso di miglioramentro dei servizi pubblici attraverso l'uso delle tecnologie digitali.
 
 L'ampia comunità di **OpendataSicilia** mi da l'opportunità di fare rete con altri soggetti per creare iniziative, azioni e progetti attraverso i quali miglioro informalmente le mie competenze digitali, che a sua volta condivido all'interno dell'amministrazione comunale.
+
+La comunità di **Developers Italia** ....
 
 Questo report è per me una sorta di block notes delle cose sulle quali ogni PA dovrebbe tenere alta l'attenzione.
 Cose che spesso si trovano ampiamente trattate in diversi portali istituzionali e non, ma anche riflessioni, input e proposte per aumentare, innanzitutto, la cultura digitale in coloro che vivono quotidianamente nelle PA, e per avviare in maniera operativa piccoli pezzi, in progressione, di quella che il Codice dell'Amministrazione Digitale chiama "**transizione al digitale**".
