@@ -33,6 +33,13 @@ Cose che spesso si trovano ampiamente trattate in diversi portali istituzionali 
 
 Febbraio 2018
 
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="//https://www.youtube.com/embed/2O6duDDkhis" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+
+
 .. note::
 
    dopo aver fatto fare il ruttino alla piccola di 3 mesi alle 3 del mattino passeggiando per il buio corridoio, per più notti, hai la mente più limpida,... perchè il ruttino è liberazione 
