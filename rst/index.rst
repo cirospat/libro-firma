@@ -21,7 +21,7 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 .. nota:: 
    Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_, dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_
    
-[![xxxxx](http://img.youtube.com/vi/VC574KE5-l4/0.jpg)](http://www.youtube.com/watch?v=VC574KE5-l4)
+[!(http://img.youtube.com/vi/VC574KE5-l4/0.jpg)](http://www.youtube.com/watch?v=VC574KE5-l4)
 
 https://youtu.be/VC574KE5-l4
 
