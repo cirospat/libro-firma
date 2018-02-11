@@ -36,17 +36,21 @@ Ringraziamenti
 **************
 Sento il bisogno e desiderio di ringraziare alcune persone che hanno contribuito ad accrescere la mia consapevolezza e le mie competenze sul digitale negli ultimi anni. 
 
-- Dott. Gabriele Marchese (il mio attuale capo), la dott.ssa Vincenza Simonte (mi aiuta ad analizzare), dott. Sergio Schimicci (i processi di lavoro sulle persone),  Giovan Battista Vitrano (tutto ciò che è informazione e dato geografico), tutti del Comune di Palermo
+- Dott. Gabriele Marchese (il mio attuale capo, con l'analisi dei processi nel dna), la dott.ssa Vincenza Simonte (mi aiuta ad analizzare), dott. Sergio Schimicci (i processi di lavoro sulle persone),  Giovan Battista Vitrano (tutto ciò che è informazione e dato geografico), tutti del Comune di Palermo
 
-- Andrea Borruso (impossibile elencare tutti gli argomenti e campi in cui aiuta con passione le persone sull'universo delle competenze digitali), Davide Taibi del CNR di Palermo (ontologie, semantica, vocabolari controllati)
+- Andrea Borruso (impossibile elencare tutti gli argomenti e campi in cui aiuta con passione le persone sull'universo delle competenze digitali), Davide Taibi del CNR di Palermo (sempre con proposte e idee su ontologie, semantica, vocabolari controllati)
 
 - Piersoft Paolicelli (freelance nelle PA italiane per costruire portali open data e diffondere la cultura della pubblicazione e del riuso dei dati, bot addicted)
 
-- Francesca Gleria della Provincia di Trento (vocabolari controllati, semanrica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come OpenAgenda)
+- Francesca Gleria della Provincia di Trento (vocabolari controllati, semanrica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come OpenAgenda), tutti del Trentino
 
-- 
+- Morena Ragone della Regione Puglia (condividere strategie di miglioramento dei processi nella "transizione al digitale" è importante)
 
-- 
+- Salvatore Marras, Laura Manconi, Gianfranco Andriola, Gianluca Affinito, Sergio Agostinelli, tutti del FormezPA (con i loro costanti validi webinar sul mondo dei dati, delle competenze digitali a 360°, stanno formando migliaia di dipendenti con una metodologia nuova e piacevole)
+
+
+
+
 
 
 |
