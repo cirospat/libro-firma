@@ -109,9 +109,13 @@ Il FormezPA è un ente che ha investito tantissimo sulla formazione concernente 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Oltre al design è fondamentale assicurare la sicurezza dei servizi web della PA. A tal proposito l’AgID rende disponibili  le `“Linee guida per lo sviluppo del software sicuro nella Pubblica amministrazione” <http://www.agid.gov.it/notizie/2017/12/21/piano-triennale-line-linee-guida-sviluppo-del-software-sicuro>`_. Obiettivo: definire un’architettura della sicurezza per servizi web della PA. Queste linee guida si compongono di 4 ambiti tematici:
+
 - Linee Guida per l’adozione di un ciclo di sviluppo di software sicuro
+
 - Linee Guida per lo sviluppo sicuro di codice
+
 - Linee Guida per la configurazione per adeguare la sicurezza del software di base
+
 - Linee Guida per la modellazione delle minacce e individuazione delle azioni di mitigazione conformi ai principi del Secure/Privacy by Design.
 
 Sempre sulla sicurezza dei servizi ICT esistenti, l’AGID prevede un `adeguamento delle Pubbliche amministrazioni alle “Misure minime” <http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/cert-pa/misure-minime-sicurezza-ict-pubbliche-amministrazioni>`_  che dovrà avvenire tramite la redazione e invio (ad AGID) del cosiddetto Modulo di implementazione.
@@ -157,8 +161,7 @@ Le software house devono abituarsi a trattare questa materia (service co-design 
 
 .. figure:: imgrel/joke.png
    :alt: joke
-   :align: center
-   
+      
    (immagine fonte http://www.starecat.com)
    
 .. important::
