@@ -53,8 +53,8 @@ Al fine della creazione del software, questa metodologia riporta il “function 
 `Fabio Pistella <https://www.linkedin.com/in/fabio-pistella-846457ba/>`_, ex presidente del `CNIPA <https://it.wikipedia.org/wiki/DigitPA>`_ (Centro Nazionale per l’Informatica nella Pubblica Amministrazione, sostituito dal 2012 dall’Agenzia per l’Italia digitale), si esprime sul “function point”, in occasione della Commissione parlamentare di inchiesta sul livello di digitalizzazione e innovazione della Camera (`Seduta n. 6 di Martedì 17 gennaio 2017 <http://documenti.camera.it/leg17/resoconti/commissioni/stenografici/html/73/audiz2/audizione/2017/01/17/indice_stenografico.0006.html>`_):
 
 
-.. figure:: imgrel/pistella.png
-   :alt: pistella
+.. figure:: imgrel/functionpoint2.png
+   :alt: Pistella
    
    ricerca del termine “function point” nel testo dei lavori della Camera dei Deputati nella seduta del 17 gennaio 2017
    
