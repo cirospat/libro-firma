@@ -13,7 +13,7 @@ Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizi
 +--------------------+-----------------+-------------+
 Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.
 
-> [!VIDEO https://www.youtube.com/embed/iAtwVM-Z7rY]
+[!VIDEO https://www.youtube.com/embed/iAtwVM-Z7rY]
 
 |
 
