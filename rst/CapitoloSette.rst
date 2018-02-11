@@ -34,7 +34,7 @@ Sono cresciuto insieme ad altre persone. Questo è importante. Negli anni hanno 
 
 Ringraziamenti
 **************
-Sento il bisogno e desiderio di ringraziare alcune persone che hanno contribuito ad accrescere la mia consapevolezza e le mie competenze sul digitale negli ultimi anni. 
+Sento il bisogno e desiderio di ringraziare in particolare alcune persone che hanno contribuito ad accrescere la mia consapevolezza e le mie competenze sul digitale negli ultimi anni. 
 
 - Dott. Gabriele Marchese (il mio attuale capo, con l'analisi dei processi nel dna), la dott.ssa Vincenza Simonte (mi aiuta ad analizzare), dott. Sergio Schimicci (i processi di lavoro sulle persone),  Giovan Battista Vitrano (tutto ciò che è informazione e dato geografico), tutti del Comune di Palermo
 
