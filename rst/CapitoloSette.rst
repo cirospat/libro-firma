@@ -50,6 +50,8 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 
 - le valide persone del Team Trasformazione Digitale (dell'Agenzia per l'Italia Digitale) che in questi due anni hanno fatto qualcosa di rivoluzionario per la Pubblica Amministrazione italiana: trasmettere la cultura dell'open source, dei repository di codice riusabile, della partecipazione a progetti di sviluppo codice utile ai processi e ai serzivi pubblici, del design
 
+- Matteo Troia per gli stimoli inviati e ricevuti utili a creare questo progetto su Read The Docs
+
 |
 
 .. note::
