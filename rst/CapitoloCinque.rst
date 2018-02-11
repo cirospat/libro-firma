@@ -234,9 +234,9 @@ Il video che segue espone in maniera estremamente chiara un validissimo percorso
 
 Il **cittadino è al centro** di questo percorso intrapreso in Trentino, con un livello di interazione elevato.
 
-Gli uffici lavorano con applicativi facili da usare, e che hanno le banche dati interoperabili.
+**Gli uffici lavorano con applicativi facili da usare**, e che hanno le banche dati interoperabili.
 
-Una prassi intelligente per attuare l’Agenda Digitale, ma sentiamo l’innovazione apportata nella PA del Trentino dalla voce e immagini di Gabriele Francescotto:
+Una prassi intelligente per attuare l’Agenda Digitale, ma sentiamo l’innovazione apportata nella PA del Trentino dalla voce e immagini di **Gabriele Francescotto**:
 
 .. figure:: imgrel/videofrancescotto.PNG
    :alt: video Francescotto
@@ -271,7 +271,7 @@ Significa che il codice sviluppato per questa piattaforma può essere riutilizza
    
 Oltre alla cura del design dei portali web della PA, è essenziale che gli enti che decidono di comunicare sui social le proprie attività istituzionali e accettano di interagire con i cittadini, lo facciano nella maniera più corretta, cioè **comunicando costentemente**!
 
-Per questo nasce `“social media e PA, dalla formazione ai consigli per l’uso” <http://focus.formez.it/sites/all/files/volume_social_media_e_pa.pdf>`_ (`aggiornato alla seconda versione <http://focus.formez.it/sites/all/files/ii_edizione_ebook_social_media_e_pa.pdf>`_), una guida redatta dal Ministro per la Semplificazione e la Pubblica Amministrazione in collaborazione con il FormezPA e con PAsocial. Spesso capita che comuni postino informazioni su Facebook, ad esempio, e ad una domanda posta da un cittadino, non rispondono, semplicemente perchè molti dipendenti/dirigenti non sono abituati a comunicare istituzionalmente su questo strumento, possibilmente pensando che il canale non sia adatto a comunicazioni formali. Sbagliatissimo.
+Per questo nasce `“social media e PA, dalla formazione ai consigli per l’uso” <http://focus.formez.it/sites/all/files/volume_social_media_e_pa.pdf>`_ (`aggiornato alla seconda versione <http://focus.formez.it/sites/all/files/ii_edizione_ebook_social_media_e_pa.pdf>`_ del febbraio 2018), una guida redatta dal Ministro per la Semplificazione e la Pubblica Amministrazione in collaborazione con il FormezPA e con PAsocial. Spesso capita che comuni postino informazioni su Facebook, ad esempio, e ad una domanda posta da un cittadino, non rispondono, semplicemente perchè molti dipendenti/dirigenti non sono abituati a comunicare istituzionalmente su questo strumento, possibilmente pensando che il canale non sia adatto a comunicazioni formali. Sbagliatissimo.
 
 **Interagisci!**
 
@@ -284,6 +284,4 @@ Se stai sui social devi interagire così come quando sei un cittadino fuori dall
    http://www.innovatoripa.it/groups/comunicazione-pubblica
   
 Se non conosci un informazione, puoi rispondere che ti stai informando con il dirigente o con i colleghi e che risponderai al più presto. Un attiva comunità con consigli a supporto delle strategie di comunicazione della PA è `InnovatoriPA/ comunicazione pubblica <http://www.innovatoripa.it/groups/comunicazione-pubblica>`_.
-   
-   
    
