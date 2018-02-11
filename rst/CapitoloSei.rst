@@ -1,9 +1,9 @@
 ******************************************
-Cap 7 | Costruire software gestionali e piattaforme digitali nella PA
+Cap 6 | Costruire software gestionali e piattaforme digitali nella PA
 ******************************************
 
 
-7.1 La metodologia del “function point”
+6.1 La metodologia del “function point”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/functionpoint.png
@@ -67,7 +67,7 @@ Sul “**function point**” così relaziona, a fine ottobre 2017, la **Commissi
 
 |
 
-7.2 I “micro servizi” nella progettazione del software per la PA
+6.2 I “micro servizi” nella progettazione del software per la PA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Probabilmente le software house chiamate a costruire piattaforme digitali nella PA dovrebbero/potrebbero spostare una dose di attenzione e risorse dal metodo del “function point” ad altri aspetti della progettazione:
