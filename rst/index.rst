@@ -15,10 +15,6 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 
 |
 
-"ciro"
-======
-
-
 .. figure:: imgrel/odscomunepa.PNG
    :alt: OpendataSicilia e Comune di Palermo
    
