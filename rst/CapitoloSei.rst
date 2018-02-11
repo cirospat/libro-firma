@@ -79,7 +79,7 @@ Paolo Coppola, onorevole della Commissione parlamentare di inchiesta sul livello
    
 Sul “**function point**” così relaziona, a fine ottobre 2017, la **Commissione parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle PA** nella `relazione finale (al paragrafo Indicazioni Conclusive) <https://relazione-commissione-digitale.readthedocs.io>`_: 
 
-*per quanto riguarda il procurement dei sistemi informativi, sarebbe di utilità aggiornare le linee guida, imponendo una disciplina dei bandi che preveda studi di fattibilità e progettazione dei sistemi informativi prima della messa a bando della realizzazione, in modo da specificare meglio gli obiettivi di digitalizzazione e gli indicatori di risultato del progetto. Si deve uscire dalla logica del massimo ribasso sul costo dei function point e passare ad una logica di prodotto, con opportune metriche di qualità*. 
+   *per quanto riguarda il procurement dei sistemi informativi, sarebbe di utilità aggiornare le linee guida, imponendo una disciplina dei bandi che preveda studi di fattibilità e progettazione dei sistemi informativi prima della messa a bando della realizzazione, in modo da specificare meglio gli obiettivi di digitalizzazione e gli indicatori di risultato del progetto. Si deve uscire dalla logica del massimo ribasso sul costo dei function point e passare ad una logica di prodotto, con opportune metriche di qualità*. 
 
 `Qui una sintesi <https://medium.com/@cirospat/sintesi-zen-del-report-della-commissione-parlamentare-dinchiesta-sul-livello-di-digitalizzazione-4bc10e081fa4>`_ della relazione della Commissione parlamentare.
 
