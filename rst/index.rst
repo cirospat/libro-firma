@@ -15,13 +15,6 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 
 |
 
-``README.md``
-
-.. code-block:: 
-   aaaa aaa aaa 
-   aaa aaa
-   
-
 .. figure:: imgrel/cuore.png
    :alt: OpendataSicilia e Comune di Palermo
    
