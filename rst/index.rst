@@ -51,6 +51,7 @@ Febbraio 2018
    CapitoloTre.rst
    CapitoloQuattro.rst
    CapitoloCinque.rst
+   CapitoloSei.rst
    
    
    
@@ -60,7 +61,7 @@ Conclusioni
 .. toctree::
    :maxdepth: 3
 
-   CapitoloSei.rst
+   CapitoloSette.rst
 
 Note finali
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -68,4 +69,4 @@ Note finali
 .. toctree::
    :maxdepth: 3
 
-   CapitoloSette.rst
+   CapitoloOtto.rst
