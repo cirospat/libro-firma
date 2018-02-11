@@ -17,7 +17,7 @@ Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro 
 
 ``README.md``
 
-.. code-block:: python
+.. code-block:: 
    aaaa aaa aaa 
    aaa aaa
    
