@@ -48,6 +48,8 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 
 - Salvatore Marras, Laura Manconi, Gianfranco Andriola, Gianluca Affinito, Sergio Agostinelli, tutti del FormezPA (con i loro costanti validi webinar sul mondo dei dati, delle competenze digitali a 360°, stanno formando migliaia di dipendenti con una metodologia nuova e piacevole)
 
+- le valide persone del Team Trasformazione Digitale (dell'Agenzia per l'Italia Digitale) che in questi due anni hanno fatto qualcosa di rivoluzionario per la Pubblica Amministrazione italiana: trasmettere la cultura dell'open source, dei repository di codice riusabile, della partecipazione a progetti di sviluppo codice utile ai processi e ai serzivi pubblici
+
 
 
 
