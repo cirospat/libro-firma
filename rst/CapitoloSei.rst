@@ -29,7 +29,7 @@ Al fine della creazione del software, questa metodologia riporta il “function 
 
 |
 
-6.2 Diego Piacentini (Team Trasformazione Digitale) sul "function point"
+6.2 Diego Piacentini (Team Trasformazione Digitale), sul "function point"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/piacentini.PNG
@@ -45,7 +45,7 @@ Al fine della creazione del software, questa metodologia riporta il “function 
    
 |
 
-6.3 Fabio Pistella (ex presidente del CNIPA) sul “function point”
+6.3 Fabio Pistella (ex presidente del CNIPA), sul “function point”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Sempre sul “function point” altri punti di vista autorevoli**:
@@ -67,7 +67,7 @@ Al fine della creazione del software, questa metodologia riporta il “function 
    
 |
 
-6.4 Commissione parlamentare di inchiesta sulla digitalizzazione PA sul “function point”
+6.4 Commissione parlamentare di inchiesta sulla digitalizzazione della PA, sul “function point”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Paolo Coppola, onorevole della Commissione parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle PA, dopo un anno di lavoro di indagine sulla digitalizzazione delle PA rileva, in `un articolo <https://www.agendadigitale.eu/cultura-digitale/coppola-la-pa-dello-spreco-digitale-la-nostra-galleria-degli-orrori-rivela-la-vera-causa/>`_, che “la radice delle inefficienze sta nell'assoluto disinteresse della PA riguardo alle competenze digitali”. 
