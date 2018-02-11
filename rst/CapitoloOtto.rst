@@ -42,6 +42,8 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 
 - Piersoft Paolicelli (freelance nelle PA italiane per costruire portali open data e diffondere la cultura della pubblicazione e del riuso dei dati, bot addicted)
 
+- Giorgia Lodi dell'Agenzia per l'Italia Digitale (per gli stimoli e le interazioni finalizzate all'harvesting del catalogo dei dataset in formato aperto del comune di Palermo sul portale nazionale dati.gov.it, insieme a Davide Taibi)
+
 - Francesca Gleria della Provincia di Trento (vocabolari controllati, semantica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come OpenAgenda), tutti del Trentino
 
 - Morena Ragone della Regione Puglia (confrontarsi sulle strategie di miglioramento dei processi nella "transizione al digitale" è molto  importante)
@@ -57,7 +59,7 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 .. note::
    **Riuso**
 
-   Ho scritto questo report creando un progetto ad hoc su GitHub, usando il linguaggio Markdown per la visualizzazione del testo su "Read The Docs". Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della **"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane"**
+   Ho scritto questo report creando un progetto ad hoc su GitHub, usando il linguaggio Markdown per la visualizzazione del testo su "Read The Docs". Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della `"Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane" <https://relazione-commissione-digitale.readthedocs.io>`_ 
 
    
 .. important::
