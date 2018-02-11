@@ -32,6 +32,13 @@ Sono cresciuto insieme ad altre persone. Questo è importante. Negli anni hanno 
 
 |
 
+Ringraziamenti
+**************
+
+
+
+|
+
 .. note::
    **Riuso**
 
