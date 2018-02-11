@@ -9,7 +9,7 @@ Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizi
    
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |
-
+|                                                           |
 | prova di tabella che segue          |          |          |        
 +========================+============+==========+==========+
 | body row 1, column 1   | column 2   | column 3 | column 4 |
