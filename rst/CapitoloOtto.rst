@@ -61,6 +61,8 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 
 - Matteo Troia per gli stimoli inviati e ricevuti utili a creare il report su Read The Docs della "Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane" 
 
+- tante persone per me molto importanti con le quali ho condiviso conoscenza e dalle quali ho acquisito cultura digitale: Giovanni Pirrotta, Giuseppe Ragusa, Fabio Disconzi, Daniele Mondello, Marco Lombardo, Matteo Tempestini, Andrea Nelson Mauro, ....
+
 |
 
 .. note::
