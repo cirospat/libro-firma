@@ -29,7 +29,7 @@ L'ampia comunità di **OpendataSicilia** mi da l'opportunità di fare rete con a
 La comunità di **Developers Italia**, mi da la possibilità di accrescere le conoscenze e le competenze nel campo dello sviluppo dei servizi pubblici italiani.
 
 Questo report è un block notes delle ``cose`` sulle quali ogni PA dovrebbe tenere alta l'attenzione.
-``Cose`` che spesso si trovano ampiamente trattate in diversi portali istituzionali e non, ma anche ```riflessioni```, ```input``` e ```proposte``` per aumentare, innanzitutto, la `cultura digitale` in coloro che vivono quotidianamente nelle PA, e per avviare in maniera operativa piccoli pezzi, in progressione, di quella che il Codice dell'Amministrazione Digitale chiama "**transizione al digitale**".
+``Cose`` che spesso si trovano ampiamente trattate in diversi portali istituzionali e non, ma anche ``riflessioni``, ``input`` e ``proposte`` per aumentare, innanzitutto, la `cultura digitale` in coloro che vivono quotidianamente nelle PA, e per avviare in maniera operativa piccoli pezzi, in progressione, di quella che il Codice dell'Amministrazione Digitale chiama "**``transizione al digitale``**".
 
 Febbraio 2018
 
