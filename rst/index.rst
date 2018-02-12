@@ -6,12 +6,19 @@ Una samba dei #processi della #PA, #dati, #cittadini #design e #servizidigitali?
 
 ``dati aperti`` ``interoperabilità``   
 
-``design`` ``usabilità``    
+``design`` ``usabilità``  ``riuso``
+
+``processi`` ``open government``
+
+``dematerializzazione`` ``C.A.D.``
+
+``informatizzazione``
+
 
 +-------------------------+---------------------+-----------------+
-| ``dematerializzazione`` | ``open government`` | ``riuso``       |
+|  |  |        |
 +-------------------------+---------------------+-----------------+
-| ``informatizzazione``   | ``processi``        |  ``C.A.D.``     |
+|    |         |       |
 +-------------------------+---------------------+-----------------+
 Termini con i quali lavorano quotidianamente, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.
 
