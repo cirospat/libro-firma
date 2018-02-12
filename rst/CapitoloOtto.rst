@@ -2,7 +2,9 @@
 Cap 8 | Note Finali (o forse disclaimer)
 ******************************************
 
-Non sono un professionista delle tecnologie/strumenti digitali, questo si è capito! Solo un dipendente pubblico che vuole migliorare quotidianamente, insieme a colleghi e dirigenti e cittadini, il modo di lavorare dentro la propria PA per migliorare i servizi pubblici con l’ausilio delle tecnologie digitali. Le riflessioni e analisi illustrate derivano da:
+Non sono un professionista delle tecnologie/strumenti digitali, questo si è capito! Solo un dipendente pubblico che vuole migliorare quotidianamente, insieme a colleghi e dirigenti e cittadini, il modo di lavorare dentro la propria PA per migliorare i servizi pubblici con l’ausilio delle tecnologie digitali. 
+
+Le riflessioni e analisi illustrate derivano da:
 
 - studio del CAD (http://www.visualcad.it/ visualizzazione a cura di Giovanni Pirrotta);
 
@@ -20,7 +22,7 @@ Non sono un professionista delle tecnologie/strumenti digitali, questo si è cap
 
 |
 
-Sono cresciuto insieme ad altre persone. Questo è importante. Negli anni hanno contribuito ad alimentare le mie conoscenze ed esperienze nella materia “servizi digitali della PA”: alcuni **colleghi e dirigenti della mia e di altre PA (special thanks ai colleghi trentini)**, e le **valide persone di questi canali e comunità attive**:
+Sono cresciuto insieme ad altre persone. Questo è importante. Negli anni hanno contribuito ad alimentare le mie conoscenze ed esperienze nella materia “servizi digitali della PA”: alcuni **colleghi e dirigenti della mia e di altre PA**, e le **valide persone di questi canali e comunità attive**:
 
 #. `formazione e sensibilizzazione dei dipendenti e dirigenti della PA sulle tematiche del digitale a 360° <http://eventipa.formez.it/search/site/?f[0]=im_field_tipoattivita%3A8798>`_ a cura del FormezPA; 
 
@@ -34,25 +36,27 @@ Sono cresciuto insieme ad altre persone. Questo è importante. Negli anni hanno 
 
 Ringraziamenti
 **************
-Sento il bisogno e desiderio di ringraziare in particolare alcune persone che hanno contribuito ad accrescere la mia consapevolezza e le mie competenze sul digitale negli ultimi anni. 
+Sento il bisogno e desiderio di ringraziare in particolare alcune persone che hanno contribuito ad accrescere la mia consapevolezza e le  competenze sul digitale negli ultimi anni. 
 
-- Dott. Gabriele Marchese (il mio attuale capo, con l'analisi dei processi nel dna), la dott.ssa Vincenza Simonte (mi aiuta ad analizzare), dott. Sergio Schimicci (i processi di lavoro sulle persone),  Giovan Battista Vitrano (tutto ciò che è informazione e dato geografico), tutti del Comune di Palermo
+- Gabriele Marchese (il mio attuale capo, un dirigente con l'analisi dei processi nel dna), Vincenza Simonte (mi aiuta ad analizzare),  Sergio Schimicci (i processi di lavoro sulle persone),  Giovan Battista Vitrano (con tutto ciò che è informazione e dato geografico), tutti del Comune di Palermo
 
-- Andrea Borruso (impossibile elencare tutti gli argomenti e campi in cui aiuta con passione le persone sull'universo delle competenze digitali), Davide Taibi del CNR di Palermo (sempre con proposte e idee su ontologie, semantica, vocabolari controllati)
+- Andrea Borruso (impossibile elencare tutti gli argomenti e campi in cui aiuta con passione le persone sull'universo delle competenze digitali sui dati)
 
-- Piersoft Paolicelli (freelance nelle PA italiane per costruire portali open data e diffondere la cultura della pubblicazione e del riuso dei dati, bot addicted)
+- Davide Taibi del CNR di Palermo (sempre con proposte e idee su ontologie, semantica, vocabolari controllati)
 
-- Giorgia Lodi dell'Agenzia per l'Italia Digitale (per gli stimoli e le interazioni finalizzate all'harvesting del catalogo dei dataset in formato aperto del comune di Palermo sul portale nazionale dati.gov.it, insieme a Davide Taibi)
+- Piersoft Paolicelli (nelle PA italiane per costruire portali open data dcat_ap_it compliant e diffondere con passione a dipendenti e dirigenti la cultura della pubblicazione e riuso dei dati)
 
-- Francesca Gleria della Provincia di Trento (vocabolari controllati, semantica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come OpenAgenda), tutti del Trentino
+- Giorgia Lodi dell'Agenzia per l'Italia Digitale (per gli stimoli e le interazioni finalizzate all'harvesting del catalogo dei dataset in formato aperto del comune di Palermo sul portale nazionale dati.gov.it, in tandem con Davide Taibi)
+
+- Francesca Gleria della Provincia di Trento (per vocabolari controllati, semantica, ontologie), Marco Combetto, Gabriele Francescotto (gli open source di Comunweb e i microservizi come `OpenAgenda <https://medium.com/@cirospat/eventi-culturali-del-territorio-raccolti-e-comunicati-in-piattaforma-crowdsourcing-con-opendata-975b6c2766e6>`_), tutti del Trentino
 
 - Morena Ragone della Regione Puglia (confrontarsi sulle strategie di miglioramento dei processi nella "transizione al digitale" è molto  importante)
 
-- Salvatore Marras, Laura Manconi, Gianfranco Andriola, Gianluca Affinito, Sergio Agostinelli, tutti del FormezPA (con i loro costanti validi webinar sul mondo dei dati, delle competenze digitali a 360°, stanno formando migliaia di dipendenti con una metodologia nuova e piacevole)
+- Salvatore Marras, Laura Manconi, Gianfranco Andriola, Gianluca Affinito, Sergio Agostinelli, tutti del `FormezPA <http://eventipa.formez.it/>`_ (con i loro costanti validi webinar sul mondo dei dati, delle competenze digitali a 360°, stanno formando migliaia di dipendenti con una metodologia nuova e piacevole)
 
 - le valide persone del Team Trasformazione Digitale (dell'Agenzia per l'Italia Digitale) che in questi due anni hanno fatto qualcosa di rivoluzionario per la Pubblica Amministrazione italiana: trasmettere la cultura dell'open source, dei repository di codice riusabile, della partecipazione a progetti di sviluppo codice utile ai processi e ai serzivi pubblici, del design
 
-- Matteo Troia per gli stimoli inviati e ricevuti utili a creare questo progetto su Read The Docs
+- Matteo Troia per gli stimoli inviati e ricevuti utili a creare il report su Read The Docs della "Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane" 
 
 |
 
