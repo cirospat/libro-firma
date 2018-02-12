@@ -22,7 +22,7 @@ Le riflessioni e analisi illustrate derivano da:
 
 |
 
-Reti
+Reti di Comunità
 **************
 
 Sono cresciuto insieme ad altre persone. Questo è importante. Negli anni hanno contribuito ad alimentare le mie conoscenze ed esperienze nella materia “servizi digitali della PA”: alcuni **colleghi e dirigenti della mia e di altre PA**, e le **valide persone di questi canali e comunità attive**:
