@@ -2,9 +2,9 @@
 Una samba dei #processi della #PA, #dati, #cittadini #design e #servizidigitali?
 *****
 
-
-``agenda digitale`` ``servizi online`` ``dati aperti`` 
-``interoperabilità`` ``design`` ``usabilità``    
+``agenda digitale`` ``servizi online`` 
+``dati aperti`` ``interoperabilità`` 
+``design`` ``usabilità``    
 
 
 +--------------------+-----------------+-------------+
