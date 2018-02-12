@@ -6,13 +6,13 @@ Una samba dei #processi della #PA, #dati, #cittadini #design e #servizidigitali?
 
 ``dati aperti`` ``interoperabilità``   
 
-``design`` ``usabilità``  ``riuso``
+``design`` ``usabilità`` ``riuso``
 
 ``processi`` ``open government``
 
 ``dematerializzazione`` ``C.A.D.``
 
-``informatizzazione``
+``informatizzazione`` ``comunicazione``
 
 
 +-------------------------+---------------------+-----------------+
