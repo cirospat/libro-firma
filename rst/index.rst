@@ -27,7 +27,7 @@ Termini con i quali lavorano, a vario titolo, i soggetti dentro (o per) la Pubbl
 
 Il **Comune di Palermo** mi da la possibilità di essere una piccola rotellina nel lungo percorso di miglioramentro dei servizi pubblici attraverso l'uso delle tecnologie digitali.
 
-L'ampia comunità di **OpendataSicilia** mi da l'opportunità di fare rete con altri soggetti per creare iniziative, azioni e progetti attraverso i quali miglioro informalmente le mie competenze digitali, che a sua volta condivido all'interno dell'amministrazione comunale.
+La comunità di **OpendataSicilia** mi da l'opportunità di fare rete con altri soggetti per creare iniziative, azioni e progetti attraverso i quali miglioro informalmente le mie competenze digitali, che a sua volta condivido all'interno dell'amministrazione comunale.
 
 La comunità di **Developers Italia**, mi da la possibilità di accrescere le conoscenze e le competenze nel campo dello sviluppo dei servizi pubblici italiani.
 
@@ -37,7 +37,6 @@ Questo report è un block notes delle ``cose`` sulle quali ogni PA dovrebbe tene
 Febbraio 2018
 
 .. note::
-
    dopo aver fatto fare il ruttino alla piccola di 3 mesi alle 3 del mattino passeggiando per il buio corridoio, per più notti, hai la mente più limpida,... perchè il ruttino è liberazione 
    
    {mettetevi comodi, e munitevi di popcorn}
