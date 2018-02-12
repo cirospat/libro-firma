@@ -14,10 +14,11 @@ Samba della transizione al digitale della Pubblica Amministrazione
 
 ``informatizzazione`` ``comunicazione``
 
-
 Termini con i quali lavorano, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.
 
-|
+.. figure:: imgrel/linetta.png
+   :alt: linetta
+   :align: center
 
 .. figure:: imgrel/cuore.png
    :alt: OpendataSicilia e Comune di Palermo
