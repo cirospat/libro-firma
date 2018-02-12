@@ -1,5 +1,5 @@
 *****
-Una samba dei #processi della #PA, #dati, #cittadini #design e #servizidigitali?
+Samba della transizione al digitale della Pubblica Amministrazione
 *****
 
 ``agenda digitale`` ``servizi online``   
