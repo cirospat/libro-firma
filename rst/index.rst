@@ -4,7 +4,8 @@ Una samba dei #processi della #PA, #dati, #cittadini #design e #servizidigitali?
 
 
 ``agenda digitale`` ``servizi online`` ``dati aperti`` 
-``interoperabilità`` ``design`` `` usabilita'``    
+``interoperabilità`` ``design`` ``usabilità``    
+
 
 +--------------------+-----------------+-------------+
 |dematerializzazione | open government | riuso       |
