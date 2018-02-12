@@ -2,7 +2,7 @@
 Samba della transizione al digitale della Pubblica Amministrazione
 *****
 
-``agenda digitale`` ``servizi online``   
+   ``agenda digitale`` ``servizi online``   
 
 ``dati aperti`` ``interoperabilità``   
 
