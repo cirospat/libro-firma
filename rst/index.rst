@@ -24,7 +24,7 @@ Termini con i quali lavorano, a vario titolo, i soggetti dentro (o per) la Pubbl
    :alt: OpendataSicilia e Comune di Palermo
    :align: center
    
-.. nota:: :align: center
+.. nota::
    Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_, dipendente del `Comune di Palermo <https://opendata.comune.palermo.it>`_ e membro della comunità  `OpendataSicilia <http://opendatasicilia.it>`_
    
 
