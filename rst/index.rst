@@ -18,8 +18,8 @@ Termini con i quali lavorano, a vario titolo, i soggetti dentro (o per) la Pubbl
 
 ------
 
-.. figure:: imgrel/cuore.png
-   :alt: OpendataSicilia e Comune di Palermo
+.. figure:: imgrel/3loghi.png
+   :alt: OpendataSicilia It e Comune di Palermo
       
 .. note::
    Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_, dipendente del `"Comune di Palermo" <https://opendata.comune.palermo.it>`_, membro della comunità  `"OpendataSicilia" <http://opendatasicilia.it>`_ e del `forum sui servizi pubblici digitali "Developers Italia" <https://forum.italia.it/>`_
