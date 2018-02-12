@@ -2,7 +2,7 @@
 Samba della transizione al digitale della Pubblica Amministrazione
 *****
 
-   ``agenda digitale`` ``servizi online``   
+``agenda digitale`` ``servizi online``   
 
 ``dati aperti`` ``interoperabilità``   
 
@@ -15,11 +15,6 @@ Samba della transizione al digitale della Pubblica Amministrazione
 ``informatizzazione`` ``comunicazione``
 
 
-+-------------------------+---------------------+-----------------+
-|  |  |        |
-+-------------------------+---------------------+-----------------+
-|    |         |       |
-+-------------------------+---------------------+-----------------+
 Termini con i quali lavorano, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.
 
 |
