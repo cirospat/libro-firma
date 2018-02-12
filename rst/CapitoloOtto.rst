@@ -22,6 +22,9 @@ Le riflessioni e analisi illustrate derivano da:
 
 |
 
+Reti
+**************
+
 Sono cresciuto insieme ad altre persone. Questo è importante. Negli anni hanno contribuito ad alimentare le mie conoscenze ed esperienze nella materia “servizi digitali della PA”: alcuni **colleghi e dirigenti della mia e di altre PA**, e le **valide persone di questi canali e comunità attive**:
 
 #. `formazione e sensibilizzazione dei dipendenti e dirigenti della PA sulle tematiche del digitale a 360° <http://eventipa.formez.it/search/site/?f[0]=im_field_tipoattivita%3A8798>`_ a cura del FormezPA; 
