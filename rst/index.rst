@@ -40,9 +40,9 @@ La comunità di **Developers Italia**, mi da la possibilità di accrescere le co
 Febbraio 2018
 
 .. note::
-   dopo aver fatto fare il ruttino alla piccola di 3 mesi alle 3 del mattino passeggiando per il buio corridoio, per più notti, hai la mente più limpida,... perchè il ruttino è liberazione 
+   Dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino, passeggiando per il buio corridoio per più notti, hai la mente più limpida,... perchè il ruttino è liberazione 
    
-   {mettetevi comodi, e munitevi di popcorn}
+   [mettetevi comodi, e munitevi di popcorn]
    
 ------------
 
