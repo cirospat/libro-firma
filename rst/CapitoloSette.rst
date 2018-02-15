@@ -25,10 +25,16 @@ E' necessario per i soggetti della Pubblica Amministrazione rendersi disponibili
 .. note::
    Pillole curative:
    
-   Servono dirigenti, e anche funzionari, competenti in ICT nella PA. 
+   **Servono dirigenti e funzionari competenti in ICT nella PA**. 
    E' la conclusione alla quale è arrivata la Commissione parlamentare di inchiesta su livello di digitalizzazione della PA, che condivido pienamente.
    Se le competenze ICT sono assenti negli uffici pubblici, nessuna versione di CAD e di PIANO TRIENNALE ICT sarà in grado di far erogare pienamente ad una PA servizi (e gestire processi) digitali!
-   Quindi servono dipendenti e dirigenti competenti in ICT nella PA: 1) si scovano nei camerini in cui spesso si trovano non valorizzati da anni (dipendenti anche con capacità di sviluppatore software), 2) si fa in modo che entrino nella PA (dipendenti/dirigenti a contratto/progetto), 3) si formano con percorsi e progetti ad hoc e con una costante formazione "informale"
+   Quindi servono dipendenti e dirigenti competenti in ICT nella PA: 
+   
+   1) si scovano nei camerini in cui spesso si trovano non valorizzati da anni (dipendenti anche con capacità di sviluppatore software),
+   
+   2) si fa in modo che entrino nella PA (dipendenti/dirigenti a contratto/progetto), 
+   
+   3) si formano con percorsi e progetti ad hoc e con una costante formazione "informale"
 
 |
 
