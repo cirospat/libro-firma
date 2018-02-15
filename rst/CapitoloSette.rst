@@ -14,11 +14,12 @@ Perchè sui servizi digitali, e relativa usabilità, si giocheranno le principal
 
 |
    
-7.1 Competenze e abilità ICT necessarie nella PA!
+7.1 Competenze e abilità ICT necessarie nella PA! Formazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Non è solo un fattore di eliminazione della carta su cui viene stampato un certificato/documento di un ufficio pubblico. Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario e intelligente e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti. Per fare questi passi **è necessario disporre di competenze adeguate (ICT skills) all’interno delle PA**, per attuare concretamente la fatidica “transizione al digitale”.
 
-La **formazione** è uno dei pilastri fondamentali per costruire le competenze digitali, anche di base, nei dirigenti e dipendenti della PA. Formazione acquisita in modalità formale, ma anche informale attraverso momenti di incontro e confronto con soggetti della società civile (**hackathon**, **open data day**, **settimana dell'amministrazione aperta**).
+La **formazione** è uno dei pilastri fondamentali per costruire le competenze digitali, anche di base, nei dirigenti e dipendenti della PA. Formazione acquisita in modalità formale (corsi ad hoc nel PAF, Piano Annuale della Formazione), ma anche informale attraverso momenti di incontro e confronto con soggetti della società civile (**hackathon**, **open data day**, **settimana dell'amministrazione aperta**). In questo secondo caso community come quelle attive sugli open data (Spaghetti open data, OpendataSicilia, OpendataPuglia, Sardiniaopendata,...) rappresentano validi animatori della formazione e sensibilizzazione.
+E' necessario per i soggetti della Pubblica Amministrazione rendersi disponibili ad aquisire conoscenze nuove da spendere poi all'interno degli uffici per innovare la gestione dei processi nella transizione alla modalità digitale. 
 
 
 .. note::
@@ -27,7 +28,7 @@ La **formazione** è uno dei pilastri fondamentali per costruire le competenze d
    Servono dirigenti, e anche funzionari, competenti in ICT nella PA. 
    E' la conclusione alla quale è arrivata la Commissione parlamentare di inchiesta su livello di digitalizzazione della PA, che condivido pienamente.
    Se le competenze ICT sono assenti negli uffici pubblici, nessuna versione di CAD e di PIANO TRIENNALE ICT sarà in grado di far erogare pienamente ad una PA servizi (e gestire processi) digitali!
-   Quindi servono dipendenti e dirigenti competenti in ICT nella PA: o si scovano nei camerini in cui si trovano spesso non valorizzati da anni (dipendenti spesso anche sviluppatori), o si fa in modo che entrino nella PA (dipendenti/dirigenti a contratto/progetto).
+   Quindi servono dipendenti e dirigenti competenti in ICT nella PA: 1) si scovano nei camerini in cui spesso si trovano non valorizzati da anni (dipendenti anche con capacità di sviluppatore software), 2) si fa in modo che entrino nella PA (dipendenti/dirigenti a contratto/progetto), 3) si formano con percorsi e progetti ad hoc e con una costante formazione "informale"
 
 |
 
