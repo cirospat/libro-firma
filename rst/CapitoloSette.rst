@@ -55,7 +55,7 @@ E' necessario per i soggetti della Pubblica Amministrazione rendersi disponibili
    
    https://forum.italia.it/
 
-`Developers Forum <https://forum.italia.it/>`_ è la sezione di **Developers Italia** nata per condividere, attraverso il dialogo e il confronto, conoscenza e strumenti sui servizi pubblici digitali. Uno spazio — anche di formazione — da usare da parte di dipendenti e dirigenti della PA che in qualche modo, e a vario titolo, entrano nel processo di transizione dei servizi pubblici alla modalità digitale.
+`Developers Forum <https://forum.italia.it/>`_ è la sezione online di **Developers Italia** nata per condividere, attraverso il dialogo e il confronto, conoscenza, competenze e strumenti sui servizi pubblici digitali. Uno spazio pubblico — che è anche di formazione — da usare da parte di dipendenti e dirigenti della PA, che in qualche modo, e a vario titolo, entrano nel processo di transizione dei servizi pubblici alla modalità digitale. Un luogo sicuramente dove fermarsi se si stanno affrontando  attività/progetti propedeutici alla nuova erogazione di servizi digitali.
 
 **Diego Piacentini: il sistema operativo del Paese**
 
