@@ -49,8 +49,7 @@ L’armadietto, infine, è usato per gestire anche una parte fisica del processo
 - la conservazione cartacea del documento informatico prima scansionato (perchè ci sono le firme a penna) e poi stampato. 
 
 **In tante stanze della PA ancora non si accetta “culturalmente” il formato digitale del file come documento originale**
-
-**(to CAD or not to CAD, this is the question)**
+  **(to CAD or not to CAD, this is the question)**
 
 .. figure:: imgrel/digitale-analogico-digitale.png
    :alt: digitale analogico digitale
