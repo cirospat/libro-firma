@@ -97,7 +97,7 @@ Quando capita che il dialogo di dati non esiste tra i diversi database dello ste
    Per assicurare ciò è inevitabile l'interoperabilità delle banche dati degli uffici pubblici che detengono dati a vario titolo sul
    cittadino/azienda. Un database tematico di una PA locale deve poter richiamare tutti i dati degli altri database esistenti in quella
    specifica PA - attraverso l'uso di una corretta metadatazione - e dialogare anche con i più rilevanti database di altre PA nazionali
-   e regionali, per lo svolgimento dei compiti istituzionali relativi alle proprie competenze.
+   e regionali, per lo svolgimento dei rispettivi compiti istituzionali.
    
 |   
    
