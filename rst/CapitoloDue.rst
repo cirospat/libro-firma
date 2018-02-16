@@ -50,7 +50,8 @@ L’armadietto, infine, è usato per gestire anche una parte fisica del processo
 
 **In tante stanze della PA ancora non si accetta “culturalmente” il formato digitale del file come documento originale**
 
-   :align: center  **(to CAD or not to CAD, this is the question)**
+   :align: center
+      **(to CAD or not to CAD, this is the question)**
 
 .. figure:: imgrel/digitale-analogico-digitale.png
    :alt: digitale analogico digitale
