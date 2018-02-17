@@ -26,8 +26,8 @@ E' necessario per i soggetti della Pubblica Amministrazione rendersi disponibili
 
 **Comunicazione interna**
 
-E' molto importante generare all'interno di una stessa PA un flusso di comunicazione tra i dipendenti e dirigenti, al fine di rendere condiviso un livello ideale di informazioni utili a tutti.
-E' ormai da decenni in uso la prassi delle "Circolari" che rappresenta una comunicazione di tipo unidirezionale top-down. Questo tipo di comunicazione non permette la nascita di interazioni di tipo pluridirezionale tra i dipenenti/dirigenti in quanto le circolari vengono solo recepite (accettate). 
+E' molto importante generare all'interno di una stessa PA un flusso di comunicazione tra i dipendenti e tra i dirigenti, al fine di rendere condiviso un livello ideale di informazioni utili a tutti.
+Da decenni è in uso la prassi delle "Circolari" che rappresenta una comunicazione di tipo unidirezionale top-down. Questo tipo di comunicazione non permette la nascita di interazioni di tipo multi direzionale tra i dipenenti/dirigenti in quanto le circolari vengono solo recepite (accettate). 
 
 I forum online rappresentano un valido strumento di comunicazione e condivisione delle informazioni e delle iniziative intraprese dentro una PA. Alcune Pa già utilizzano i forum (ad esempio il **Google Group**) traendone vantaggi in termini di condivisione rapida delle informazioni. Capita sovente che alcuni uffici non sono a conoscenza di un servizio digitale attivato da un altro ufficio per gestire processi di lavoro, e ciò può portare ad eventuali duplicazioni di adozione di analoghi applicativi a quelli utilizzati da uffici della stessa PA (soprattutto in quelle PA dove non c'è la società in house per i servizi informativi). 
 
@@ -159,7 +159,9 @@ E’ fondamentale, inoltre, assicurare la **completa integrazione di tutti i dat
 Capita che alcuni servizi digitali sono stati attivati in una PA, ma non vengono adeguatamente comunicati nel sito web istituzionale.
 In questo caso i cittadini avranno difficoltà a conoscere il nuovo servizio attivato (es. SPID; PagoPA, ..) e quindi ne consegue che il servizio stesso non viene utilizzato.
 
-Serve quindi mettere adeguatamente in risalto in homepage i servizi digitali attivati, utilizzando loghi ufficiali (predisposti dall'AGID per le piattaforme abilitanti) e un linguaggio breve e semplice, comprensibile dalla maggior parte dei cittadini. E' altresì utile pubblicizzare i servizi con comunicati stampa frequenti e post sui social network che invitano all'uso dei servizi digitali attivati dalla PA. Nelle scadenze di pagamento di tibuti o relative alle contravvenzioni per violazioni al codice della strada, è utile sempre ricordare ai cittadini l'avvenuta attivazione di SPID e PagoPA, ad esempio.
+Serve mettere adeguatamente in risalto in homepage i servizi digitali attivati, utilizzando loghi ufficiali (predisposti dall'AGID per le piattaforme abilitanti) e un linguaggio breve e semplice, comprensibile dalla maggior parte dei cittadini. E' altresì utile pubblicizzare i servizi con comunicati stampa frequenti e post sui social network che invitano all'uso dei servizi digitali attivati dalla PA. Nelle scadenze di pagamento di tibuti piuttosto che di rette scolastiche o relative alle contravvenzioni per violazioni al codice della strada, è sempre utile ricordare ai cittadini l'avvenuta attivazione di SPID e PagoPA nel proprio portale, ad esempio.
+
+**La comunicazione è importante tanto quanto l'aver attivato i servizi digitali. Senza adeguata comunicazione, i servizi digitali non raggiungono l'obiettivo per il quale sono nati**.
 
 |
 
