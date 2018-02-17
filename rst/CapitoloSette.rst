@@ -161,7 +161,7 @@ In questo caso i cittadini avranno difficoltà a conoscere il nuovo servizio att
 
 Serve mettere adeguatamente in risalto in homepage i servizi digitali attivati, utilizzando loghi ufficiali (predisposti dall'AGID per le piattaforme abilitanti) e un linguaggio breve e semplice, comprensibile dalla maggior parte dei cittadini. E' altresì utile pubblicizzare i servizi con comunicati stampa frequenti e post sui social network che invitano all'uso dei servizi digitali attivati dalla PA. Nelle scadenze di pagamento di tibuti piuttosto che di rette scolastiche o relative alle contravvenzioni per violazioni al codice della strada, è sempre utile ricordare ai cittadini l'avvenuta attivazione di SPID e PagoPA nel proprio portale, ad esempio.
 
-**La comunicazione è importante tanto quanto l'aver attivato i servizi digitali. Senza adeguata comunicazione, i servizi digitali non raggiungono l'obiettivo per il quale sono nati**.
+**La comunicazione è importante tanto quanto l'aver attivato i servizi digitali. Senza adeguata comunicazione, i servizi digitali non raggiungono l'obiettivo per il quale sono nati: rendere la vita più semplice e comoda ai cittadini nella fruizione dei servizi pubblici**.
 
 |
 
