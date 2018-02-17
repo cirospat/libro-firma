@@ -2,7 +2,7 @@
 Cap 7 | Conclusione (si fa per dire)
 ================================================
 
-ABSTRACT | Le iniziative  di partecipazione e coinvolgimento dei cittadini nella vita pubblica, avviate negli ultimi anni da diverse amministrazioni territoriali, dovrebbero focalizzare molta attenzione (fissando obiettivi e risultati attesi) proprio sulle attività di co-design dei servizi pubblici, servizi digitali in primis.
+Le iniziative  di partecipazione e coinvolgimento dei cittadini nella vita pubblica, avviate negli ultimi anni da diverse amministrazioni territoriali, dovrebbero focalizzare molta attenzione (fissando obiettivi e risultati attesi) proprio sulle attività di co-design dei servizi pubblici, servizi digitali in primis.
 
 .. figure:: imgrel/4persone.PNG
    :alt: incontro
@@ -33,7 +33,7 @@ I forum online rappresentano un valido strumento di comunicazione e condivisione
 
 L'utilizzo dei forum online tematici permette di velocizzare i processi di comunicazione interna rendendo fertile il terreno della proposizione di iniziative volte a migliorare le prestazioni degli uffici nella gestione delle attività di competenza.
 
-Nella gestione di specifici progetti che vede impegnati più uffici di una PA, oltre all'ormai consueta abitudine dell'uso di email come strumento di comunicazione, risulta molto vantaggiosa per la produttività l'adozione di piattaforme quali Slack che oltre alla comunicaz
+Nella gestione di specifici progetti che vede impegnati più uffici di una PA, oltre all'ormai consueta abitudine dell'uso di email come strumento di comunicazione, risulta molto vantaggiosa, per la produttività, l'adozione di piattaforme quali Slack che oltre alla comunicazione in tempo reale multi utente, permettono anche la condivisione documentale. 
 
 
 .. note::
