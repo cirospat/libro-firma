@@ -22,7 +22,7 @@ Questo report è un block notes delle ``attività`` sulle quali ogni Pubblica Am
 
 Il report nasce da un periodo di analisi del fenomeno della penetrazione del digitale in alcune PA, e dalle interazioni con altri soggetti che a vario titolo lavorano nella e per la PA.
 
-**Perchè samba**? La samba è una danza molto ricca di movimenti coordinati e di allegria, immagino la transizione al digitale della PA come un insieme organizzato di attività da avviare, che coinvolgono inevitabilmente tutti i dipendenti e dirigenti pubblici, e se queste attività si svolgono in allegria e nel più gradevole dei modi, ... forse è conveniente! E' semplicemente un buon auspicio.
+**Perchè samba**? La samba è una danza molto ricca di movimenti coordinati e di allegria, immagino la transizione al digitale della PA come un insieme organizzato di attività da gestire, che coinvolgono inevitabilmente tutti i dipendenti e dirigenti pubblici, e se queste attività si svolgono in allegria e nel più gradevole dei modi, ... forse è conveniente! E' semplicemente un buon auspicio.
 
 .. figure:: imgrel/3loghi.png
    :alt: OpendataSicilia It e Comune di Palermo
