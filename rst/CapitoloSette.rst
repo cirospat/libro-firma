@@ -14,12 +14,26 @@ Perchè sui servizi digitali, e relativa usabilità, si giocheranno le principal
 
 |
    
-7.1 Competenze e abilità ICT necessarie nella PA! Formazione
+7.1 Competenze e abilità ICT necessarie nella PA! Formazione e comunicazione interna
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Non è solo un fattore di eliminazione della carta su cui viene stampato un certificato/documento di un ufficio pubblico. Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario e intelligente e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti. Per fare questi passi **è necessario disporre di competenze adeguate (ICT skills) all’interno delle PA**, per attuare concretamente la fatidica “transizione al digitale”.
 
+**Formazione**
+
 La **formazione** è uno dei pilastri fondamentali per costruire le competenze digitali, anche di base, nei dirigenti e dipendenti della PA. Formazione acquisita in modalità formale (corsi ad hoc nel PAF, Piano Annuale della Formazione), ma anche informale attraverso momenti di incontro e confronto con soggetti ed organizzazioni della società civile (**hackathon**, **webinar**, **mooc**, **open data day**, **settimana dell'amministrazione aperta**, **learning objects del FormezPA**, ...). In questo secondo caso community come quelle attive sugli open data (Spaghetti open data, OpendataSicilia, OpendataPuglia, Sardiniaopendata,...) rappresentano validi animatori della formazione e sensibilizzazione sul digitale.
 E' necessario per i soggetti della Pubblica Amministrazione rendersi disponibili ad aquisire conoscenze nuove da spendere poi all'interno degli uffici per innovare la gestione dei processi nella transizione alla modalità digitale. La contaminazione culturale (attraverso le competenze) dall'esterno verso l'interno della PA è necessaria per un cambiamento positivo.
+
+
+**Comunicazione interna**
+
+E' molto importante generare all'interno di una stessa PA un flusso di comunicazione tra i dipendenti e dirigenti, al fine di rendere condiviso un livello ideale di informazioni utili a tutti.
+E' ormai da decenni in uso la prassi delle "Circolari" che rappresenta una comunicazione di tipo unidirezionale top-down. Questo tipo di comunicazione non permette la nascita di interazioni di tipo pluridirezionali tra i dipenenti/dirigenti in quanto le circolari vengono solo recepite. 
+
+I forum online rappresentano un valido strumento di comunicazione e condivisione delle informazioni e delle iniziative intraprese dentro una PA. Alcune Pa già utilizzano i forum (ad esempio il Google Forum) traendone vantaggi in termini di condivisione rapida delle informazioni. Capita sovente che alcuni uffici non sono a conoscenza di un servizio digitale attivato da un altro ufficio per gestire processi di lavoro, e ciò può portare ad eventuali duplicazioni di adozione di analoghi applicativi a quelli utilizzati da uffici della stessa PA (soprattutto in quelle PA dove non c'è la società in house per i servizi informativi). 
+
+L'utilizzo dei forum online tematici permette di velocizzare i processi di comunicazione interna rendendo fertile il terreno della proposizione di iniziative volte a migliorare le prestazioni degli uffici nella gestione delle attività di competenza.
+
+Nella gestione di specifici progetti che vede impegnati più uffici di una PA, oltre all'ormai consueta abitudine dell'uso di email come strumento di comunicazione, risulta molto vantaggiosa per la produttività l'adozione di piattaforme quali Slack che oltre alla comunicaz
 
 
 .. note::
