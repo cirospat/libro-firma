@@ -26,7 +26,7 @@ Il report nasce da un periodo di analisi del fenomeno della penetrazione del dig
    :alt: OpendataSicilia It e Comune di Palermo
       
 .. note::
-   Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_, dipendente del `"Comune di Palermo" <https://opendata.comune.palermo.it>`_ - Servizio Innovazione - U.O. transizione al digitale, membro della comunità  `"OpendataSicilia" <http://opendatasicilia.it>`_ e del `forum sui servizi pubblici digitali "Developers Italia" <https://forum.italia.it/>`_
+   Un report a cura di `Ciro Spataro <https://sites.google.com/view/cirospat>`_, dipendente del `'Comune di Palermo' <https://opendata.comune.palermo.it>`_ - Servizio Innovazione - U.O. transizione al digitale, membro della comunità  `'OpendataSicilia' <http://opendatasicilia.it>`_ e del `forum sui servizi pubblici digitali 'Developers Italia' <https://forum.italia.it/>`_
    
 
 Il **Comune di Palermo** mi da la possibilità di essere una piccola rotellina nel lungo percorso di miglioramentro dei servizi pubblici attraverso l'uso delle tecnologie digitali.
