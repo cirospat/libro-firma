@@ -12,7 +12,7 @@ Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l�
 |
 3.1 L’analisi dei processi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-L’analisi dei processi è la prima attività da svolgere prima di pensare di acquistare software per rendere in formato digitale il processo stesso. Il processo è la descrizione chiara, puntuale e dettagliata, nei vari passaggi, di come si svolge il lavoro nell'intero ciclo di vita dell’atto amministrativo.
+L’analisi dei processi è la prima attività da svolgere prima di pensare di acquistare software per rendere in modalità digitale il processo stesso. Il processo è la descrizione chiara, puntuale e dettagliata, nei vari passaggi, di come si svolge il lavoro nell'intero ciclo di vita dell’atto amministrativo.
 
 **Mi spiego meglio**
 
