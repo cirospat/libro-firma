@@ -18,8 +18,8 @@ Perchè sui servizi digitali, e relativa usabilità, si giocheranno le principal
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Non è solo un fattore di eliminazione della carta su cui viene stampato un certificato/documento di un ufficio pubblico. Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario e intelligente e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti. Per fare questi passi **è necessario disporre di competenze adeguate (ICT skills) all’interno delle PA**, per attuare concretamente la fatidica “transizione al digitale”.
 
-La **formazione** è uno dei pilastri fondamentali per costruire le competenze digitali, anche di base, nei dirigenti e dipendenti della PA. Formazione acquisita in modalità formale (corsi ad hoc nel PAF, Piano Annuale della Formazione), ma anche informale attraverso momenti di incontro e confronto con soggetti della società civile (**hackathon**, **webinar**, **mooc**, **open data day**, **settimana dell'amministrazione aperta**, **learning objects del FormezPA**, ...). In questo secondo caso community come quelle attive sugli open data (Spaghetti open data, OpendataSicilia, OpendataPuglia, Sardiniaopendata,...) rappresentano validi animatori della formazione e sensibilizzazione sul digitale.
-E' necessario per i soggetti della Pubblica Amministrazione rendersi disponibili ad aquisire conoscenze nuove da spendere poi all'interno degli uffici per innovare la gestione dei processi nella transizione alla modalità digitale. 
+La **formazione** è uno dei pilastri fondamentali per costruire le competenze digitali, anche di base, nei dirigenti e dipendenti della PA. Formazione acquisita in modalità formale (corsi ad hoc nel PAF, Piano Annuale della Formazione), ma anche informale attraverso momenti di incontro e confronto con soggetti ed organizzazioni della società civile (**hackathon**, **webinar**, **mooc**, **open data day**, **settimana dell'amministrazione aperta**, **learning objects del FormezPA**, ...). In questo secondo caso community come quelle attive sugli open data (Spaghetti open data, OpendataSicilia, OpendataPuglia, Sardiniaopendata,...) rappresentano validi animatori della formazione e sensibilizzazione sul digitale.
+E' necessario per i soggetti della Pubblica Amministrazione rendersi disponibili ad aquisire conoscenze nuove da spendere poi all'interno degli uffici per innovare la gestione dei processi nella transizione alla modalità digitale. La contaminazione culturale (attraverso le competenze) dall'esterno verso l'interno della PA è necessaria per un cambiamento positivo.
 
 
 .. note::
@@ -140,7 +140,16 @@ E’ fondamentale, inoltre, assicurare la **completa integrazione di tutti i dat
 
 |
 
-7.5 Le parole chiave, per una samba di cui al titolo di questo report
+7.5 Comunicare efficacemente ai cittadini i servizi digitali attivati
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Capita che alcuni servizi digitali sono stati attivati in una PA, ma non vengono adeguatamente comunicati nel sito web istituzionale.
+In questo caso i cittadini avranno difficoltà a conoscere il nuovo servizio attivato (es. SPID; PagoPA, ..) e quindi ne consegue che il servizio stesso non viene utilizzato.
+
+Serve quindi mettere adeguatamente in risalto in homepage i servizi digitali attivati, utilizzando loghi ufficiali (predisposti dall'AGID per le piattaforme abilitanti) e un linguaggio breve e semplice, comprensibile dalla maggior parte dei cittadini. E' altresì utile pubblicizzare i servizi con comunicati stampa frequenti e post sui social network che invitano all'uso dei servizi digitali attivati dalla PA. Nelle scadenze di pagamento di tibuti o relative alle contravvenzioni per violazioni al codice della strada, è utile sempre ricordare ai cittadini l'avvenuta attivazione di SPID e PagoPA, ad esempio.
+
+|
+
+7.6 Le parole chiave, per una samba di cui al titolo di questo report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: imgrel/processipa.png
@@ -168,7 +177,7 @@ La tecnologia digitale e le relative piattaforme sono solo strumenti da usare qu
 
 |
 
-7.6 La transizione al digitale è prima di tutto un percorso culturale
+7.7 La transizione al digitale è prima di tutto un percorso culturale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Un percorso culturale da intraprendere da parte dei singoli individui che, a vario titolo, lavorano nelle stanze della PA, e se manca nelle singole persone la consapevolezza dell’importanza e dell’utilità di portare nel digitale tutto il lavoro che oggi si fa sulla carta, non si attuerà mai un cambiamento concreto che possa dare una nuova immagine della PA nei confronti dei cittadini. **Bisognerà lavorare sul fare accettare a tutti i dipendenti e dirigenti il digitale quasi “ridendo”**, nel senso che tutti dovranno essere messi nella condizione di comprendere <<facilmente>> che lavorare con nuove metodologie in modalità digitale è utile prima a se stessi nello svolgimento delle proprie funzioni, e allo stesso tempo ai cittadini fruitori dei servizi pubblici. 
 
