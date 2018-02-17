@@ -37,7 +37,7 @@ Nella gestione di specifici progetti che vedono impegnati più uffici di una PA,
 
 
 .. note::
-   Pillole curative:
+   **Pillole curative**:
    
    **Servono dirigenti e funzionari competenti in ICT nella PA**. 
    E' la conclusione alla quale è arrivata la Commissione parlamentare di inchiesta su livello di digitalizzazione della PA, che condivido pienamente.
@@ -175,7 +175,8 @@ Serve mettere adeguatamente in risalto in homepage i servizi digitali attivati, 
    relazioni tra cittadini e PA nell’ecosistema dei servizi pubblici digitali  (Ciro Spataro, lic.CC BY SA 4.0)
 
 .. note::
-   Pillole curative:
+   **Pillole curative**:
+   
    Le parole chiave dell'ecosistema dei servizi pubblici digitali
 
    **#processi amministrativi** della PA + **#interoperabilità** dei **#database** + **#competenza** + **#formazione ICT** delle risorse umane (ingredienti dell’ecosistema digitale interno alla PA)
