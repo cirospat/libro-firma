@@ -100,7 +100,8 @@ Probabilmente le software house chiamate a costruire piattaforme digitali nella 
    la logica dei micro-servizi nelle piattaforme digitali dell’Associazione dei Comuni Trentini (da un `webinar con intervento di Gabriele Francescotto <https://drive.google.com/file/d/0B9q5qob_W3NiSVlFRTdEMFNwSmJjekR5aUJBYmgwMGFKbW13/view>`_)
 
 .. nota::
-   Pillole curative:
+   **Pillole curative**:
+   
    Software, **non solo “cosa fa” →  ma “come lo fa”** 
    
    Inserire — nella costruzione del software — un focus, oltre al “cosa fa”, anche al “come lo fa”, tenendo sempre in mente come riferimento 1)la semplificazione dei processi e 2)l’esperienza d’uso del software.
