@@ -26,7 +26,7 @@ Se una PA fa ruotare il personale in ottemperanza ai Piani anti corruzione e se 
 
 .. note::
 
-   Pillole curative:
+   **Pillole curative**:
    Esempio di gerarchia dei database: 
    
    Nome cognome ↴ 
@@ -69,7 +69,7 @@ I dati sono la principale miniera con la quale lavorano gli uffici pubblici e la
 
 .. note::
 
-   Pillole curative:
+   **Pillole curative**:
    
    **Per i dipendenti e dirigenti pubblici, avere accesso ai dati dei database, non chiederli.**
    
