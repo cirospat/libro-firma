@@ -18,7 +18,7 @@ Termini con i quali lavorano, a vario titolo, i soggetti dentro (o per) la Pubbl
 
 ------
 
-Il presente report è un block notes delle ``attività`` sulle quali ogni PA dovrebbe tenere alta l'attenzione, ma è anche un contenitore di ``riflessioni``, ``input``. E piccole ``proposte`` (in formato pillole) per cercare di aumentare la `cultura digitale` in coloro che vivono il lavoro quotidiano nelle PA, e per avviare in maniera operativa piccoli pezzi, in progressione, di quella che il `Codice dell'Amministrazione Digitale <https://cad.readthedocs.io/it/v2017-12-13/>`_  chiama "**transizione al digitale**".
+Il presente report è un block notes delle ``attività`` sulle quali ogni PA dovrebbe tenere alta l'attenzione, ma è anche un contenitore di ``riflessioni``, ``input``. E piccole ``proposte`` (in formato pillole) per cercare di aumentare la `cultura digitale` di coloro che vivono il lavoro quotidiano nelle PA, cultura necessaria ad avviare in maniera operativa piccoli pezzi, in progressione, di quella che il `Codice dell'Amministrazione Digitale <https://cad.readthedocs.io/it/v2017-12-13/>`_  chiama "**transizione al digitale**".
 
 .. figure:: imgrel/3loghi.png
    :alt: OpendataSicilia It e Comune di Palermo
