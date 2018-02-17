@@ -18,7 +18,7 @@ Perchè sui servizi digitali, e relativa usabilità, si giocheranno le principal
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Non è solo un fattore di eliminazione della carta su cui viene stampato un certificato/documento di un ufficio pubblico. Quanto ampiamente analizzato lo considero un percorso articolato e strutturato per la **costruzione di un rapporto fiduciario e intelligente e bidirezionale tra chi amministra pubblicamente un territorio e i cittadini che ci vivono**. Per costruire questo nuovo rapporto credo fermamente ci sia bisogno di fare i passi esposti. Per fare questi passi **è necessario disporre di competenze adeguate (ICT skills) all’interno delle PA**, per attuare concretamente la fatidica “transizione al digitale”.
 
-La **formazione** è uno dei pilastri fondamentali per costruire le competenze digitali, anche di base, nei dirigenti e dipendenti della PA. Formazione acquisita in modalità formale (corsi ad hoc nel PAF, Piano Annuale della Formazione), ma anche informale attraverso momenti di incontro e confronto con soggetti della società civile (**hackathon**, **open data day**, **settimana dell'amministrazione aperta**). In questo secondo caso community come quelle attive sugli open data (Spaghetti open data, OpendataSicilia, OpendataPuglia, Sardiniaopendata,...) rappresentano validi animatori della formazione e sensibilizzazione.
+La **formazione** è uno dei pilastri fondamentali per costruire le competenze digitali, anche di base, nei dirigenti e dipendenti della PA. Formazione acquisita in modalità formale (corsi ad hoc nel PAF, Piano Annuale della Formazione), ma anche informale attraverso momenti di incontro e confronto con soggetti della società civile (**hackathon**, **webinar**, **mooc**, **open data day**, **settimana dell'amministrazione aperta**, **learning objects del FormezPA**, ...). In questo secondo caso community come quelle attive sugli open data (Spaghetti open data, OpendataSicilia, OpendataPuglia, Sardiniaopendata,...) rappresentano validi animatori della formazione e sensibilizzazione sul digitale.
 E' necessario per i soggetti della Pubblica Amministrazione rendersi disponibili ad aquisire conoscenze nuove da spendere poi all'interno degli uffici per innovare la gestione dei processi nella transizione alla modalità digitale. 
 
 
@@ -147,15 +147,20 @@ E’ fondamentale, inoltre, assicurare la **completa integrazione di tutti i dat
    :alt: processi pa
    :align: center
    
-   relazioni tra cittadini e PA nell’ecosistema dei servizi pubblici digitali  (Ciro Spataro lic. CC BY SA 4.0 int)
+   relazioni tra cittadini e PA nell’ecosistema dei servizi pubblici digitali  (Ciro Spataro, lic.CC BY SA 4.0)
 
-**#processi amministrativi** della PA con **#interoperabilità** dei **#database** e **#competenza** + **#formazione ICT** delle risorse umane (ingredienti dell’ecosistema digitale della PA)
+.. note::
+   Pillole curative:
+   Le parole chiave dell'ecosistema dei servizi pubblici digitali
 
-**#cittadini** (fruitori dei servizi pubblici)
+   **#processi amministrativi** della PA + **#interoperabilità** dei **#database** + **#competenza** + **#formazione ICT** delle risorse umane (ingredienti dell’ecosistema digitale interno alla PA)
 
-**#design** (fattore di successo nel rapporto tra PA e cittadini)
+   **#cittadini** (fruitori dei servizi pubblici)
 
-**#digital #service** (servizi pubblici: cuore della mission istituzionale della PA, trait d’union tra PA e cittadini)
+   **#design** (fattore di successo nel rapporto tra PA e cittadini)
+
+   **#digital #service** (servizi pubblici: cuore della mission istituzionale della PA, trait d’union tra PA e cittadini)
+
 
 E’ indispensabile trovare una **relazione e armonia tra queste parole chiave**, per agevolare e semplificare il lavoro che va fatto da migliaia di persone nelle migliaia di stanze della PA italiana nei prossimi anni. Le norme di oggi devono essere più chiare, snelle e vicine alla componente “umana” del lavoro da fare (dentro e fuori gli uffici), meno “gessate” e meno “da interpretare” rispetto al passato.
 
@@ -165,7 +170,7 @@ La tecnologia digitale e le relative piattaforme sono solo strumenti da usare qu
 
 7.6 La transizione al digitale è prima di tutto un percorso culturale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Un percorso culturale da intraprendere da parte degli individui che, a vario titolo, lavorano nelle stanze della PA, e se manca nelle singole persone la consapevolezza dell’importanza e dell’utilità di portare nel digitale tutto il lavoro che oggi si fa sulla carta, non si attuerà mai un cambiamento concreto che possa dare una nuova immagine della PA nei confronti dei cittadini. **Bisognerà lavorare sul fare accettare a tutti i dipendenti e dirigenti il digitale “ridendo”**, nel senso che tutti dovranno essere messi nella condizione di comprendere facilmente che lavorare con nuove metodologie in modalità digitale è utile prima a se stessi nello svolgimento delle proprie funzioni, e allo stesso tempo ai cittadini fruitori dei servizi pubblici. 
+Un percorso culturale da intraprendere da parte dei singoli individui che, a vario titolo, lavorano nelle stanze della PA, e se manca nelle singole persone la consapevolezza dell’importanza e dell’utilità di portare nel digitale tutto il lavoro che oggi si fa sulla carta, non si attuerà mai un cambiamento concreto che possa dare una nuova immagine della PA nei confronti dei cittadini. **Bisognerà lavorare sul fare accettare a tutti i dipendenti e dirigenti il digitale quasi “ridendo”**, nel senso che tutti dovranno essere messi nella condizione di comprendere <<facilmente>> che lavorare con nuove metodologie in modalità digitale è utile prima a se stessi nello svolgimento delle proprie funzioni, e allo stesso tempo ai cittadini fruitori dei servizi pubblici. 
 
 E questo lavoro di tipo culturale non sarà facile da svolgere per la stessa PA, sarà necessario trovare le giuste figure in ogni PA capaci di **animare il percorso culturale di cambiamento**. Le sole norme nuove calate dall'alto alla PA locale non saranno sufficienti ad attuare pienamente un Agenda Digitale pubblica entro il 2020. Servirà tanta formazione, sensibilizzazione, animazione, **lavoro che il Team Trasformazione Digitale dell’AGID ha avviato egregiamente e che va continuato in ogni PA**.
 
