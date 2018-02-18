@@ -1,7 +1,7 @@
 ## Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizidigitali?
-Un report per capire meglio la PA nel suo cammino verso la **transizione al digitale** del Codice dell'Amministrazione Digitale
+Un report per capire un po meglio la PA nel suo cammino verso la **transizione al digitale** del Codice dell'Amministrazione Digitale
 
-Riflessioni e appunti di Ciro Spataro.
+Riflessioni, appunti e input di Ciro Spataro.
 
 ------
 
