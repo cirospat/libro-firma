@@ -2,6 +2,7 @@
 Un report per capire un po meglio la PA nel suo cammino verso la **transizione al digitale** del Codice dell'Amministrazione Digitale
 
 Riflessioni, appunti e input di Ciro Spataro.
+<p><img class="imageLeft" style="width: 53px; height: 60px;" src="https://raw.githubusercontent.com/cirospat/la-samba-digitale-della-pa/master/imgrel/3loghi.png" alt="HTML editor tools" />
 
 ------
 
