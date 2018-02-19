@@ -111,8 +111,8 @@ Altri fattori imprescindibili nel processo di pubblicazione dati sono l'adozione
    :alt: daf
    :align: center
    
-Se vogliamo provare a immaginare pannelli semplici di visualizzazione e narrazione dei dati di più PA, viene in grande aiuto il DAF, Data Analytics Framework, (oggi in versione “αlfa”) appena realizzato (ott_2017) dal Team Trasformazione Digitale dell’AgID (“partendo dai dati, interpretiamo il mondo e aiutiamo la società a prendere decisioni basate sui fatti”) e supportato da una  
-`vasta comunità attiva in Italia <https://forum.italia.it/>`_.
+Se vogliamo provare a immaginare pannelli semplici di visualizzazione e narrazione dei dati di più PA, viene in grande aiuto il `DAF, Data Analytics Framework <https://dataportal.daf.teamdigitale.it/dataset/search>`_, appena realizzato (ottobre_2017) dal Team Trasformazione Digitale dell’AgID (“partendo dai dati, interpretiamo il mondo e aiutiamo la società a prendere decisioni basate sui fatti”) e supportato da una  `vasta comunità attiva in Italia <https://forum.italia.it/>`_.
+
 
 |
 
