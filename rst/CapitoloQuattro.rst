@@ -36,8 +36,7 @@ Se una PA fa ruotare il personale in ottemperanza ai Piani anti corruzione e se 
 
 Questa gerarchia dovrebbe essere applicata a tutti i database di una PA al fine di creare correlazioni automatiche nei vari ambiti di competenza, e di ridurre ridondanze e duplicazioni di dati. Conseguenza: il lavoro degli uffici viene ottimizzato per l’automatico scambio dati e la quotidiana produttività.
 
-**L’ “interoperabilità” è** 
-*«la capacità di organizzazioni diverse di interagire ……. »*
+**«L’“interoperabilità” è la capacità di organizzazioni diverse di interagire in vista di obiettivi comuni concordati e reciprocamente vantaggiosi, ricorrendo alla condivisione di conoscenze e informazioni tramite lo scambio di dati tra i rispettivi sistemi ICT»**
 
 .. figure:: imgrel/interoperabilita2.png
    :alt: interoperabilità2
