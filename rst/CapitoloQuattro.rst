@@ -101,7 +101,7 @@ Altri fattori imprescindibili nel processo di pubblicazione dati sono l'adozione
    :alt: produrre open data
    :align: center
    
-   architettura di un modello per la produzione e pubblicazione dei dati pubblici in formato aperto (slide della presentazione di Gabriele Francescotto di OpenContent per l’Associazione dei Comuni Trentini ad un webinar di ForumPA) https://drive.google.com/file/d/0B9q5qob_W3NiSVlFRTdEMFNwSmJjekR5aUJBYmgwMGFKbW13/view
+   architettura di un modello per la produzione e pubblicazione dei dati pubblici in formato aperto (slide della `presentazione di Gabriele Francescotto <https://drive.google.com/file/d/0B9q5qob_W3NiSVlFRTdEMFNwSmJjekR5aUJBYmgwMGFKbW13/view>`_ di OpenContent per l’Associazione dei Comuni Trentini ad un webinar di ForumPA) 
 
 |
 
@@ -156,13 +156,11 @@ Un esempio banale per capire (e accade spesso): nella stessa PA in un database d
 4.8 L’Ufficio Dati nelle PA
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In ogni PA, almeno di medie e grandi dimensioni, sarebbe ideale avere operativo, (oltre all'eventuale software house per i servizi informatici), un “ufficio Dati” con almeno un `data scientist <https://www.fbk.eu/it/event/la-data-science-come-professione/>`_ /strategist, un data analyst e un micro team di sviluppatori, (una sorta di staff di supporto al `Responsabile della Transizione al Digitale <https://www.spreaker.com/user/lapadigitale/1-chi-e-il-responsabile-per-la-transizio_1>`_), che svolgono le seguenti importanti attività:
+In ogni PA, almeno di medie e grandi dimensioni, sarebbe ideale avere operativo, (oltre all'eventuale software house per i servizi informatici), un “**ufficio Dati**” con almeno un `data scientist <https://www.fbk.eu/it/event/la-data-science-come-professione/>`_ /strategist, un data analyst e un micro team di sviluppatori, (una sorta di staff di supporto al `Responsabile della Transizione al Digitale <https://www.spreaker.com/user/lapadigitale/1-chi-e-il-responsabile-per-la-transizio_1>`_), che svolgono le seguenti importanti attività:
 
 - supervisionano costantemente le performance degli applicativi gestionali, le architetture delle banche dati, apportando continui miglioramenti per assicurare l’interoperabilità con le banche dati di altre grandi PA (es. INPS, Motorizzazione, Istat, Ministeri, ecc.);
 
-- verificano il rispetto degli standard di sicurezza dei software in uso;
-
-- assicurano l’efficacia delle procedure di conservazione documentale;
+- assicurano l’efficacia delle procedure di gestione documentale;
 
 - verificano, attraverso l’adozione di vocabolari controllati, l’univocità delle classi di contenuti dei database, al fine di assicurare quanto più possibile l’interoperabilità di tutte le piattaforme vecchie e nuove in uso nello stesso ente;
 
