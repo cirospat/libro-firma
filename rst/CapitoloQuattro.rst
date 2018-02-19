@@ -42,7 +42,7 @@ Questa gerarchia dovrebbe essere applicata a tutti i database di una PA al fine 
    :alt: interoperabilità2
    :align: center
    
-   l’interoperabilità ne `Il livello di digitalizzazione e di innovazione nelle PA e gli investimenti nel settore ICT <http://www.camera.it/application/xmanager/projects/leg17/attachments/documenti_acquisiti_commissione/documento_pdfs/000/000/008/AL-PwC.pdf>`_  una presentazione della `COMMISSIONE PARLAMENTARE DI INCHIESTA SUL LIVELLO DI DIGITALIZZAZIONE E INNOVAZIONE DELLE PA E SUGLI INVESTIMENTI COMPLESSIVI RIGUARDANTI IL SETTORE ICT <http://www.gazzettaufficiale.it/eli/id/2016/06/20/16A04670/sg>`_
+   l’interoperabilità ne `Il livello di digitalizzazione e di innovazione nelle PA e gli investimenti nel settore ICT <http://www.camera.it/application/xmanager/projects/leg17/attachments/documenti_acquisiti_commissione/documento_pdfs/000/000/008/AL-PwC.pdf>`_  una presentazione della `Commissione Parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle PA e sugli investimenti complessivi riguardanti il settore ICT <http://www.gazzettaufficiale.it/eli/id/2016/06/20/16A04670/sg>`_
 
 |
 **Interoperabilità e adozione di standard ICT per evitare il fenomeno del lock-in tecnologico**
@@ -51,7 +51,7 @@ Questa gerarchia dovrebbe essere applicata a tutti i database di una PA al fine 
    :alt: lockin
    :align: center
    
-   superare il fenomeno del lock-in — una presentazione della COMMISSIONE PARLAMENTARE DI INCHIESTA SUL LIVELLO DI DIGITALIZZAZIONE E INNOVAZIONE DELLE PA E SUGLI INVESTIMENTI COMPLESSIVI RIGUARDANTI IL SETTORE ICT
+   superare il fenomeno del lock-in — una presentazione della Commissione Parlamentare di inchiesta sul livello di digitalizzazione e innovazione delle PA e sugli investimenti complessivi riguardanti il settore ICT
 
 |
 
@@ -70,14 +70,9 @@ I dati sono la principale miniera con la quale lavorano gli uffici pubblici e la
 
    **Pillole curative**:
    
-   **Per i dipendenti e dirigenti pubblici, avere accesso ai dati dei database, non chiederli.**
+   **Per i dipendenti e dirigenti pubblici, è necessario avere accesso ai dati dei database, non chiederli di volta in volta.**
    
-   Il personale di un ufficio, per lavorare, NON DEVE CHIEDERE DATI ad un altro ufficio della stessa PA, ma secondo livelli di gerarchia
-   correlati alle mansioni svolte, questo personale deve ricevere dal proprio Dirigente, adeguate credenziali per poter accedere (ed
-   ovviamente essere tracciato) a tutti i database necessari (anche quelli il cui data entry è svolto da altri uffici), per gestire il
-   processo di competenza, senza più chiedere permesso a nessuno. Ovviamente qualcuno in un ufficio specifico deve essere deputato a
-   verificare periodicamente la correttezza degli accessi effettuati ai database per la coerenza alle mansioni svolte da chi fa
-   l'accesso.
+   Il personale di un ufficio, per lavorare, NON DEVE CHIEDERE DATI periodicamente ad un altro ufficio della stessa PA, ma secondo livelli di gerarchia correlati alle mansioni svolte, questo personale deve ricevere dal proprio Dirigente, adeguate credenziali per poter accedere (ed ovviamente essere tracciato) a tutti i database necessari (anche quelli il cui data entry è svolto da altri uffici), per gestire il processo di competenza, senza più chiedere permesso a nessuno. Ovviamente qualcuno in un ufficio specifico deve essere deputato a verificare periodicamente la correttezza degli accessi effettuati ai database per la coerenza alle mansioni svolte da chi fa l'accesso.
    
 |
 
@@ -92,11 +87,15 @@ Ogni PA, oggi, deve poter disporre di pannelli di controllo nelle piattaforme di
    :alt: condividere dati
    :align: center
    
-   un database collegato a tutti gli altri database (immagine lic. CCO pubblico dominio)
+   un database collegato a tutti gli altri database di una PA (immagine lic. CCO pubblico dominio)
    
 **L’utilità degli open data per le stesse PA, i “dati pubblici” in formato aperto**
 
 I dati in formato aperto (open data) pubblicati negli ultimi anni rappresentano un inizio di politica virtuosa dell’amministrazione pubblica, ma ad oggi rari sono i casi in cui i dati pubblici di un ufficio sono in automatica correlazione/interazione con quelli di un altro ufficio, soprattutto per la mancata omogeneità (univocità) delle voci delle classi di informazioni contenuti nei database, per la mancanza di una esaustiva metadatazione dei dati, e per la mancanza di una **diretta relazione/comunicazione** tra le piattaforme in cui vengono gestiti i vari database degli uffici (interoperabilità).
+
+Nei processi di pubblicazione dei dati di una PA è ormai inevitabile usare Application Programming Interface (API) che provvedono  a pubblicare automaticamente dati direttamente dalle attività di data entry svolte da risorse umane o da sensoristica installata nell'ambiente.
+
+Altri fattori imprescindibili nel processo di pubblicazione dati sono l'adozione di una adeguata metadatazione e soprattutto di vocabolari controllati che stanno cominciando sempre più a diffondersi (vedi approfondimenti nei paragrafi successivi) grazie al lavoro dell'`AgID coordinato da Giorgia Lodi <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/VocabolariControllati>`_ e del team europeo `ISA2 <https://ec.europa.eu/isa2/solutions/core-vocabularies_en>`_ (Interoperability solutions for public administrations, businesses and citizens).
 
 .. figure:: imgrel/produrreopendata.png
    :alt: produrre open data
@@ -148,7 +147,7 @@ Il Registro Europeo dei Metadati ha previsto una classe di `NAL, (Named Authorit
 Al fine di rendere interoperabili i dati tra diversi uffici di diverse PA, fondamentale è il ruolo delle metadatazioni dei database. 
 Un esempio banale per capire (e accade spesso): nella stessa PA in un database di un ufficio troviamo la voce “Via”, in un altro database di un altro ufficio, la voce “V.”, e in un altro database di un ulteriore ufficio troviamo la voce “via”, e tutti indicano la stessa cosa (cioè la via). Scrivere “via” in diverse modalità nei diversi database non permette un ideale interoperabilità dei dati e quindi ne deriva un uso o riuso poco utile sia per la PA nello svolgimento delle proprie attività istituzionali, che per la società nel caso di open data pubblicati.
 
-- Nel caso di pubblicazioni di open data, la metadatazione dei dati che popolano un database tematico va, innanzitutto, adeguata allo standard DCAT_AP_IT definito nelle “Linee Guida nazionali (AgID) per la valorizzazione del Patrimonio Informativo Pubblico”, e fatta rispettare agli uffici/servizi/dipartimenti di ogni singola PA da un ufficio dati preposto (con un responsabile) che coordina e monitorizza tutti quegli uffici che hanno esigenza di rappresentare dati nei propri database.
+- Nel caso di pubblicazioni di open data, la metadatazione dei dati che popolano un database tematico va, innanzitutto, adeguata allo standard `DCAT_AP_IT definito nelle “Linee Guida nazionali (AgID) per la valorizzazione del Patrimonio Informativo Pubblico” <http://linee-guida-cataloghi-dati-profilo-dcat-ap-it.readthedocs.io/it/latest/dcat-ap_it.html>`_, e fatta rispettare agli uffici/servizi/dipartimenti di ogni singola PA da un ufficio dati preposto (con un responsabile) che coordina e monitorizza tutti quegli uffici che hanno esigenza di rappresentare dati nei propri database.
 
 - Nel caso di strutturazione o re-ingegnerizzazione di un applicativo gestionale della PA, le software house, interne o selezionate per specifici appalti, dovrebbero porre la massima attenzione su questi aspetti tecnici nel momento in cui progettano/implementano applicativi gestionali per gli uffici pubblici, assicurando, in questo caso, che tutti gli uffici che hanno esigenza, ad esempio, di rappresentare la voce “via” nei propri database lo facciano in maniera univoca evitando “Via”, “V.” o altre strane abbreviazioni inventate. I cosiddetti “vocabolari controllati” devono essere fatti rispettare in tutti i database degli applicativi gestionali.
 
