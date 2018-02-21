@@ -77,3 +77,6 @@ Note finali
    :maxdepth: 3
 
    CapitoloOtto.rst
+   
+   .. raw:: html
+      :file: diquis.html
