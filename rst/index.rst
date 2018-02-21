@@ -78,5 +78,6 @@ Note finali
 
    CapitoloOtto.rst
    
-   .. raw:: html
+   
+.. raw:: html
       :file: disquis.html
