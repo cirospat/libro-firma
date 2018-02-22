@@ -113,7 +113,9 @@
                             {% block body %}{% endblock %}
                         </div>
                         <div class="articleComments">
-                            {% block comments %}{% endblock %}
+                            {% block comments %}
+                              {% include "comments_disqus.html" %}
+                            {% endblock %}
                         </div>
                     </div>
                     {% include "footer.html" %}
