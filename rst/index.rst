@@ -38,13 +38,15 @@ La comunità di **OpendataSicilia** mi da l'opportunità di fare rete con altri 
 La comunità di **Developers Italia**, mi da la possibilità di accrescere le conoscenze e le competenze nel campo dello sviluppo dei servizi pubblici italiani.
 
 
-
 Febbraio 2018
+
 
 .. sidebar:: tutto questo è accaduto
    :subtitle: dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino, passeggiando per il buio corridoio per più notti, hai la mente più limpida,... perchè il ruttino è liberazione 
    
    [mettetevi comodi, e munitevi di popcorn]
+   
+   
    
 ------------
 
