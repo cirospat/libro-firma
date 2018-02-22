@@ -242,7 +242,7 @@ Una prassi intelligente per attuare l’Agenda Digitale, ma sentiamo l’innovaz
 
 .. raw:: html
    :file: video_cap_5_francescotto.html
-
+   
 
    Trasformazioni digitali per la PA, `webinar con un interessante intervento di Gabriele Francescotto di OpenContent <https://youtu.be/SC7cZ4F5n_8?t=609>`_, Società che cura i servizi digitali per l’Associazione dei Comuni Trentini 
    
