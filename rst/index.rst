@@ -22,13 +22,12 @@ Questo report è un block notes delle ``attività`` sulle quali ogni Pubblica Am
 
 Il report nasce da un periodo di analisi del fenomeno della penetrazione del digitale in alcune PA, e dalle interazioni con altri soggetti che a vario titolo lavorano nella e per la PA.
 
-Perchè ``samba``? La samba è una danza molto ricca di movimenti coordinati e di allegria, immagino la transizione al digitale della PA come un insieme organizzato di attività da gestire, che coinvolgono inevitabilmente tutti i dipendenti e dirigenti pubblici, e se queste attività si svolgono in allegria e nel più gradevole dei modi, ... forse è conveniente! É semplicemente un buon auspicio.
-
-
 .. sidebar:: tutto questo è accaduto
    :subtitle: dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino, passeggiando per il buio corridoio per più notti, hai la mente più limpida,... perchè il ruttino è liberazione 
    
    [mettetevi comodi, e munitevi di popcorn]
+
+Perchè ``samba``? La samba è una danza molto ricca di movimenti coordinati e di allegria, immagino la transizione al digitale della PA come un insieme organizzato di attività da gestire, che coinvolgono inevitabilmente tutti i dipendenti e dirigenti pubblici, e se queste attività si svolgono in allegria e nel più gradevole dei modi, ... forse è conveniente! É semplicemente un buon auspicio.
    
 
 .. figure:: imgrel/3loghi.png
