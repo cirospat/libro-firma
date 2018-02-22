@@ -100,6 +100,8 @@ Questa check list dovrebbe essere verificata (da uno staff competente interno) i
    
    la presentazione del corso sulla qualità e design dei servizi web a cura del Formez
    
+.. raw:: html
+   :file: video_cap_5_formez.html
 
 Il FormezPA è un ente che ha investito tantissimo sulla formazione concernente `“la qualità e design dei servizi web della PA” <http://eventipa.formez.it/node/57591>`_  — ad esempio — con un valido corso online dedicato a dirigenti e funzionari della Pubblica Amministrazione e con giornate informative e webinar sulla `e-leadership <http://eventipa.formez.it/search/site/eleadership>`_.
 
@@ -241,7 +243,10 @@ Una prassi intelligente per attuare l’Agenda Digitale, ma sentiamo l’innovaz
 .. figure:: imgrel/videofrancescotto.PNG
    :alt: video Francescotto
    :align: center
-   
+
+.. raw:: html
+   :file: video_cap_5_francescotto.html
+
    Trasformazioni digitali per la PA, `webinar con un interessante intervento di Gabriele Francescotto di OpenContent <https://youtu.be/SC7cZ4F5n_8?t=609>`_, Società che cura i servizi digitali per l’Associazione dei Comuni Trentini 
    
 |
