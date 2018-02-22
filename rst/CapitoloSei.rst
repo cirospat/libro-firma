@@ -9,7 +9,7 @@ Cap 6 | Costruire software gestionali e piattaforme digitali nella PA
 .. figure:: imgrel/functionpoint.png
    :alt: function point
    
-   fondamentali del function point (fonte dell’immagine: `video <https://www.youtube.com/watch?v=N2-9GC7__P8>`_)
+   fondamentali del function point (fonte dell’immagine: `video <https://www.youtube.com/watch?v=N2-9GC7__P8?t=44>`_)
    
 Il **Function point** è un “metodo di progettazione del software, definito nell'Azienda IBM da Allan Albrecht tra il 1975 ed il 1980”. Gli elementi di conteggio nella metodologia del “function point” sono:
 
