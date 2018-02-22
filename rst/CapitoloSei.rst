@@ -32,10 +32,10 @@ Al fine della creazione del software, questa metodologia riporta il “function 
 6.2 Diego Piacentini (Team Trasformazione Digitale), sul "function point"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: imgrel/piacentini.PNG
-   :alt: piacentini
+.. raw:: html
+   :file: video_cap_6_piacentini.html
    
-   Ascoltiamo, in `un intervista <https://youtu.be/8j9U54m5Shk?t=1727>`_, cosa pensa il Commissario tecnico del `Team Trasformazione Digitale <https://teamdigitale.governo.it/>`_ dell’Agenzia per l’Italia Digitale, `Diego Piacentini <https://teamdigitale.governo.it/it/people/1-profile.htm>`_, del “function point”  nella fase di costruzione dei software gestionali
+Ascoltiamo, in `un intervista al minuto 28:30 <https://youtu.be/8j9U54m5Shk?t=1727>`_, cosa pensa il Commissario tecnico del `Team Trasformazione Digitale <https://teamdigitale.governo.it/>`_ dell’Agenzia per l’Italia Digitale, `Diego Piacentini <https://teamdigitale.governo.it/it/people/1-profile.htm>`_, del “function point”  nella fase di costruzione dei software gestionali
 
 
 .. important:: 
