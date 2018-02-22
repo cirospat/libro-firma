@@ -2,12 +2,6 @@
 Cap. 3 | Per il passaggio al digitale “totale“ senza carta → serve fare l’ “analisi dei processi”
 ==================================================
 
-.. figure:: imgrel/cosa_dici_willis.PNG
-   :alt: cosa dici willis
-   :align: center
-   
-   `cosa stai dicendo Willis? <https://youtu.be/YrhvZ0bDvXk>`_
-   
 .. raw:: html
    :file: video_cap_3.html
 
