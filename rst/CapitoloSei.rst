@@ -6,11 +6,6 @@ Cap 6 | Costruire software gestionali e piattaforme digitali nella PA
 6.1 La metodologia del “function point”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: imgrel/functionpoint.png
-   :alt: function point
-   
-   
-
 .. raw:: html
    :file: video_cap_6_functionpoint.html
 
