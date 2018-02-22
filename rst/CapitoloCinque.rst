@@ -94,11 +94,6 @@ Questa check list dovrebbe essere verificata (da uno staff competente interno) i
 
 5.5 Il FORMEZ forma la PA sulla qualità e design dei servizi web
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. figure:: imgrel/eleadership.PNG
-   :alt: eleadership
-   :align: center
-   
-   la presentazione del corso sulla qualità e design dei servizi web a cura del Formez
    
 .. raw:: html
    :file: video_cap_5_formez.html
