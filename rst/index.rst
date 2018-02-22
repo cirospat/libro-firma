@@ -6,7 +6,7 @@ Samba della transizione al digitale nella Pubblica Amministrazione
 
 ``dati aperti`` ``interoperabilità``   
 
-``design`` ``usabilità`` ``riuso``
+``design`` ``usabilità`` ``riuso`` ``api``
 
 ``processi`` ``open government``
 
