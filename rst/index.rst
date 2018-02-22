@@ -6,11 +6,15 @@ Samba della transizione al digitale nella Pubblica Amministrazione
 
 ``dati aperti`` ``interoperabilità``   
 
-``design`` ``usabilità`` ``riuso`` ``API``
+``design`` ``usabilità`` ``riuso`` 
 
 ``processi`` ``open government`` ``metadati``
 
-``dematerializzazione`` ``C.A.D.``
+``dematerializzazione`` ``API`` 
+
+``Codice Amministrazione Digitale``
+
+``Piano triennale informatica per la PA``
 
 ``informatizzazione`` ``comunicazione``
 
