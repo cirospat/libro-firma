@@ -10,9 +10,11 @@ Samba della transizione al digitale nella Pubblica Amministrazione
 
 ``processi`` ``open government`` ``metadati``
 
-``dematerializzazione`` ``C.A.D.`` ``function point``
+``dematerializzazione`` ``C.A.D.``
 
 ``informatizzazione`` ``comunicazione``
+
+``social network`` ``partecipazione``
 
 Termini con i quali lavorano, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.
 
