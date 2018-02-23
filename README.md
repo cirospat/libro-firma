@@ -12,9 +12,11 @@ L'elenco e i capitoli del report sono [navigabili online](http://samba-digitale-
 
 
 **Requisiti**
+
 [Sphinx](http://www.sphinx-doc.org/en/stable/)
 
 **Build**
+
 Costruito su [`rst/`](./rst)
 
 integrato con
