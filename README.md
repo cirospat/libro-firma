@@ -15,4 +15,4 @@ Per l'integrazione dei commenti tramite il servizio di [**Diquis**](https://disq
 
 **LICENZA:** 
 
-`CC-BY 4.0 (Creative Commons Attribution) <https://creativecommons.org/licenses/by/4.0/>`__.
+[CC-BY 4.0 (Creative Commons Attribution)](https://creativecommons.org/licenses/by/4.0/)
