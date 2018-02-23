@@ -13,6 +13,6 @@ Ho scritto questo report creando un progetto ad hoc su **GitHub**, usando il lin
 
 Per l'integrazione dei commenti tramite il servizio di [**Diquis**](https://disqus.com/) ho riusato il progetto Read The Docs del [comune di Gioia del Colle](http://foia.readthedocs.io/en/latest/) che si trova [in questo repository](https://github.com/gioialab/foia/tree/master/source/_themes/sphinx_italia_theme).
 
-**LICENZA:** 
+**Licenza** 
 
 [CC-BY 4.0 (Creative Commons Attribution)](https://creativecommons.org/licenses/by/4.0/)
