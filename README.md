@@ -12,7 +12,7 @@ Riflessioni, appunti e input di Ciro Spataro.
 - [Sphinx](http://www.sphinx-doc.org/en/stable/)
 
 ### Build
-Dopo aver apportato le dovute modifiche in [`src/`](./src) esegui
+Dopo aver apportato le dovute modifiche in [`rst/`](./rst) esegui
 
 ```
 sphinx-build -b html src docs
