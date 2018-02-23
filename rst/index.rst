@@ -30,7 +30,8 @@ Il report nasce da un periodo di analisi del fenomeno della penetrazione del dig
 
 .. figure:: imgrel/256px-Samba_in_cold_rain.jpg
    :alt: samba
-   immagine by Jonik lic. CC BY SA
+   
+   (photo by Jonik, lic. CC BY SA)
 
 .. sidebar:: questo report è stato scritto
    :subtitle: dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino, passeggiando per il buio corridoio per più notti, hai la mente più limpida,... perchè il ruttino è liberazione 
