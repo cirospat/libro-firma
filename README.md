@@ -12,14 +12,13 @@ L'elenco e i capitoli del report sono [navigabili online](http://samba-digitale-
 
 
 ### Requisiti
-
-- [Sphinx](http://www.sphinx-doc.org/en/stable/)
+[Sphinx](http://www.sphinx-doc.org/en/stable/)
 
 ### Build
-Dopo aver apportato le dovute modifiche in [`rst/`](./rst) esegui
+Costruito su [`rst/`](./rst)
 
 ```
-sphinx-build -b html src docs
+sphinx-build -b html rst 
 ```
 
 oppure
