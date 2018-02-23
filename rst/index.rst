@@ -28,6 +28,9 @@ Questo report è un block notes delle ``attività`` sulle quali ogni Pubblica Am
 
 Il report nasce da un periodo di analisi del fenomeno della penetrazione del digitale in alcune PA, e dalle interazioni con altri soggetti che a vario titolo lavorano nella e per la PA.
 
+.. figure:: imgrel/256px-Samba_in_cold_rain.jpg
+   :alt: samba
+
 .. sidebar:: questo report è stato scritto
    :subtitle: dopo aver fatto fare il ruttino alla piccola di 3 mesi, alle 3 del mattino, passeggiando per il buio corridoio per più notti, hai la mente più limpida,... perchè il ruttino è liberazione 
    
