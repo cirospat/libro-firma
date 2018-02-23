@@ -21,10 +21,10 @@ Costruito su [`rst/`](./rst)
 sphinx-build -b html rst 
 ```
 
-oppure
+integrato con
 
 ```
-make html
+html
 ```
 
 **Riuso**
