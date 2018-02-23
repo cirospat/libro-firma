@@ -75,4 +75,4 @@ Sento il bisogno e desiderio di ringraziare in particolare alcune persone che ha
 
    **Grazie di cuore se siete arrivati fin qui**, siete molto coraggiosi/e e spero che i popcorn vi siano bastati  :-)
    
-   [...la piccola ora ha 7 mesi, sono passati 4 mesi da quando ho iniziato a scrivere nel tempo libero (le notti) questo report]
+   [...la piccola ora ha 8 mesi, sono passati 5 mesi da quando ho iniziato a scrivere nel tempo libero (**le notti**) questo report]
