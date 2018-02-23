@@ -98,10 +98,26 @@
 
             {# MOBILE NAV, TRIGGLES SIDE NAV ON TOGGLE #}
             <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
-                {% block mobile_nav %}
-                <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-                <a href="{{ pathto(master_doc) }}">{{ project }}</a> {% endblock %}
+				    {% block mobile_nav %}
+                <div class="logo">
+                  <a href="https://docs.developers.italia.it">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 160 160">
+                    <g fill="none" fill-rule="evenodd">
+                      <path d="M0 0h160v160H0z"/>
+                      <path fill="#fff" d="M58.28 131.956V49.918h21.5v82.184h-21.5v-.146zm84.435-63.353h-19.65v33.72c0 3.358.143 5.547.285 7.007.143 1.314.712 2.482 1.71 3.504.996 1.02 2.562 1.46 4.698 1.46l12.245-.293.997 17.52c-7.12 1.606-12.673 2.48-16.375 2.48-9.682 0-16.232-2.19-19.65-6.713-3.56-4.38-5.267-12.554-5.267-24.524V27h21.5v22.772h19.65v18.83h-.143zM25.957 74.88c-3.702 0-6.834-1.314-9.255-3.94C14.282 68.31 13 65.1 13 61.303c0-3.795 1.28-7.007 3.56-9.634 2.42-2.63 5.553-3.798 9.255-3.798 3.702 0 6.835 1.314 9.255 3.942 2.42 2.627 3.56 5.84 3.56 9.78 0 3.942-1.14 7.007-3.56 9.635-2.278 2.335-5.268 3.65-9.113 3.65z"/>
+                    </g>
+                  </svg>
+                  </a>
+                </div>
+                <div class="title">
+                  <a href="{{ pathto(master_doc) }}">{{ project }}</a>
+                </div>
+                <div class="burger" data-toggle="wy-nav-top">
+                  <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAzMiAzMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00LDhoMjRjMS4xLDAsMi0wLjksMi0ycy0wLjktMi0yLTJINEMyLjksNCwyLDQuOSwyLDZTMi45LDgsNCw4eiIvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTI4LDE0SDRjLTEuMSwwLTIsMC45LTIsMnMwLjksMiwyLDJoMjRjMS4xLDAsMi0wLjksMi0yUzI5LjEsMTQsMjgsMTR6Ii8+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjgsMjRINGMtMS4xLDAtMiwwLjktMiwyczAuOSwyLDIsMmgyNGMxLjEsMCwyLTAuOSwyLTJTMjkuMSwyNCwyOCwyNHoiLz4NCjwvc3ZnPg==">
+                </div>
+            {% endblock %}
             </nav>
+            <div class="nav-overlay" data-toggle="wy-nav-top"></div>
 
 
             {# PAGE CONTENT #}
