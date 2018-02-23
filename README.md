@@ -7,6 +7,23 @@ Riflessioni, appunti e input di Ciro Spataro.
 ------
 
 
+### Requisiti
+
+- [Sphinx](http://www.sphinx-doc.org/en/stable/)
+
+### Build
+Dopo aver apportato le dovute modifiche in [`src/`](./src) esegui
+
+```
+sphinx-build -b html src docs
+```
+
+oppure
+
+```
+make html
+```
+
 **Riuso**
 
 Ho scritto questo report creando un progetto ad hoc su **GitHub**, usando il linguaggio **Markdown** per la visualizzazione del testo su «**Read The Docs**». Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della [«Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane»](https://relazione-commissione-digitale.readthedocs.io/it/latest/). Vedi progetto su [Github](https://github.com/italia/relazionecommissionedigitale-docs).
