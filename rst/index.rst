@@ -36,7 +36,7 @@ Il report nasce da un periodo di analisi del fenomeno della penetrazione del dig
 .. figure:: imgrel/256px-Samba_in_cold_rain.jpg
    :alt: samba
    
-   (photo by Jonik, lic. CC BY SA)
+   (`photo by Jonik, lic. CC BY SA <https://commons.wikimedia.org/wiki/File:Samba_in_cold_rain.jpg>`_)
 
 Perchè ``samba``? La samba è una danza molto ricca di movimenti coordinati e di allegria, immagino la transizione al digitale della PA come un insieme organizzato di attività da gestire, che coinvolgono inevitabilmente tutti i dipendenti e dirigenti pubblici, e se queste attività si svolgono in allegria e nel più gradevole dei modi, ... forse è conveniente! É semplicemente un buon auspicio.
    
