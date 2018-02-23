@@ -18,7 +18,7 @@ Samba della transizione al digitale nella Pubblica Amministrazione
 
 ``informatizzazione`` ``comunicazione``
 
-``social network`` ``partecipazione``
+``PA & social network`` ``partecipazione``
 
 Termini con i quali lavorano, a vario titolo, i soggetti dentro (o per) la Pubblica Amministrazione.
 
