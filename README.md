@@ -11,15 +11,11 @@ L'elenco e i capitoli del report sono [navigabili online](http://samba-digitale-
 ------
 
 
-### Requisiti
+**Requisiti**
 [Sphinx](http://www.sphinx-doc.org/en/stable/)
 
-### Build
+**Build**
 Costruito su [`rst/`](./rst)
-
-```
-sphinx-build -b html rst 
-```
 
 integrato con
 
