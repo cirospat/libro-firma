@@ -19,7 +19,7 @@ L'elenco e i capitoli del report sono [navigabili online](http://samba-digitale-
 
 Costruito su [`rst/`](./rst)
 
-integrato con
+integrato con  `html`
 
 ```
 html
