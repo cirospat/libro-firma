@@ -42,3 +42,9 @@ Per l'integrazione dei commenti tramite il servizio di [**Diquis**](https://disq
 <p><a href="http://accussi.opendatasicilia.it/index.html" target="_blank" rel="noopener"> <img src="https://cirospat.github.io/maps/img/accussi_favicon.png" alt="accussi" caption="false" width="32" height="32" /></a>&nbsp; &nbsp;&nbsp;<a href="http://nonportale.opendatasicilia.it/index.html" target="_blank" rel="noopener"><img src="https://cirospat.github.io/maps/img/nonportale_favicon.png" alt="non portale" caption="false" width="32" height="32" /></a>&nbsp; <a href="http://petrusino.opendatasicilia.it/index.html" target="_blank" rel="noopener"><img src="https://cirospat.github.io/maps/img/petrusino_favicon.png" alt="petrusino" caption="false" width="32" height="32" /></a>&nbsp; &nbsp;<a href="http://albopop.it/" target="_blank" rel="noopener">Albo Pop&nbsp;</a>/&nbsp;<a href="http://www.foiapop.it/" target="_blank" rel="noopener">FOIA Pop&nbsp;</a>/&nbsp;<a href="http://www.visualcad.it/" target="_blank" rel="noopener">Visual CAD</a></p>
 <p>Licenza&nbsp;<a rel="license noopener" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Licenza Creative Commons" style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a></p>
 
+OpenDataSicilia e' una iniziativa civica che si propone di far conoscere e diffondere la cultura dell'open government e le prassi dell'open data nel nostro territorio e aprire una discussione pubblica partecipata. Siamo anche su:
+
+- il nostro blog http://opendatasicilia.it;
+- il nostro gruppo facebook https://www.facebook.com/groups/opendatasicilia/;
+- l'account twitter http://twitter.com/opendatasicilia;
+- il canale Slack http://opendatasicilia.slack.com (http://slack.opendatasicilia.it per iscriversi);
