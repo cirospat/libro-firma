@@ -1,18 +1,21 @@
 ## Facciamo una samba con #processi della #PA, #dati, #cittadini #design e #servizidigitali?
-Un report per capire un po meglio la PA nel suo cammino verso la **transizione al digitale** del Codice dell'Amministrazione Digitale
 
+**Cosa è**
+E' un report per capire un po meglio la PA nel suo cammino verso la **transizione al digitale** del Codice dell'Amministrazione Digitale.
 Riflessioni, appunti e input di Ciro Spataro.
 <p><img class="imageLeft" style="width: 53px; height: 60px;" src="https://raw.githubusercontent.com/cirospat/la-samba-digitale-della-pa/master/imgrel/3loghi.png" alt="HTML editor tools" />
   
-**Report navigabile online**
-
-L'elenco e i capitoli del report sono [navigabili online](http://samba-digitale-pa.readthedocs.io)
+**Report navigabile online** L'elenco e i capitoli del report sono [navigabili online](http://samba-digitale-pa.readthedocs.io)
 
 ------
+
+### Parte tecnica
+
 
 **Requisiti**
 
 [Sphinx](http://www.sphinx-doc.org/en/stable/)
+
 
 **Build**
 
@@ -31,7 +34,6 @@ Per l'integrazione dei commenti tramite il servizio di [**Diquis**](https://disq
 **Licenza** 
 
 [CC-BY 4.0 (Creative Commons Attribution)](https://creativecommons.org/licenses/by/4.0/)
-
 
 ------
 
