@@ -31,3 +31,9 @@ Per l'integrazione dei commenti tramite il servizio di [**Diquis**](https://disq
 **Licenza** 
 
 [CC-BY 4.0 (Creative Commons Attribution)](https://creativecommons.org/licenses/by/4.0/)
+
+
+------
+
+.. raw:: html
+   :file: ods.html
