@@ -25,8 +25,7 @@
 .. rubric:: Note
 
 .. [1]
-   Hila Mehr, *Artificial Intelligence for Citizen Services and
-   Government*, HARVARD Kennedy School - ASH Center for Democratic
+   Hila Mehr, *Artificial Intelligence for Citizen Services and Government*, HARVARD Kennedy School - ASH Center for Democratic
    Governance and Innovation (2017)
 
 .. [2]
