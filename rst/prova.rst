@@ -33,3 +33,28 @@
    *The role of design in collaborative AI*, Medium, 4,11, 2017
    `https://medium.com/@newcortex.ai/the-role-of-design-in-collaborative-ai-ca18c1e69d0b <https://medium.com/@newcortex.ai/the-role-of-design-in-collaborative-ai-ca18c1e69d0b>`__
    (consultato a febbraio 2017).
+
+
+------
+
+
+.. code-block:: bash
+
+  > cd ./daf-recipes/ckan
+  > ./build_local.sh
+
+Then edit the file *ckan.ini*:
+
+- If you are using our openLDAP server:
+
+   .. code-block:: bash
+
+      # LDAP Intergration with ldap and ip address
+      ckanext.ldap.uri = ldap://LDAP_IP:389
+      ckanext.ldap.auth.dn = cn=admin,dc=daf,dc=test,dc=it
+      ckanext.ldap.auth.password = admin
+      ckanext.ldap.base_dn = cn=users,cn=accounts,dc=daf,dc=test,dc=it
+      ckanext.ldap.search.filter = uid={login}
+      ckanext.ldap.username = uid
+      ckanext.ldap.email = mail
+      ckanext.ldap.ckan_fallback = True
