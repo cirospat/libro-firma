@@ -48,7 +48,7 @@ Then edit the file *ckan.ini*:
 
    .. code-block:: bash
 
-      # LDAP Intergration with ldap and ip address
+      LDAP Intergration with ldap and ip address
       ckanext.ldap.uri = ldap://LDAP_IP:389
       ckanext.ldap.auth.dn = cn=admin,dc=daf,dc=test,dc=it
       ckanext.ldap.auth.password = admin
