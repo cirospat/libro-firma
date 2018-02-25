@@ -6,7 +6,7 @@
 | il movvv bbbbbbbbb bbbb bbb bbbbb bbbb bbbb bbb b b bbbbb b b bbbb b  |
 | a nuove modalità di relazione e confronto con il mercato, in linea    |
 | con le grandi sfide poste da una Pubblica amministrazione             |
-| moderna [5]_. Il programma affronta temi di notevole impatto sociale  |
+| moderna [1]_. Il programma affronta temi di notevole impatto sociale  |
 | e innovazione pubblica: dall’autismo alla protezione dai rischi       |
 | ambientali, alla sicurezza e la qualità degli alimenti fino a         |
 | soluzioni tecnologiche innovative applicate all’assistenza sanitaria  |
@@ -19,5 +19,17 @@
 | strumenti innovativi legati all’IA. Un esempio in tal senso è         |
 | l’appalto “Tecnologie per l’autismo” volto ad individuare tecnologie  |
 | di Realtà Virtuale e Realtà Aumentata tipizzate per persone con una   |
-| condizione dello spettro autistico (ASC) [6]_.                        |
+| condizione dello spettro autistico (ASC) [2]_.                        |
 +-----------------------------------------------------------------------+
+
+.. rubric:: Note
+
+.. [1]
+   Hila Mehr, *Artificial Intelligence for Citizen Services and
+   Government*, HARVARD Kennedy School - ASH Center for Democratic
+   Governance and Innovation (2017)
+
+.. [2]
+   *The role of design in collaborative AI*, Medium, 4,11, 2017
+   `https://medium.com/@newcortex.ai/the-role-of-design-in-collaborative-ai-ca18c1e69d0b <https://medium.com/@newcortex.ai/the-role-of-design-in-collaborative-ai-ca18c1e69d0b>`__
+   (consultato a febbraio 2017).
