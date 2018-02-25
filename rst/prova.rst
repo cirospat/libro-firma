@@ -3,7 +3,7 @@
 +-----------------------------------------------------------------------+
 | Box                                                                   |
 |                                                                       |
-| il movvv bbbbbbbbb bbbb bbb bbbbb bbbb bbbb bbb b b bbbbb b b bbbb bb  |
+| il movvv bbbbbbbbb bbbb bbb bbbbb bbbb bbbb bbb b b bbbbb b b bbbb b  |
 | a nuove modalità di relazione e confronto con il mercato, in linea    |
 | con le grandi sfide poste da una Pubblica amministrazione             |
 | moderna [5]_. Il programma affronta temi di notevole impatto sociale  |
