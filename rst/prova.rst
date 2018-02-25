@@ -3,8 +3,7 @@
 +-----------------------------------------------------------------------+
 | Box                                                                   |
 |                                                                       |
-| L’**appalto pre-commerciale (PCP)** è una formula innovativa di       |
-| acquisto sui temi di Ricerca e Sviluppo, che abilita il *procurement* |
+| il movvv bbbbbbbbb bbbb bbb bbbbb bbbb bbbb bbb b b bbbbb b b bbbb bb  |
 | a nuove modalità di relazione e confronto con il mercato, in linea    |
 | con le grandi sfide poste da una Pubblica amministrazione             |
 | moderna [5]_. Il programma affronta temi di notevole impatto sociale  |
