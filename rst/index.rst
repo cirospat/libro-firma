@@ -29,6 +29,7 @@ Febbraio 2018
    :maxdepth: 3
    :caption: Indice dei contenuti
    
+   premessa.rst
    faseA.rst
    faseB.rst
    faseC.rst
