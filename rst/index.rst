@@ -5,7 +5,7 @@ Manuale d'uso dell'applicativo Libro Firma in uso al Comune di Palermo
 .. figure:: imgrel/legalcertbook.jpg
    :alt: librofirma
    
-   (`photo by <https://www.io>`_)
+   (`foto a cura di Infocert <https://www.firma.infocert.it/>`_)
    
 ``dematerializzazione`` ``Codice Amministrazione Digitale``
 
@@ -26,7 +26,6 @@ Febbraio 2018
    
 ------------
 
-
 .. toctree::
    :maxdepth: 3
    :caption: Indice dei contenuti
@@ -35,5 +34,4 @@ Febbraio 2018
    faseB.rst
    faseC.rst
    faseD.rst
-   
    
