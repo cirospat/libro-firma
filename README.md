@@ -1,5 +1,5 @@
 ## Tutorial dell'applicativo "Libro Firma-Protocollo" in adozione al Comune di Palermo
-Il presente Documento vuole essere una breve guida per l’utente nella prima fase della complessa operazione di “passaggio al digitale” del Comune di Palermo, illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico mediante l’applicativo LIBRO FIRMA-PROTOCOLLO.
+Il presente Documento vuole essere una breve guida per l’utente nella prima fase della complessa operazione di “passaggio al digitale” del Comune di Palermo, illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico mediante l’applicativo **LIBRO FIRMA-PROTOCOLLO**.
 
 A cura di Sergio Schimicci, Servizio Innovazione, UO Transizione al digitale
 
