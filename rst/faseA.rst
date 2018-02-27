@@ -4,36 +4,42 @@
 
 
 →	Il primo passaggio prevede il collegamento al Protocollo Informatico, accessibile dalla Intracom 
+
 .. figure:: imgrel/1.PNG
    :alt: 
 
 
 
 →	Dopo il clic si presenterà la seguente schermata
+
 .. figure:: imgrel/2.PNG
    :alt: 
 
 
 
 → Dopo aver cliccato su “entra” sarà necessario digitare le proprie credenziali, che saranno le medesime dell’accesso a Intracom (utilizzate ad esempio per consultare il cedolino)
+
 .. figure:: imgrel/3.PNG
    :alt:
 
 
 
 → Dopo aver inserito i dati corretti ed aver cliccato su “entra” si presenterà la seguente schermata.
+
 .. figure:: imgrel/4.PNG
    :alt:
 
 
 
 → L’operatore richiedente dovrà cliccare su “Menu” per aprire i “Sottomenu” e, trovato Libro Firma potrà cliccare su “Richiesta”
+
 .. figure:: imgrel/5.PNG
    :alt: 
 
 
 
 → La schermata che verrà proposta sarà la seguente:
+
 .. figure:: imgrel/6.PNG
    :alt:
 
@@ -52,24 +58,28 @@ Nel campo Notifica e-mail andrà effettuata la scelta “si” onde consentire a
 
 
 → A questo punto si potrà cliccare su “inserisci” per inserire la richiesta 
+
 .. figure:: imgrel/8.PNG
    :alt: 
 
 
 
 → Potranno eventualmente essere caricati gli allegati alla nota, sempre in formato pdf, cliccando su “Allegati”
+
 .. figure:: imgrel/9.PNG
    :alt:
 
 
 
 → Dopo aver dato un titolo all’allegato, scelta la tipologia, e selezionato il file dal pc da allegare, basterà cliccare sul pulsante “inserisci” e poi eventualmente su “nuovo” per procedere all’inserimento di un altro allegato. Al termine bisognerà nuovamente cliccare su “richieste” per tornare alla schermata precedente.
+
 .. figure:: imgrel/10.PNG
    :alt:
 
 
 
 → Fatto ciò si dovrà inoltrare il documento alla “pre-protocollazione cliccando il tasto “inoltra”
+
 .. figure:: imgrel/11.PNG
    :alt:
 
