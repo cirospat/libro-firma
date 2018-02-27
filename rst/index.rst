@@ -7,7 +7,6 @@ Manuale d'uso dell'applicativo Libro Firma in uso al Comune di Palermo
    
    (`photo by <https://www.io>`_)
    
-   
 ``dematerializzazione`` ``Codice Amministrazione Digitale``
 
 ------
@@ -18,9 +17,9 @@ Ha lo scopo di ............
 
       
 .. note::
-    a cura di Sergio Schimicci (s.schimicci@comune.palermo.it) 
+    Manuale d'uso a cura di Sergio Schimicci (s.schimicci@comune.palermo.it) 
     
-    Read the Docs a cura di Sergio Schimicci e Ciro Spataro, Servizio Innovazione del Comune di Palermo
+    Read the Docs a cura di Sergio Schimicci e Ciro Spataro (c.spataro@comune.palermo.it), del Servizio Innovazione del Comune di Palermo
    
 
 Febbraio 2018 
