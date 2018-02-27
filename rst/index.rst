@@ -12,7 +12,7 @@ Questo documento è il  manuale dell'applicativo gestionale Libro Firma.
 
 Ha lo scopo di ............
 
-.. figure:: imgrel/256px-Samba_in_cold_rain.jpg
+.. figure:: imgrel/legalcertbook.jpg
    :alt: samba
    
    (`photo by Jonik, lic. CC BY SA <https://commons.wikimedia.org/wiki/File:Samba_in_cold_rain.jpg>`_)
