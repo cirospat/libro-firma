@@ -19,10 +19,5 @@ xxxxxxxx
 
 4.1 xxxxxxxxxx
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: imgrel/dita.png
-   :alt: dita
-   :align: center
-   
-
+xxxxxxxxx
 xxxxxxxxxxxx
