@@ -6,7 +6,8 @@ Manuale d'uso dell'applicativo 'Libro Firma' digitale in uso al Comune di Palerm
    
    (`foto a cura di Infocert <https://www.firma.infocert.it/>`_)
    
-``dematerializzazione`` ``Codice Amministrazione Digitale``
+``dematerializzazione`` 
+``Codice Amministrazione Digitale``
 
 ------
 
