@@ -3,11 +3,11 @@ Fase A | xxxxxxxx
 =============================================================================
 
 
-	Il primo passaggio prevede il collegamento al Protocollo Informatico, accessibile dalla Intracom 
- 
++	Il primo passaggio prevede il collegamento al Protocollo Informatico, accessibile dalla Intracom 
+1 
 
 	Dopo il clic si presenterà la seguente schermata
- 
+2 
 
 	Dopo aver cliccato su “entra” sarà necessario digitare le proprie credenziali, che saranno le medesime dell’accesso a Intracom (utilizzate ad esempio per consultare il cedolino)
  
