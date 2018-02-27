@@ -1,10 +1,10 @@
 *****
 Manuale d'uso dell'applicativo 'Libro Firma' digitale in uso al Comune di Palermo
 *****
-.. figure:: imgrel/legalcertbook.jpg
+.. figure:: imgrel/comune.png
    :alt: librofirma
    
-   (`foto a cura di Infocert <https://www.firma.infocert.it/>`_)
+   (`Comune di Palermo <https://www.comune.palermo.it/>`_)
    
 ``dematerializzazione``
 
