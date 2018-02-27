@@ -1,4 +1,4 @@
-## Tutorial per l'uso dell'applicativo libro firma
+## Tutorial per l'uso dell'applicativo libro firma in uso al Comune di Palermo
 
 **Cosa è**
 
@@ -24,7 +24,7 @@ Costruito su [`rst/`](./rst)
 
 **Riuso**
 
-Ho scritto questo report creando un progetto ad hoc su **GitHub**, usando il linguaggio **Markdown** per la visualizzazione del testo su «**Read The Docs**». Ho riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della [«Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane»](https://relazione-commissione-digitale.readthedocs.io/it/latest/). Vedi progetto su [Github](https://github.com/italia/relazionecommissionedigitale-docs).
+Questo progetto ha usato **GitHub**, usando il linguaggio **Markdown** per la visualizzazione del testo su «**Read The Docs**». E' stato  riusato il codice inizialmente utilizzato dal Team Trasformazione Digitale per la pubblicazione della [«Relazione della Commissione Parlamentare di Inchiesta sul livello di digitalizzazione delle pubbliche amministrazioni italiane»](https://relazione-commissione-digitale.readthedocs.io/it/latest/). Vedi progetto su [Github](https://github.com/italia/relazionecommissionedigitale-docs).
 
 
 **Licenza** 
