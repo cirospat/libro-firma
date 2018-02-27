@@ -1,5 +1,5 @@
 *****
-Manuale d'uso dell'applicativo 'Libro Firma' digitale in uso al Comune di Palermo
+Manuale d'uso dell'applicativo 'Libro Firma-Protocollo' digitale in uso al Comune di Palermo
 *****
 .. figure:: imgrel/comune.png
    :alt: librofirma
