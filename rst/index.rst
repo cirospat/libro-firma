@@ -8,9 +8,7 @@ Manuale d'uso dell'applicativo Libro Firma in uso al Comune di Palermo
    (`photo by <https://www.io>`_)
    
    
-``dematerializzazione`` 
-
-``Codice Amministrazione Digitale``
+``dematerializzazione`` ``Codice Amministrazione Digitale``
 
 ------
 
@@ -26,7 +24,6 @@ Ha lo scopo di ............
    
 
 Febbraio 2018 
-   
    
 ------------
 
