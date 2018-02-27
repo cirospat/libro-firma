@@ -4,7 +4,7 @@ Manuale d'uso dell'applicativo 'Libro Firma' digitale in uso al Comune di Palerm
 .. figure:: imgrel/comune.png
    :alt: librofirma
    
-   (`Comune di Palermo <https://www.comune.palermo.it/>`_)
+   `Comune di Palermo <https://www.comune.palermo.it/>`_
    
 ``dematerializzazione``
 
