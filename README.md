@@ -6,7 +6,7 @@ A cura di Sergio Schimicci, Servizio Innovazione, UO Transizione al digitale
 **Cosa è**
 
 
-<p><img class="imageLeft" style="width: 53px; height: 60px;" src="https://raw.githubusercontent.com/cirospat/libro-firma/master/rst/imgrel/legalcertbook.jpg" alt="HTML editor tools" />
+<p><img class="imageLeft" style="width: 53px; height: 60px;" src="https://raw.githubusercontent.com/cirospat/libro-firma/master/rst/imgrel/comune.png" alt="HTML editor tools" />
   
 **Manuale [navigabile online](http://libro-firma.readthedocs.io)**
 
