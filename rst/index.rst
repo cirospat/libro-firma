@@ -10,9 +10,9 @@ Manuale d'uso dell'applicativo 'Libro Firma' in uso al Comune di Palermo
 
 ------
 
-Questo documento è il  manuale dell'applicativo gestionale **Libro Firma**. 
+Questo documento è il  manuale d'uso dell'applicativo gestionale **Libro Firma**. 
 
-Ha lo scopo di ............
+Ha lo scopo di spiegare dettagliatamente le operazioni da compiere per utilizzare l'applicativo Libro Firma.
 
       
 .. note::
