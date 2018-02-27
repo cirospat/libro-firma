@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = u"Manuale d'uso del Libro Firma"
+settings_project_name = u"Manuale d'uso del Libro Firma digitale"
 settings_copyright_year = '2018'
 settings_copyright_name = ''
 settings_doc_version = 'version: latest'
