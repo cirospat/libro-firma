@@ -3,9 +3,9 @@
 **Cosa è**
 
 
-<p><img class="imageLeft" style="width: 53px; height: 60px;" src="https://raw.githubusercontent.com/cirospat/la-samba-digitale-della-pa/master/imgrel/3loghi.png" alt="HTML editor tools" />
+<p><img class="imageLeft" style="width: 53px; height: 60px;" src="https://raw.githubusercontent.com/cirospat/libro-firma/master/rst/imgrel/legalcertbook.jpg" alt="HTML editor tools" />
   
-**Report navigabile online** L'elenco e i capitoli del report sono [navigabili online]
+**Manuale [navigabile online](http://libro-firma.readthedocs.io)**
 
 ------
 
