@@ -12,11 +12,8 @@ Manuale d'uso dell'applicativo 'Libro Firma' digitale in uso al Comune di Palerm
 
 ------
 
-Questo documento è il  manuale d'uso dell'applicativo gestionale **Libro Firma**. 
+Il presente Documento vuole essere una breve guida per l’utente nella prima fase della complessa operazione di “passaggio al digitale” del Comune di Palermo, illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico mediante l’applicativo **LIBRO FIRMA-PROTOCOLLO**.
 
-Ha lo scopo di spiegare dettagliatamente le operazioni da compiere per utilizzare l'applicativo Libro Firma.
-
-      
 .. note::
     Manuale d'uso a cura di Sergio Schimicci (s.schimicci@comune.palermo.it) 
     
