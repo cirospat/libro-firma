@@ -4,7 +4,9 @@
 
 
 +	Il primo passaggio prevede il collegamento al Protocollo Informatico, accessibile dalla Intracom 
-1 
+.. figure:: imgrel/1.PNG
+   :alt: 
+
 
 +	Dopo il clic si presenterà la seguente schermata
 2 
