@@ -2,26 +2,28 @@
 Manuale d'uso dell'applicativo Libro Firma in uso al Comune di Palermo
 *****
 
+.. figure:: imgrel/legalcertbook.jpg
+   :alt: librofirma
+   
+   (`photo by <https://www.io>`_)
+   
+   
 ``dematerializzazione`` 
 
 ``Codice Amministrazione Digitale``
 
 ------
 
-Questo documento è il  manuale dell'applicativo gestionale Libro Firma. 
+Questo documento è il  manuale dell'applicativo gestionale **Libro Firma**. 
 
 Ha lo scopo di ............
 
-.. figure:: imgrel/legalcertbook.jpg
-   :alt: samba
-   
-   (`photo by Jonik, lic. CC BY SA <https://commons.wikimedia.org/wiki/File:Samba_in_cold_rain.jpg>`_)
-
       
 .. note::
-    a cura di Sergio Schimicci. Read the Docs a cura di Sergio Schimicci e Ciro Spataro
+    a cura di Sergio Schimicci (s.schimicci@comune.palermo.it) 
+    
+    Read the Docs a cura di Sergio Schimicci e Ciro Spataro, Servizio Innovazione del Comune di Palermo
    
-
 
 Febbraio 2018 
    
