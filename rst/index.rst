@@ -1,7 +1,6 @@
 *****
-Manuale d'uso dell'applicativo Libro Firma in uso al Comune di Palermo
+Manuale d'uso dell'applicativo 'Libro Firma' in uso al Comune di Palermo
 *****
-
 .. figure:: imgrel/legalcertbook.jpg
    :alt: librofirma
    
