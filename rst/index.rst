@@ -19,7 +19,7 @@ Il presente Documento vuole essere una breve guida per l’utente nella prima fa
     Read the Docs a cura di Sergio Schimicci e Ciro Spataro (c.spataro@comune.palermo.it). Servizio Innovazione, Comune di Palermo.
    
 
-Rilascio: febbraio 2018 
+Rilascio: marzo 2018 
    
 ------------
 
