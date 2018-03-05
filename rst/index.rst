@@ -16,8 +16,7 @@ Il presente Documento vuole essere una breve guida per l’utente nella prima fa
 .. note::
     Manuale d'uso a cura di Sergio Schimicci (s.schimicci@comune.palermo.it). 
     
-    Read the Docs a cura di Sergio Schimicci e Ciro Spataro (c.spataro@comune.palermo.it). 
-    | Servizio Innovazione, Comune di Palermo.
+    Read the Docs a cura di Sergio Schimicci e Ciro Spataro (c.spataro@comune.palermo.it). Servizio Innovazione, Comune di Palermo.
    
 
 Rilascio: febbraio 2018 
