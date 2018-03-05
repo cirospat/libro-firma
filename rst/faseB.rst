@@ -1,8 +1,8 @@
 ==================================================
-Fase B | xxxxxxxxxx
+Fase B | PRE-PROTOCOLLAZIONE
 ==================================================
 
-FASE B – PRE-PROTOCOLLAZIONE
+
 
 	Il primo passaggio prevede il collegamento al Protocollo Informatico, accessibile dalla Intracom 
  
