@@ -1,5 +1,5 @@
 ======================================================
-Fase D | FIRMA DIGITALE
+Fase D. FIRMA DIGITALE
 ======================================================
 
 →	Il primo passaggio prevede il collegamento al Libro Firma, accessibile dalla Intracom.
