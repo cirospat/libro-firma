@@ -1,5 +1,5 @@
 ==================================================
-Fase C |  PREDISPOSIZIONE ALLA FIRMA
+Fase C. PREDISPOSIZIONE ALLA FIRMA
 ==================================================
 
 →	Il primo passaggio prevede il collegamento al Libro Firma, accessibile dalla Intracom 
