@@ -46,11 +46,20 @@ Fase A. RICHIESTA
 ↓
 
 → Nel campo U.O. andrà inserito il nome, anche sintetico della U.O. per consentire a chi protocollerà il documento di individuare più facilmente da quale U.O. proviene. E’ fondamentale utilizzare sempre lo stesso nome per consentire le ricerche future.
+
 Nel campo Titolo andrà inserita una breve descrizione dell’atto, ad es. una parola dell’oggetto.
+
 Nel campo Descrizione andrà riportato l’oggetto del documento, che si potrà evitare di digitare se lo si incollerà dopo averlo copiato dal documento in pdf che si deve trasmettere.
+
 Nel campo Tipo allegato andrà scelto dal menu a tendina uno fra quelli proposti ed adatti, ad es. comunicazione.
-Nel campo File allegato bisognerà cliccare su “scegli file” e poi selezionare dal pc il file in pdf di cui si richiede la pre-protocollazione
-Nel campo Notifica e-mail andrà effettuata la scelta “si” onde consentire al sistema di inviare automaticamente una e-mail al richiedente che lo aggiorni sullo stato di avanzamento della pratica. Il richiedente riceverà una prima e-mail in cui gli verrà comunicato che il pre-protocollatore ha finito il suo lavoro. Successivamente riceverà un’altra e-mail quando il Dirigente avrà firmato digitalmente il documento, ed in questa comunicazione ci sarà scritto il numero e la data di protocollo.
+
+Nel campo File allegato bisognerà cliccare su “scegli file” e poi selezionare dal pc il file in pdf di cui si richiede la pre-protocollazione.
+
+Nel campo Notifica e-mail andrà effettuata la scelta “si” onde consentire al sistema di inviare automaticamente una e-mail al richiedente che lo aggiorni sullo stato di avanzamento della pratica. 
+
+Il richiedente riceverà una prima e-mail in cui gli verrà comunicato che il pre-protocollatore ha finito il suo lavoro. 
+
+Successivamente riceverà un’altra e-mail quando il Dirigente avrà firmato digitalmente il documento, ed in questa comunicazione ci sarà scritto il numero e la data di protocollo.
 
 .. figure:: imgrel/7.PNG
    :alt:
@@ -71,7 +80,9 @@ Nel campo Notifica e-mail andrà effettuata la scelta “si” onde consentire a
 
 ↓
 
-→ Dopo aver dato un titolo all’allegato, scelta la tipologia, e selezionato il file dal pc da allegare, basterà cliccare sul pulsante “inserisci” e poi eventualmente su “nuovo” per procedere all’inserimento di un altro allegato. Al termine bisognerà nuovamente cliccare su “richieste” per tornare alla schermata precedente.
+→ Dopo aver dato un titolo all’allegato, scelta la tipologia, e selezionato il file dal pc da allegare, basterà cliccare sul pulsante “inserisci” e poi eventualmente su “nuovo” per procedere all’inserimento di un altro allegato. 
+
+Al termine bisognerà nuovamente cliccare su “richieste” per tornare alla schermata precedente.
 
 .. figure:: imgrel/10.PNG
    :alt:
@@ -85,7 +96,9 @@ Nel campo Notifica e-mail andrà effettuata la scelta “si” onde consentire a
 
 ↓
 
-→ A questo punto il richiedente avrà terminato per il momento il suo compito e resterà in attesa di ricevere la mail che lo avviserà che la sua richiesta è stata pre-protocollata. In quel momento si collegherà al Libro Firma per sottoporre il documento alla firma del Dirigente.
+→ A questo punto il richiedente avrà terminato per il momento il suo compito e resterà in attesa di ricevere la mail che lo avviserà che la sua richiesta è stata pre-protocollata. 
+
+In quel momento si collegherà al Libro Firma per sottoporre il documento alla firma del Dirigente.
 
 ↓
 
