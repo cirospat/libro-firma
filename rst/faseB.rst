@@ -62,11 +62,17 @@ Fase B. PRE-PROTOCOLLAZIONE
 ↓
 
 Nel campo Ufficio andrà inserito il codice relativo al proprio Ufficio di protocollo.
+
 Nel campo Registro verrà scelto il registro AREG.
+
 Nel campo Oggetto andrà riportato l’oggetto del documento, che si potrà evitare di digitare se lo si incollerà dopo averlo copiato dal documento in pdf che si deve trasmettere.
+
 Nei campi Classifica, Tipo e Descrizione classifica andranno riportati i dati che abitualmente classificano i vari documenti dell’Ufficio al protocollo dell’Amministrazione.
+
 Nel campo Tipo di riferimento andrà selezionata la voce “diretto”.
+
 Nel campo Modalità di Trasmissione verrà scelta la modalità corretta (si ricorda che in caso di trasmissione cartacea la copia che verrà consegnata al destinatario dovrà recare la dicitura “copia cartacea conforme all’originale informatico agli atti dell’ufficio”).
+
 Nel campo Tipo Allegato andrà scelta la voce appropriata ad es. Comunicazione.
 
 →	A questo punto è opportuno cliccare il pulsante Modifica per salvare i dati e passare alla schermata Destinatari
@@ -92,7 +98,9 @@ Nel campo Tipo Allegato andrà scelta la voce appropriata ad es. Comunicazione.
 
 ↓
 
-→	Infine dopo aver cliccato nuovamente su Richieste ed aver controllato che i campi fondamentali riportino al proprio fianco un OK si procederà all’Inoltra, trasmettendo il documento Alla Firma (Bozza). Sarà compito a questo punto del Richiedente iniziare la Fase C
+→	Infine dopo aver cliccato nuovamente su Richieste ed aver controllato che i campi fondamentali riportino al proprio fianco un OK si procederà all’Inoltra, trasmettendo il documento Alla Firma (Bozza). 
+
+Sarà compito a questo punto del Richiedente iniziare la Fase C
  
 .. figure:: imgrel/23.PNG
    :alt:
