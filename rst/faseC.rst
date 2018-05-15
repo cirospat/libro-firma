@@ -16,6 +16,7 @@ Fase C. PREDISPOSIZIONE ALLA FIRMA
 ↓
 
 →	Dopo aver inserito i dati corretti ed aver cliccato su “accedi” comparirà la seguente schermata.
+
 Poiché il documento pre-protocollato si trova nello stato di trasmesso alla firma (Bozza) sarà necessario cliccare su Vai alle Bozze
  
 .. figure:: imgrel/26.PNG
@@ -28,7 +29,7 @@ Poiché il documento pre-protocollato si trova nello stato di trasmesso alla fir
    :alt: 
 ↓
 
-→	Cliccando sul simbolo della penna sarà possibile accedere alla sezione Modifica che consentirà di predisporre il documento alla firma
+→	Cliccando sul simbolo della penna sarà possibile accedere alla sezione "Modifica" che consentirà di predisporre il documento alla firma
  
 .. figure:: imgrel/28.PNG
    :alt: 
@@ -65,7 +66,9 @@ Poiché il documento pre-protocollato si trova nello stato di trasmesso alla fir
    :alt: 
 ↓
 
-→	Sarà necessario ora selezionare dal menu a tendina la firma digitale. Questa operazione è fondamentale qualora si tratti di un solo dirigente a dover firmare l’atto: dimenticando infatti per errore la firma interna, non si otterrà un documento firmato digitalmente.
+→	Sarà necessario ora selezionare dal menu a tendina la firma digitale. 
+Questa operazione è fondamentale qualora si tratti di un solo dirigente a dover firmare l’atto: dimenticando infatti per errore la firma interna, non si otterrà un documento firmato digitalmente.
+
 La firma interna potrà essere utilizzata invece ad esempio nel caso in cui vi siano due Dirigenti a firmare l’atto e si voglia che uno dei due apponga quella interna e l’altro la digitale.
  
 .. figure:: imgrel/34.PNG
