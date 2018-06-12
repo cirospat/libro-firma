@@ -42,6 +42,8 @@ Fase A. RICHIESTA
 
 .. figure:: imgrel/6.PNG
    :alt:
+(questa schermata apparirà solo al primo inserimento di una nota. Le volte successive basterà cliccare sul pulsante "Nuovo").
+
 
 ↓
 
