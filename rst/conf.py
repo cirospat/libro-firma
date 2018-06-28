@@ -8,7 +8,7 @@ settings_copyright_name = ''
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
 settings_basename = 'PA'
-settings_file_name = 'index'
+settings_file_name = 'PA'
 
 
 import sys
