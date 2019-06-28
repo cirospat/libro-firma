@@ -2,9 +2,7 @@
 Manuale d'uso dell'applicativo 'Libro Firma-Protocollo' digitale in uso al Comune di Palermo
 *****
 
-.. note::
-    Versione 1.0
-    
+ 
 .. raw:: html
 
     <img src="https://img.shields.io/github/last-commit/cirospat/libro-firma.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />
