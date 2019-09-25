@@ -34,10 +34,12 @@ Il presente Documento vuole essere una breve guida per l’utente nella prima fa
 .. note::
     Manuale d'uso a cura di Sergio Schimicci (s.schimicci@comune.palermo.it). 
     
-    Progetto su Github per Read the Docs a cura di Sergio Schimicci e Ciro Spataro (c.spataro@comune.palermo.it). U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo.
+    Progetto su Github per "Read the Docs" a cura di Sergio Schimicci e Ciro Spataro (c.spataro@comune.palermo.it). U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo.
+    
+    Data di rilascio della versione 1.0 del manuale: marzo 2018 
    
 
-Data di rilascio della versione 1.0 del manuale d'uso: marzo 2018 
+
    
 ------------
 
