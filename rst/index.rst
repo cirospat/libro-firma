@@ -22,7 +22,7 @@ Manuale d'uso dell'applicativo 'Libro Firma-Protocollo' digitale in uso al Comun
 
 Il presente Documento vuole essere una breve guida per l’utente nella prima fase della complessa operazione di “passaggio al digitale” del `Comune di Palermo <https://www.comune.palermo.it/>`_, illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico mediante l’applicativo **LIBRO FIRMA-PROTOCOLLO**.
 
-**ATTENZIONE** **Il presente manuale non è più vigente ed è stato sostituito dal `Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0** <https://manuale-libro-firma-2-0.readthedocs.io>`_**!
+**ATTENZIONE** **Il presente manuale non è più vigente ed è stato sostituito dal `Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0** <https://manuale-libro-firma-2-0.readthedocs.io>`_!
 
 .. note::
     Manuale d'uso a cura di Sergio Schimicci (s.schimicci@comune.palermo.it). 
