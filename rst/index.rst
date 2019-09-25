@@ -8,6 +8,8 @@ Manuale d'uso dell'applicativo 'Libro Firma-Protocollo' digitale in uso al Comun
    <img src="https://img.shields.io/github/last-commit/cirospat/libro-firma.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />
     
    <img src="https://img.shields.io/badge/Versione_manuale-1.0-red.svg?style=popout&logo=GitHub&logoColor=orange" />
+   
+   <img src="https://img.shields.io/badge/Versione_manuale-non_piu_vigente-red.svg?style=popout&logo=GitHub&logoColor=red" />
 
 
 .. figure:: imgrel/comune.png
